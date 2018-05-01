@@ -1,0 +1,3 @@
+[submodule "themes/hugo-hackatheme"]
+	path = themes/hugo-hackatheme
+	url = https://github.com/open-network-infrastructure/hugo-hackatheme.git
