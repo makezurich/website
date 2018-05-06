@@ -1,0 +1,94 @@
+baseURL = "https://makezurich.ch/"
+title = "Make Zurich Vol. II"
+theme = "hugo-hackatheme"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+googleAnalytics = "UA-166167-5"
+enableMissingTranslationPlaceholders = false    # If you're adding a new translation languange, you might want to set the following to true
+
+[params]
+dateStart = 2018-06-22T18:00:00+02:00           # Required
+dateEnd = 2018-06-30T22:00:00+02:00             # Required
+dateForm = "January 2, 2006"                    # Required, defines date formatting style (see Hugo dateFormat)
+hashtag = "MakeZurich"
+
+[params.license]                                # Optional, but highly recommended
+name = "CC-BY-SA 4.0"
+url = "https://github.com/make-zurich/make-zurich.github.io/blob/master/LICENSE"
+
+[params.styling]
+backgroundHero = "/images/background.jpg"       # Required
+logoHero = "/images/logo-inv.png"               # Required
+logoNavbar = "/images/logo.svg"                 # Optional, leave empty to show no logo on navbar
+customCSS = "/css/styles.css"                   # Optional, remove/leave empty if you don't need custom styles
+themeColor = "#ffffff"                          # Optional
+
+# Venue description
+# Details are used to generate maps and schema.org meta-data
+[params.venue]
+name = "Kraftwerk"
+street = "Selnaustrasse 25"
+zipCode = "8001"
+city = "Zürich"
+state = "Zürich"
+country = "Switzerland"
+
+[params.venue.coords]
+latitude = 47.3722277
+longitude = 8.53221869999993
+
+
+# Organizers of the event: add as many as you need.
+[[params.organizers]]
+name = "Stadt Zürich"
+logo = "/images/logo-zurich.png"
+url = "https://www.stadt-zuerich.ch"
+
+[[params.organizers]]
+name = "Open Network Infrastructure Association"
+logo = "/images/logo-onia.png"
+url = "https://opennetworkinfrastructure.org"
+
+
+# Social links: add as many as you need.
+# Here's a list of the most popular fa-icons:
+# [fa-facebook-square, fa-twitter-square, fa-instagram, fa-google-plus-square, fa-linkedin-square, fa-tumblr-square, fa-github, fa-envelope]
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/makezurich"
+    text = "@makezurich"
+    icon = "fa-twitter-square"
+
+[[params.social]]
+	title = "github"
+	url = "https://github.com/make-zurich"
+    text = "github.com/make-zurich"
+    icon = "fa-github"
+
+[[params.social]]
+	title = "email"
+	url = "mailto:info@makezurich.ch"
+    text = "info@makezurich.ch"
+    icon = "fa-envelope"
+
+# SEO Options: all verification codes are optional
+[params.seo.verification]
+    google = ""
+    bing = ""
+    alexa = ""
+    yandex = ""
+
+
+[languages]
+[languages.en]
+weight = 1
+languageName = "English"
+
+[languages.de]
+weight = 2
+languageName = "Deutsch"
+
+
+# Hugo's Markdown rendering engine options
+[blackfriday]
+hrefTargetBlank = true
