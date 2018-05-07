@@ -113,3 +113,26 @@ languageName = "Deutsch"
 # Hugo's Markdown rendering engine options
 [blackfriday]
 hrefTargetBlank = true
+
+[[params.presskit]]
+name = "Logo"
+logo = "/identity/logo.png"
+download = "/identity/logo.zip"
+
+[[params.presskit]]
+name = "Logo Wide"
+logo = "/identity/logo-wide.png"
+download = "/identity/logo-wide.zip"
+
+[[params.presskit]]
+name = "Logo Monochrome"
+logo = "/identity/logo-monochrome.png"
+download = "/identity/logo-monochrome.zip"
+
+[[params.presskit]]
+name = "Logo Inverted"
+class = "black"
+classText = "white-text"
+logo = "/identity/logo-inverted.png"
+download = "/identity/logo-inverted.zip"
+
