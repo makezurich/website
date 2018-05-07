@@ -1,0 +1,29 @@
+[event_name]
+other = "Make Zürich Vol. II"
+
+[event_city]
+other = "Zürich"
+
+[event_slogan]
+other = """Civic Tech and LoRaWAN
+    <span class="typewriter-text-rotate" data-rotate='["Hackathon", "Hackdays", "Makerdays"]'>Hackathon</span>
+    for a better city
+"""
+
+[basicinfo_claim]
+other = "7 Challenges for a smarter city"
+
+[basicinfo_what_is_it]
+other = """We are bringing together the local hacker/maker
+community and the city administration to explore new ways
+of solving problems of [our city](https://www.stadt-zuerich.ch/)
+with the help of [open networks and civic tech](https://www.thethingsnetwork.org/)."""
+
+[basicinfo_when_where]
+other = """The challenges will be presented on June 22nd
+followed by a hackathon on **Friday 29th** & **Saturday 30th June, 2018**
+at **Kraftwerk**."""
+
+[basicinfo_organizers]
+other = """Make Zurich is a community event organized
+by Stadt Zürich and Open Network Infrastructure Association."""
