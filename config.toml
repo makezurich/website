@@ -50,30 +50,6 @@ name = "Open Network Infrastructure Association"
 logo = "/images/logo-onia.png"
 url = "https://opennetworkinfrastructure.org"
 
-# Add links to your design identity files
-# Logos in vectorial format, brand guidelines, etc
-[[params.presskit]]
-name = "Logo"
-logo = "/identity/logo.png"
-download = "/identity/logo.zip"
-
-[[params.presskit]]
-name = "Logo Wide"
-logo = "/identity/logo-wide.png"
-download = "/identity/logo-wide.zip"
-
-[[params.presskit]]
-name = "Logo Monochrome"
-logo = "/identity/logo-monochrome.png"
-download = "/identity/logo-monochrome.zip"
-
-[[params.presskit]]
-name = "Logo Inverted"
-class = "black"
-classText = "white-text"
-logo = "/identity/logo-inverted.png"
-download = "/identity/logo-inverted.zip"
-
 
 # Social links: add as many as you need.
 # Here's a list of the most popular fa-icons:
