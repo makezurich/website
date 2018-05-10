@@ -36,7 +36,7 @@ country = "Switzerland"
 
 [params.venue.coords]
 latitude = 47.3722277
-longitude = 8.53221869999993
+longitude = 8.53201869999993
 
 
 # Organizers of the event: add as many as you need.
