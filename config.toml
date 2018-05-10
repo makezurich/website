@@ -50,6 +50,40 @@ name = "Open Network Infrastructure Association"
 logo = "/images/logo-onia.png"
 url = "https://opennetworkinfrastructure.org"
 
+[[params.challenges]]
+image = "/images/challenges/tram.png"
+url = "/box/1"
+i18n = "vbz"
+
+[[params.challenges]]
+image = "/images/challenges/forest.png"
+url = "/box/2"
+i18n = "gsz"
+
+[[params.challenges]]
+image = "/images/challenges/bike.png"
+url = "/box/3"
+i18n = "velo"
+
+[[params.challenges]]
+image = "/images/challenges/city.png"
+url = "/box/4"
+i18n = "stez"
+
+[[params.challenges]]
+image = "/images/challenges/school.png"
+url = "/box/5"
+i18n = "ssd"
+
+[[params.challenges]]
+image = "/images/challenges/ewz.png"
+url = "/box/6"
+i18n = "ewz"
+
+[[params.challenges]]
+image = "/images/challenges/open.png"
+url = "/box/7"
+i18n = "open"
 
 # Social links: add as many as you need.
 # Here's a list of the most popular fa-icons:

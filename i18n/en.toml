@@ -27,3 +27,71 @@ at **Kraftwerk**."""
 [basicinfo_organizers]
 other = """Make Zurich is a community event organized
 by Stadt Zürich and Open Network Infrastructure Association."""
+
+[challenges_title]
+other = "Challenges"
+
+[challenges_intro]
+other = """We gathered **six real needs** of different departments of the City of Zurich that could be solved with LoRaWAN and civic tech.
+
+There will be as well an **open challenge**: if you don’t feel like building any of the other challenges, you
+are free to combine all available elements to create innovative solutions for the city!"""
+
+[challenge]
+other = "Challenge"
+
+[challenges_vbz_title]
+other = "Real Time Occupancy Rate"
+
+[challenges_gsz_title]
+other = "City Forest Visitors"
+
+[challenges_velo_title]
+other = "No bike left behind"
+
+[challenges_stez_title]
+other = "Conquering the last mile"
+
+[challenges_ssd_title]
+other = "Teacher's calling"
+
+[challenges_ewz_title]
+other = "Distribution Grid Power Failure"
+
+[challenges_open_title]
+other = "Open Challenge"
+
+[challenges_vbz_description]
+other = """Discover ways to use technology to measure and understand occupancy rate of the public transport vehicles in real time.
+
+Provided by VBZ"""
+
+[challenges_gsz_description]
+other = """All year round, the forests of the city of Zurich receive thousands of visitors. How can we assess and quantify them easily and efficiently?
+
+Provided by Grün Stadt Zürich"""
+
+[challenges_velo_description]
+other = """How can we track and recover abandoned bikes from the stationary sharing system of **Züri Velo**?
+
+Provided by PubliBike & Züri Velo"""
+
+[challenges_stez_description]
+other = """Optimizing last-mile logistics is a fundamental topic for a smarter city. How can we measure and visualize deliveries within the boundaries of the city?
+
+Provided by Stadtentwicklung Zürich"""
+
+[challenges_ssd_description]
+other = """Explore ways to increase safety in our schools in case of emergency or evacuation with the use of technology.
+
+Provided by Schul- und Sportdepartement"""
+
+[challenges_ewz_description]
+other = """How can we improve the detection of power failures in the low voltage network for a more efficient city?
+
+Provided by EWZ"""
+
+[challenges_open_description]
+other = """If none of the challenges fits you, you are free to combine all available elements and develop your own challenge and ideas!
+
+Provided by you!"""
