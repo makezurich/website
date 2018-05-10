@@ -33,6 +33,9 @@ zipCode = "8001"
 city = "Zürich"
 state = "Zürich"
 country = "Switzerland"
+mapboxPublicToken = "pk.eyJ1IjoiZ29uemFsb2Nhc2FzIiwiYSI6ImNpa2JnMDI2cDAwMzR3bGx2eXkyZDh4a3QifQ.sgne64JeXpvQee49WW1oTA"
+mapboxStyle = "emerald"
+mapboxZoom = 16
 
 [params.venue.coords]
 latitude = 47.3722277
