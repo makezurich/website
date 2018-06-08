@@ -9,10 +9,12 @@
 install:
   - sudo dpkg -i $(curl -w "%{filename_effective}" -LO $(curl -s https://api.github.com/repos/gohugoio/hugo/releases | grep browser_download_url | grep '64bit[.]deb' | head -n 1 | cut -d '"' -f 4))
   - rm -rf public || exit 0
+  - mkdir -p bin && curl "%{filename_effective}" -LO $(curl -s https://api.github.com/repos/tdewolff/minify/releases | grep browser_download_url | grep 'linux_amd64[.]tar[.]gz' | head -n 1 | cut -d '"' -f 4) | tar xz -C bin
 
 # Build the website
 script:
   - hugo
+  - ./bin/minify --all -r  -o ./public ./public
 
 # Deploy to GitHub pages
 deploy:

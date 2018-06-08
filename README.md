@@ -9,7 +9,7 @@
 
 ## Run locally
 
-  $ hugo server
+    $ hugo server
 
 ## Deploying
 
