@@ -1,0 +1,28 @@
+# Install the apt prerequisites
+# (NOT NEEDED ANYMORE SINCE CHROMA?)
+# addons:
+#   apt:
+#     packages:
+#       - python-pygments
+
+# Clean and don't fail
+install:
+  - sudo dpkg -i $(curl -w "%{filename_effective}" -LO $(curl -s https://api.github.com/repos/gohugoio/hugo/releases | grep browser_download_url | grep '64bit[.]deb' | head -n 1 | cut -d '"' -f 4))
+  - rm -rf public || exit 0
+
+# Build the website
+script:
+  - hugo
+
+# Deploy to GitHub pages
+deploy:
+  provider: pages
+  repo: make-zurich/make-zurich.github.io
+  name: Lord Hackautomaton of Continuitia
+  target-branch: master
+  skip_cleanup: true
+  keep-history: true
+  github_token: $GITHUB_TOKEN
+  local_dir: public
+  on:
+    branch: master
