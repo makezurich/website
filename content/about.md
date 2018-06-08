@@ -2,6 +2,7 @@
 title = "FAQ"
 weight = 1
 type = "info"
+aliases = ["/faq"]
 
 [menu.main]
   name = "What is it?"
