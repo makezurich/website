@@ -26,7 +26,7 @@
                     <td class="w-25">
                       {{- with .Site.Params.venue }}
                         {{- with .coords }}
-                          <a href="https://www.openstreetmap.org/#map={{ .mapboxzoom }}/{{ .latitude }}/{{ .longitude }}" target="_blank">
+                          <a href="https://www.openstreetmap.org/#map=16/{{ .latitude }}/{{ .longitude }}" target="_blank">
                         {{ end }}
                         <b>{{ .street }}<br/>{{ .zipcode }} {{ .city }}</b>
                         <i class="fa fa-map-marker"></i>
@@ -90,7 +90,7 @@
                     <th></th>
                     <th class="w-50">MechArtLab</th>
                     <td class="w-25">
-                      <a href="https://www.openstreetmap.org/#map={{ .mapboxzoom }}/47.3778108/8.5256834" target="_blank">
+                      <a href="https://www.openstreetmap.org/#map=16/47.3778108/8.5256834" target="_blank">
                         <b>Hohlstrasse 52
                           <br/> 8004 Zürich</b>
                         <i class="fa fa-map-marker"></i>
@@ -135,7 +135,7 @@
                     <td class="w-25">
                       {{- with .Site.Params.venue }}
                         {{- with .coords }}
-                          <a href="https://www.openstreetmap.org/#map={{ .mapboxzoom }}/{{ .latitude }}/{{ .longitude }}" target="_blank">
+                          <a href="https://www.openstreetmap.org/#map=16/{{ .latitude }}/{{ .longitude }}" target="_blank">
                         {{ end }}
                         <b>{{ .street }}<br/>{{ .zipcode }} {{ .city }}</b>
                         <i class="fa fa-map-marker"></i>
