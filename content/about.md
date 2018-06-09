@@ -66,8 +66,7 @@ suitable for the challenges.
 Bring your laptop and your ideas on how to improve your city!
 
 Feel free to bring your own hardware (microcontroller, sensors, etc), designs, enclosures,
-or whatever to help you create a solution for a challenge. The hardware provided is mostly
-`3v3` in case you want to prepare something upfront.
+or whatever to help you create a solution for a challenge. The development board provided is `The Things UNO`, which has an operating voltage of `5V`, in case you want to prepare something upfront.
 
 #### Where can I get in touch with other participants?
 
