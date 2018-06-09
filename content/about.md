@@ -59,14 +59,16 @@ suitable for the challenges.
 
 #### Do we get to keep the provided hardware?
 
-**Yes**.
+**Yes** \o/.
 
 #### What should I bring to the event?
 
 Bring your laptop and your ideas on how to improve your city!
 
 Feel free to bring your own hardware (microcontroller, sensors, etc), designs, enclosures,
-or whatever to help you create a solution for a challenge. The development board provided is `The Things UNO`, which has an operating voltage of `5V`, in case you want to prepare something upfront.
+or whatever to help you create a solution for a challenge.
+
+The development board provided is `The Things UNO`, which has an operating voltage of `5V`, in case you want to prepare something upfront.
 
 #### Where can I get in touch with other participants?
 
@@ -75,8 +77,7 @@ A large part of communication during the event will happen there!
 
 #### How do I get to the location?
 
-We recommend to use public transport to get to the event. The location is a
-few steps away from train, tram and bus stations.
+We recommend to use public transport to get to the event. The location ([Kraftwerk](http://www.kraftwerk.host/)) is a few steps away from train, tram and bus stations.
 
 #### Is there a code of conduct?
 
