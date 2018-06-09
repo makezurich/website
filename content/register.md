@@ -4,6 +4,7 @@ weight = 2
 type = "info"
 layout = "register"
 
+[menu.footer]
 [menu.hero]
   pre = "event-primary-color"
   post = "fa-sign-in"
