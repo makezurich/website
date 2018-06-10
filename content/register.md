@@ -3,6 +3,7 @@ title = "Register"
 weight = 2
 type = "info"
 layout = "register"
+aliases = ["/sign-up"]
 
 [menu.footer]
 [menu.hero]
