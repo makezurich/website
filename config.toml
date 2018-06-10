@@ -113,6 +113,10 @@ photo = "/images/team/dirk.png"
 name = "Tillo Bosshart"
 photo = "/images/team/tillo.png"
 
+[[params.team.members]]
+name = "Robert Fey"
+photo = "/images/team/robert.png"
+
 # Missing pictures:
 # [ ] Baxter Yazbek
 # [ ] Afsoon Ebrahimi
@@ -120,7 +124,6 @@ photo = "/images/team/tillo.png"
 # [ ] Thomas Amberg
 # [ ] Benjamin Marty
 # [ ] Oliver Walkhoff
-# [ ] Robert Fey
 # [ ] Filippo Broggini
 # [ ] Benno Seiler
 
