@@ -57,6 +57,74 @@ name = "Open Network Infrastructure Association"
 logo = "/images/logo-onia.png"
 url = "https://opennetworkinfrastructure.org"
 
+# Team
+[params.team]
+order = "random"                                # Optional, to maintain the ordering as specified, remove or set to "fixed"
+
+[[params.team.members]]
+name = "Gonzalo Casas"
+photo = "/images/team/gnz.png"
+
+[[params.team.members]]
+name = "Christina Rieder"
+photo = "/images/team/christina.png"
+
+[[params.team.members]]
+name = "Urs Marti"
+photo = "/images/team/urs.png"
+
+[[params.team.members]]
+name = "Reto Wick"
+photo = "/images/team/reto.png"
+
+[[params.team.members]]
+name = "Marcus Cathomen"
+photo = "/images/team/marcus.png"
+
+[[params.team.members]]
+name = "Muriel Buri"
+photo = "/images/team/muriel.png"
+
+[[params.team.members]]
+name = "Simon Maurer"
+photo = "/images/team/simon.png"
+
+[[params.team.members]]
+name = "Alexandra Collm"
+photo = "/images/team/alexandra.png"
+
+[[params.team.members]]
+name = "Marco Sieber"
+photo = "/images/team/marco.png"
+
+[[params.team.members]]
+name = "Michel Racic"
+photo = "/images/team/michel.png"
+
+[[params.team.members]]
+name = "Oleg Lavrovsky"
+photo = "/images/team/oleg.png"
+
+[[params.team.members]]
+name = "Dirk Zugenmaier"
+photo = "/images/team/dirk.png"
+
+[[params.team.members]]
+name = "Tillo Bosshart"
+photo = "/images/team/tillo.png"
+
+# Missing pictures:
+# [ ] Baxter Yazbek
+# [ ] Afsoon Ebrahimi
+# [ ] Lukas Limacher
+# [ ] Thomas Amberg
+# [ ] Benjamin Marty
+# [ ] Oliver Walkhoff
+# [ ] Adrian Wahl
+# [ ] Robert Fey
+# [ ] Filippo Broggini
+# [ ] Benno Seiler
+
 # Sponsors of the event
 [[params.partners.sponsors]]
 name = "Stadt Zurich"

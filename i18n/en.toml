@@ -95,3 +95,7 @@ Provided by EWZ"""
 other = """If none of the challenges fits you, you are free to combine all available elements and develop your own challenge and ideas!
 
 Provided by you!"""
+
+
+[team_description]
+other = """Make Zurich is possible thanks to the contribution of an amazing team of individuals:"""
