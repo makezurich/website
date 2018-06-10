@@ -221,6 +221,13 @@ logo = "/images/partners/logo-rockstar.png"
 url = "http://www.rockstar.jobs/"
 class = "my-3 w-50"
 
+[[params.partners.sponsors]]
+name = "R²prototyping GmbH"
+logo = "/images/partners/logo-r2.png"
+url = "http://www.r2prototyping.ch/"
+class = "my-3 w-50"
+
+
 # Community partners of the event
 [[params.partners.community]]
 name = "The Things Network"
