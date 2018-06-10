@@ -222,7 +222,7 @@ url = "http://www.rockstar.jobs/"
 class = "my-3 w-50"
 
 [[params.partners.sponsors]]
-name = "R²prototyping GmbH"
+name = "R²prototyping"
 logo = "/images/partners/logo-r2.png"
 url = "http://www.r2prototyping.ch/"
 class = "my-3 w-50"
