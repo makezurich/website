@@ -13,10 +13,16 @@ other = """Civic Tech und LoRaWAN
 [basicinfo_claim]
 other = "7 Challenges für ein besseres Zürich"
 
+[basicinfo_what_is_it_title]
+other = "Worum geht's?"
+
 [basicinfo_what_is_it]
 other = """Wir bringen die lokale Maker-Community und die Stadtverwaltung
 zusammen und erforschen mit Hilfe von [offenen Netzwerken und Civic Tech](https://www.thethingsnetwork.org/)
 neue Herangehensweisen für die Herausforderungen in [unserer Stadt](https://www.stadt-zuerich.ch)."""
+
+[basicinfo_when_where_title]
+other = "Wann und Wo?"
 
 [challenges_title]
 other = "Challenges"
@@ -26,3 +32,9 @@ other = """Wir haben **sechs echte Bed&uuml;rfnisse** verschiedener Dienstabteil
 
 Es wird auch eine **offene Challenge** geben: wenn Dir nicht danach ist, an einer der vorgeschlagenen Challenges mitzuwirken, bist Du v&ouml;llig
 frei mit den verf&uuml;gbaren Elementen eigene L&ouml;sungen zu realisieren."""
+
+[sponsors-partners]
+other = "Sponsoren und Partner"
+
+[community-partners]
+other = "Community-Partner"
