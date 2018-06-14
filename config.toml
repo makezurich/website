@@ -129,8 +129,11 @@ photo = "/images/team/afsoon.png"
 name = "Thomas Amberg"
 photo = "/images/team/thomas.png"
 
+[[params.team.members]]
+name = "Lukas Limacher"
+photo = "/images/team/lukas.png"
+
 # Missing pictures:
-# [ ] Lukas Limacher
 # [ ] Benjamin Marty
 # [ ] Oliver Walkhoff
 # [ ] Filippo Broggini
