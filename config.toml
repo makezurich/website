@@ -171,6 +171,12 @@ url = "https://www.hivemind.ch"
 class = "w-50"
 
 [[params.partners.sponsors]]
+name = "Miromico GmbH"
+logo = "/images/partners/logo-miromico.png"
+url = "http://www.miromico.ch/"
+class = "my-1 w-50"
+
+[[params.partners.sponsors]]
 name = "Nine"
 logo = "/images/partners/logo-nine.png"
 url = "https://www.nine.ch"
@@ -199,12 +205,6 @@ name = "Adnexo GmbH"
 logo = "/images/partners/logo-adnexo.png"
 url = "https://www.adnexo.ch/"
 class = "my-4 w-50"
-
-[[params.partners.sponsors]]
-name = "Miromico GmbH"
-logo = "/images/partners/logo-miromico.png"
-url = "http://www.miromico.ch/"
-class = "my-1 w-50"
 
 [[params.partners.sponsors]]
 name = "Decentlab"
