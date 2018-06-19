@@ -133,11 +133,13 @@ photo = "/images/team/thomas.png"
 name = "Lukas Limacher"
 photo = "/images/team/lukas.png"
 
+[[params.team.members]]
+name = "Benno Seiler"
+photo = "/images/team/benno.png"
+
 # Missing pictures:
 # [ ] Benjamin Marty
 # [ ] Oliver Walkhoff
-# [ ] Filippo Broggini
-# [ ] Benno Seiler
 
 # Sponsors of the event
 [[params.partners.sponsors]]
