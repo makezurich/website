@@ -6,12 +6,7 @@ layout = "register"
 aliases = ["/sign-up"]
 
 [menu.footer]
-[menu.hero]
   pre = "event-primary-color"
-  post = "fa-sign-in"
-
-[menu.highlighted]
-  pre = "btn-black"
   post = "fa-sign-in"
 +++
 
