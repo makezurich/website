@@ -281,6 +281,11 @@ logo = "/images/partners/logo-wtm.png"
 url = "https://www.meetup.com/wtm-switzerland/"
 class = "my-3 w-25"
 
+[[params.partners.community]]
+name = "SWITCH.CH"
+logo = "/images/partners/logo-switch.png"
+url = "https://www.switch.ch/"
+class = "my-4 w-50"
 
 # Challenges: add heading images, url and key
 # and then add localizations according that key
