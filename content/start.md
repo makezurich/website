@@ -5,13 +5,6 @@ type = "info"
 aliases = ["/kick-off", "/de/start"]
 
 [menu.footer]
-[menu.hero]
-  pre = "event-primary-color"
-  post = "fa-sign-in"
-
-[menu.highlighted]
-  pre = "btn-black"
-  post = "fa-sign-in"
 
 +++
 

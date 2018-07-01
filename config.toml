@@ -367,6 +367,23 @@ languageName = "English"
     url = "/#venue"
     weight = 3
 
+[[languages.en.menu.main]]
+    name = "Projects"
+    url = "https://now.makezurich.ch/event/3"
+    weight = 4
+
+[[languages.en.menu.footer]]
+    name = "Projects"
+    url = "https://now.makezurich.ch/event/3"
+    weight = 5
+
+[[languages.en.menu.hero]]
+    name = "Projects"
+    url = "https://now.makezurich.ch/event/3"
+    # weight = 4
+    pre = "event-primary-color"
+    post = "fa-sign-in"
+
 [languages.de]
 weight = 2
 languageName = "Deutsch"
@@ -381,24 +398,40 @@ languageName = "Deutsch"
     url = "/#venue"
     weight = 3
 
+[[languages.de.menu.main]]
+    name = "Projekte"
+    url = "https://now.makezurich.ch/event/3"
+    weight = 4
+
 [[languages.de.menu.footer]]
     name = "Getting started"
     url = "/de/start"
     weight = 4
 
+[[languages.de.menu.footer]]
+    name = "Projekte"
+    url = "https://now.makezurich.ch/event/3"
+    weight = 5
+
 [[languages.de.menu.hero]]
-    name = "Getting started"
-    url = "/de/start"
-    weight = 4
+    name = "Projekte"
+    url = "https://now.makezurich.ch/event/3"
     pre = "event-primary-color"
     post = "fa-sign-in"
 
-[[languages.de.menu.highlighted]]
-    name = "Getting started"
-    url = "/de/start"
-    weight = 4
-    pre = "btn-black"
-    post = "fa-sign-in"
+# [[languages.de.menu.hero]]
+#     name = "Getting started"
+#     url = "/de/start"
+#     weight = 4
+#     pre = "event-primary-color"
+#     post = "fa-sign-in"
+
+# [[languages.de.menu.highlighted]]
+#     name = "Getting started"
+#     url = "/de/start"
+#     weight = 4
+#     pre = "btn-black"
+#     post = "fa-sign-in"
 
 
 # Hugo's Markdown rendering engine options
