@@ -381,6 +381,24 @@ languageName = "Deutsch"
     url = "/#venue"
     weight = 3
 
+[[languages.de.menu.footer]]
+    name = "Getting started"
+    url = "/de/start"
+    weight = 4
+
+[[languages.de.menu.hero]]
+    name = "Getting started"
+    url = "/de/start"
+    weight = 4
+    pre = "event-primary-color"
+    post = "fa-sign-in"
+
+[[languages.de.menu.highlighted]]
+    name = "Getting started"
+    url = "/de/start"
+    weight = 4
+    pre = "btn-black"
+    post = "fa-sign-in"
 
 
 # Hugo's Markdown rendering engine options

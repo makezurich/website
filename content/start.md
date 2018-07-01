@@ -1,8 +1,8 @@
 +++
 title = "Getting started"
-weight = 3
+weight = 4
 type = "info"
-aliases = ["/kick-off"]
+aliases = ["/kick-off", "/de/start"]
 
 [menu.footer]
 [menu.hero]
