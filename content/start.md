@@ -2,7 +2,7 @@
 title = "Getting started"
 weight = 4
 type = "info"
-aliases = ["/kick-off", "/de/start"]
+aliases = ["/kick-off", "/de/start", "/2018/start"]
 
 [menu.footer]
 
