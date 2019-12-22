@@ -22,7 +22,7 @@ logoHero = "/images/logo-inv.png"                   # Required
 logoNavbar = "/images/logo.svg"                     # Optional, leave empty to show no logo on navbar
 externalImage = "/images/externals/event-cover.png" # Optional, used for sharing meta data
 themeColor = "#ffffff"                              # Optional
-# customCSS = "/css/styles.css"                     # Optional, remove/leave empty if you don't need custom styles
+customCSS = "/css/styles.css"                       # Optional, remove/leave empty if you don't need custom styles
 
 # Venue description
 # Details are used to generate maps and schema.org meta-data
@@ -92,8 +92,8 @@ photo = "/images/team/tillo.png"
 # Sponsors of the event
 [[params.partners.sponsors]]
 name = "Stadt Zurich"
-logo = "/images/partners/logo-odz.png"
-url = "https://stadt-zuerich.ch/opendata"
+logo = "/images/partners/logo-stez.png"
+url = "https://www.stadt-zuerich.ch/prd/de/index/stadtentwicklung.html"
 class = "my-2 w-50"
 
 [[params.partners.sponsors]]
@@ -115,76 +115,17 @@ url = "https://www.sensirion.com/en/"
 class = "my-3 w-50"
 
 [[params.partners.sponsors]]
-name = "Hivemind AG"
-logo = "/images/partners/logo-hivemind.png"
-url = "https://www.hivemind.ch"
-class = "w-50"
-
-[[params.partners.sponsors]]
 name = "Miromico GmbH"
 logo = "/images/partners/logo-miromico.png"
 url = "http://www.miromico.ch/"
 class = "my-1 w-50"
 
 [[params.partners.sponsors]]
-name = "Nine"
-logo = "/images/partners/logo-nine.png"
-url = "https://www.nine.ch"
-class = "w-50"
+name = "swissdevjobs.ch"
+logo = "/images/partners/logo-swissdevjobs.png"
+url = "http://www.swissdevjobs.ch/"
+class = "my-1 w-50"
 
-[[params.partners.sponsors]]
-name = "Avelon"
-logo = "/images/partners/logo-avelon.png"
-url = "https://avelon.ch"
-class = "my-4 w-50"
-
-[[params.partners.sponsors]]
-name = "Axa Winterthur"
-logo = "/images/partners/logo-axa.png"
-url = "https://www.axa.ch"
-class = "my-2 w-25"
-
-[[params.partners.sponsors]]
-name = "Pi-Shop.ch"
-logo = "/images/partners/logo-pi-shop.png"
-url = "https://www.pi-shop.ch/"
-class = "my-4 w-50"
-
-[[params.partners.sponsors]]
-name = "Adnexo GmbH"
-logo = "/images/partners/logo-adnexo.png"
-url = "https://www.adnexo.ch/"
-class = "my-4 w-50"
-
-[[params.partners.sponsors]]
-name = "Decentlab"
-logo = "/images/partners/logo-decentlab.png"
-url = "https://www.decentlab.com/"
-class = "my-4 w-50"
-
-[[params.partners.sponsors]]
-name = "SWITCH.CH"
-logo = "/images/partners/logo-switch.png"
-url = "https://www.switch.ch/"
-class = "my-4 w-50"
-
-[[params.partners.sponsors]]
-name = "Rockstar"
-logo = "/images/partners/logo-rockstar.png"
-url = "http://www.rockstar.jobs/"
-class = "my-3 w-50"
-
-[[params.partners.sponsors]]
-name = "R²prototyping"
-logo = "/images/partners/logo-r2.png"
-url = "http://www.r2prototyping.ch/"
-class = "my-3 w-50"
-
-[[params.partners.sponsors]]
-name = "TEIL3"
-logo = "/images/partners/logo-teil3.png"
-url = "https://www.teil3.ch/"
-class = "w-50"
 
 # Community partners of the event
 [[params.partners.community]]
@@ -211,29 +152,29 @@ logo = "/images/partners/logo-sgmk.png"
 url = "https://www.mechatronicart.ch/"
 class = "my-2 h-50"
 
-[[params.partners.community]]
-name = "Women++"
-logo = "/images/partners/logo-womenplusplus.png"
-url = "https://www.womenplusplus.ch/"
-class = "my-3 w-50"
+# [[params.partners.community]]
+# name = "Women++"
+# logo = "/images/partners/logo-womenplusplus.png"
+# url = "https://www.womenplusplus.ch/"
+# class = "my-3 w-50"
 
-[[params.partners.community]]
-name = "GDG Zurich"
-logo = "/images/partners/logo-gdg.png"
-url = "http://www.gdgzh.ch/"
-class = "my-3 w-50"
+# [[params.partners.community]]
+# name = "GDG Zurich"
+# logo = "/images/partners/logo-gdg.png"
+# url = "http://www.gdgzh.ch/"
+# class = "my-3 w-50"
 
-[[params.partners.community]]
-name = "Women Techmakers Switzerland"
-logo = "/images/partners/logo-wtm.png"
-url = "https://www.meetup.com/wtm-switzerland/"
-class = "my-3 w-25"
+# [[params.partners.community]]
+# name = "Women Techmakers Switzerland"
+# logo = "/images/partners/logo-wtm.png"
+# url = "https://www.meetup.com/wtm-switzerland/"
+# class = "my-3 w-25"
 
-[[params.partners.community]]
-name = "SWITCH.CH"
-logo = "/images/partners/logo-switch.png"
-url = "https://www.switch.ch/"
-class = "my-4 w-50"
+# [[params.partners.community]]
+# name = "SWITCH.CH"
+# logo = "/images/partners/logo-switch.png"
+# url = "https://www.switch.ch/"
+# class = "my-4 w-50"
 
 # Challenges: add heading images, url and key
 # and then add localizations according that key
