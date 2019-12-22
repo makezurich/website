@@ -3,7 +3,7 @@ title = "Make Zurich 2020"
 theme = "hugo-hackatheme"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-disableLanguages = ["de"]
+# disableLanguages = ["de"]
 enableMissingTranslationPlaceholders = false    # If you're adding a new translation languange, you might want to set the following to true
 
 [params]
@@ -117,13 +117,13 @@ class = "my-3 w-50"
 [[params.partners.sponsors]]
 name = "Miromico GmbH"
 logo = "/images/partners/logo-miromico.png"
-url = "http://www.miromico.ch/"
+url = "https://miromico.ch/"
 class = "my-1 w-50"
 
 [[params.partners.sponsors]]
 name = "swissdevjobs.ch"
 logo = "/images/partners/logo-swissdevjobs.png"
-url = "http://www.swissdevjobs.ch/"
+url = "https://swissdevjobs.ch/jobs/All/Zurich"
 class = "my-1 w-50"
 
 
