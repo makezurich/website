@@ -1,0 +1,56 @@
++++
+title = "Archiv 2018"
+weight = 15
+type = "info"
+
+[menu.footer]
+
++++
+
+In the warm summer of 2018, between June 22nd and 30th, a large crowd of makers, hackers, designers and like-minded folks gathered at Kraftwerk to take part in Make Zurich Vol. II: the second edition of the community-organized civic hackathon.
+
+<!--more-->
+
+## 56 participants, 13 projects
+
+Once again, the event was organized by the **Open Network Infrastructure Association** in cooperation with the **City of Zürich** with the goal of bringing together the maker community and the city administration to explore new solutions that improve life in the city.
+
+The event attracted around 56 participants from different fields that got together for a week-long co-creation session hosted at Kraftwerk and MechArtLab.
+
+## 3 pillars of co-creation
+
+The driving guidelines of the event can be summarized in 3 fundamental pillars:
+
+* **Openness**: A strong focus is always placed on ensuring digital sustainability by opening up almost everything about the event, from the website itself, the software and hardware used by the participants, open data used as input, as well as suggesting that participants open source their own work under a recognized open source license.
+
+* **Respect**: The motto of the event has always been *"Be excellent to each other"*.
+
+* **Bottom-up**: The fundamental idea is that innovation thrives in a bottom-up, grassroots way, exemplified by the successful deployment of the **The Things Network** LoRaWAN network in Switzerland and worldwide.
+
+## Challenges & Projects
+
+Make Zurich Vol. II had 7 challenges to choose from:
+
+* <span class="btn btn-sm purple darken-4"><a href="box/1" class="white-text">Real Time Occupancy Rate</a></span><br/>
+* <span class="btn btn-sm purple darken-4"><a href="box/2" class="white-text">City Forest Visitors</a></span><br/>
+* <span class="btn btn-sm purple darken-4"><a href="box/3" class="white-text">No Bike Left Behind</a></span><br/>
+* <span class="btn btn-sm purple darken-4"><a href="box/4" class="white-text">Conquering The Last Mile</a></span><br/>
+* <span class="btn btn-sm purple darken-4"><a href="box/5" class="white-text">Teacher's Calling</a></span><br/>
+* <span class="btn btn-sm purple darken-4"><a href="box/6" class="white-text">Distribution Grid Power Failure</a></span><br/>
+* <span class="btn btn-sm purple darken-4"><a href="box/7" class="white-text">Open Challenge</a></span><br/>
+
+Check out the project dashboard, listing all 13 different solutions proposed by the participants.
+This project dashboard is based on the fantastic [Dribdat platform](https://datalets.ch/dribdat/)
+for open hackathons, by [Oleg Lavrovsky](https://blog.datalets.ch/author/oleg/).
+
+<a href="https://now.makezurich.ch/event/3">
+  <button type="button" class="btn event-primary-color m-0 waves-effect waves-light" >
+      Open project dashboard of Make Zurich Vol. II <i class="fa fa-code ml-2"></i>
+  </button>
+</a>
+
+<a href="https://docs.google.com/presentation/d/1fXI5CKWvhOAN5mPgH-V5mJNJbjLmShOoPy4aEuhsOJg/present?usp=sharing">
+  <button type="button" class="btn event-primary-color m-0 waves-effect waves-light" >
+      Final presentation Slides<i class="fa fa-desktop ml-2"></i>
+  </button>
+</a>
