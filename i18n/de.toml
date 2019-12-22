@@ -5,13 +5,12 @@ other = "Make Zürich 2020"
 other = "Zürich"
 
 [event_slogan]
-other = """Civic Tech und LoRaWAN
-    <span class="typewriter-text-rotate" data-rotate='["Hackathon", "Hackdays", "Makerdays"]'>Hackathon</span>
+other = """Civic Tech <span class="typewriter-text-rotate" data-rotate='["Hackathon", "Makerdays"]'>Hackathon</span>
     für ein besseres Zürich
 """
 
 [basicinfo_claim]
-other = "7 Challenges für ein besseres Zürich"
+other = "Hackathon für ein besseres Zürich"
 
 [basicinfo_what_is_it_title]
 other = "Worum geht's?"
