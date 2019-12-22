@@ -3,7 +3,7 @@ title = "Make Zurich Vol. II"
 theme = "hugo-hackatheme"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-# disableLanguages = ["de"]
+disableLanguages = ["de"]
 googleAnalytics = "UA-166167-5"                 # Change this to invalid on the exampleSite
 enableMissingTranslationPlaceholders = false    # If you're adding a new translation languange, you might want to set the following to true
 
