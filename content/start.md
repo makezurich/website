@@ -30,11 +30,11 @@ Find out more about each challenge and the content of the hardware kit here:
 
 Then, decide if want to:
 
-<a href="https://now.makezurich.ch/event/3/project/new" target="_blank">
+<a href="https://now.makezurich.ch/event/4/project/new" target="_blank">
   <button type="button" class="btn event-primary-color m-0 waves-effect waves-light" >
       Start a project <i class="fa fa-flag-checkered ml-2"></i>
   </button>
-</a> or [join an existing project](https://now.makezurich.ch/event/3)
+</a> or [join an existing project](https://now.makezurich.ch/event/4)
 
 And also...
 

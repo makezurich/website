@@ -14,15 +14,15 @@ other = """Civic Tech and LoRaWAN
 other = "7 Challenges for a smarter city"
 
 [basicinfo_what_is_it]
-other = """We are bringing together the local hacker/maker
-community and the city administration to explore new ways
-of solving problems of [our city](https://www.stadt-zuerich.ch/)
+other = """We are bringing together the local maker
+community and the city administration to explore new solutions
+that improve life in [the city](https://www.stadt-zuerich.ch/)
 with the help of [open networks and civic tech](https://www.thethingsnetwork.org/)."""
 
 [basicinfo_when_where]
-other = """The challenges will be presented on June 22nd
-followed by a hackathon on **Friday 29th** & **Saturday 30th June, 2018**
-at **Kraftwerk**."""
+other = """The challenges will be presented on March 20th
+followed by a hackathon on **Friday 27th** & **Saturday 28th March, 2020**
+at **Impact Hub Viadukt, Bogen D**."""
 
 [basicinfo_organizers]
 other = """Make Zurich is a community event organized

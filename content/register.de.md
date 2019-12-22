@@ -10,7 +10,7 @@ aliases = ["/de/sign-up"]
   post = "fa-sign-in"
 +++
 
-Bist Du bereit, gemeinsam mit anderen Teilnehmenden an kreativen Lösungen für die Herausforderungen unserer Stadt zu arbeiten? Melde dich noch heute an und werde Teil von **Make Zurich Vol. II**!
+Bist Du bereit, gemeinsam mit anderen Teilnehmenden an kreativen Lösungen für die Herausforderungen unserer Stadt zu arbeiten? Melde dich noch heute an und werde Teil von **Make Zurich 2020**!
 
 *Das erste Mal bei einem Hackathon? Keine Sorge! Alle sind willkommen! [Siehe dazu  unsere FAQ](/de/about)*
 

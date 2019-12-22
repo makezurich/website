@@ -1,5 +1,5 @@
 baseURL = "https://makezurich.ch/"
-title = "Make Zurich Vol. II"
+title = "Make Zurich 2020"
 theme = "hugo-hackatheme"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -7,8 +7,8 @@ disableLanguages = ["de"]
 enableMissingTranslationPlaceholders = false    # If you're adding a new translation languange, you might want to set the following to true
 
 [params]
-dateStart = 2018-06-22T18:00:00+02:00           # Required
-dateEnd = 2018-06-30T22:00:00+02:00             # Required
+dateStart = 2020-03-20T18:00:00+02:00           # Required
+dateEnd = 2020-03-28T22:00:00+02:00             # Required
 dateForm = "January 2, 2006"                    # Required, defines date formatting style (see Hugo dateFormat)
 hashtag = "MakeZurich"
 
@@ -27,23 +27,23 @@ themeColor = "#ffffff"                              # Optional
 # Venue description
 # Details are used to generate maps and schema.org meta-data
 [params.venue]
-name = "Kraftwerk"
-street = "Selnaustrasse 25"
-zipCode = "8001"
+name = "Impact Hub Viadukt Bogen D"
+street = "Viaduktstrasse 93"
+zipCode = "8005"
 city = "Zürich"
 state = "Zürich"
 country = "Switzerland"
 mapboxPublicToken = "pk.eyJ1IjoiZ29uemFsb2Nhc2FzIiwiYSI6ImNpa2JnMDI2cDAwMzR3bGx2eXkyZDh4a3QifQ.sgne64JeXpvQee49WW1oTA"
 mapboxStyle = "emerald"
-mapboxZoom = 16
+mapboxZoom = 15
 
 [params.venue.coords]
-latitude = 47.3722277
-longitude = 8.53201869999993
+latitude = 47.3848764
+longitude = 8.5209667
 
 # Registration
 [params.registration]
-registrationForm = "https://www.eventbrite.com/e/make-zurich-vol-ii-civic-tech-hackathon-registration-45872940199"
+registrationForm = "https://www.eventbrite.com/e/make-zurich-2020-civic-tech-hackathon-registration-87045658909?ref=estw"
 
 # Organizers of the event: add as many as you need.
 [[params.organizers]]
@@ -339,6 +339,12 @@ i18n = "open"
     icon = "fa-github"
 
 [[params.social]]
+	title = "facebook"
+	url = "https://www.facebook.com/events/2615070568610092"
+    text = "Open Network Infrastructure Association"
+    icon = "fa-facebook-square"
+
+[[params.social]]
 	title = "email"
 	url = "mailto:info@makezurich.ch"
     text = "info@makezurich.ch"
@@ -367,19 +373,34 @@ languageName = "English"
     weight = 3
 
 [[languages.en.menu.main]]
-    name = "Projects"
-    url = "https://now.makezurich.ch/event/3"
+    name = "Challenges"
+    url = "/#challenges"
     weight = 4
 
-[[languages.en.menu.footer]]
-    name = "Projects"
-    url = "https://now.makezurich.ch/event/3"
+# NOTE: Primary button link (Navigation)
+# Change links according to event stage:
+# Before event=Register
+# During event=Getting Started
+# After=Projects
+[[languages.en.menu.highlighted]]
+    # BEFORE
+    name = "Register"
+    url = "/#register"
+    # DURING
+    # name = "Getting started"
+    # url = "/start"
+    # AFTER
+    # name = "Projects"
+    # url = "https://now.makezurich.ch/event/4"
     weight = 5
+    pre = "btn-black"
+    post = "fa-sign-in"
 
+# NOTE: Primary button link (Hero)
+# Same as the one above
 [[languages.en.menu.hero]]
-    name = "Projects"
-    url = "https://now.makezurich.ch/event/3"
-    # weight = 4
+    name = "Register"
+    url = "#register"
     pre = "event-primary-color"
     post = "fa-sign-in"
 
@@ -388,7 +409,7 @@ weight = 2
 languageName = "Deutsch"
 
 [[languages.de.menu.main]]
-    name = "Schedule"
+    name = "Zeitplan"
     url = "/#schedule"
     weight = 2
 
@@ -398,40 +419,36 @@ languageName = "Deutsch"
     weight = 3
 
 [[languages.de.menu.main]]
-    name = "Projekte"
-    url = "https://now.makezurich.ch/event/3"
+    name = "Challenges"
+    url = "/#challenges"
     weight = 4
 
-[[languages.de.menu.footer]]
-    name = "Getting started"
-    url = "/de/start"
-    weight = 4
-
-[[languages.de.menu.footer]]
-    name = "Projekte"
-    url = "https://now.makezurich.ch/event/3"
+# NOTE: Primary button link (Navigation)
+# Change links according to event stage:
+# Before event=Register
+# During event=Getting Started
+# After=Projects
+[[languages.de.menu.highlighted]]
+    # BEFORE
+    name = "Anmelden"
+    url = "/#register"
+    # DURING
+    # name = "Getting started"
+    # url = "/de/start"
+    # AFTER
+    # name = "Projekte"
+    # url = "https://now.makezurich.ch/event/4"
     weight = 5
-
-[[languages.de.menu.hero]]
-    name = "Projekte"
-    url = "https://now.makezurich.ch/event/3"
-    pre = "event-primary-color"
+    pre = "btn-black"
     post = "fa-sign-in"
 
-# [[languages.de.menu.hero]]
-#     name = "Getting started"
-#     url = "/de/start"
-#     weight = 4
-#     pre = "event-primary-color"
-#     post = "fa-sign-in"
-
-# [[languages.de.menu.highlighted]]
-#     name = "Getting started"
-#     url = "/de/start"
-#     weight = 4
-#     pre = "btn-black"
-#     post = "fa-sign-in"
-
+# NOTE: Primary button link (Hero)
+# Same as the one above
+[[languages.de.menu.hero]]
+    name = "Anmelden"
+    url = "#register"
+    pre = "event-primary-color"
+    post = "fa-sign-in"
 
 # Hugo's Markdown rendering engine options
 [blackfriday]

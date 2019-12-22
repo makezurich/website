@@ -18,7 +18,7 @@ Short and simple: **Be excellent to each other!**
 
 #### License
 
-The following licensing conditions apply to works created at [Make Zurich Vol. II](https://makezurich.ch):
+The following licensing conditions apply to works created at [Make Zurich 2020](https://makezurich.ch):
 
 - No transfer of rights: everyone retains the rights to anything they have created.
 - Waiver: No one will exercise any rights of exclusivity with respect to information they bring in, even if otherwise could exercise such right of exclusivity under the law.
@@ -29,7 +29,7 @@ The following licensing conditions apply to works created at [Make Zurich Vol. I
 
 Whenever possible, the teams will work with open data as defined in [The Open Definition](http://opendefinition.org/od/2.1/en/), or with data that will attain this status shortly.
 
-We encourage you to publish any data sources created at [Make Zurich Vol. II](https://makezurich.ch) under an open data license (we suggest [ODbL](http://wiki.openstreetmap.org/wiki/Open_Database_License)).
+We encourage you to publish any data sources created at [Make Zurich 2020](https://makezurich.ch) under an open data license (we suggest [ODbL](http://wiki.openstreetmap.org/wiki/Open_Database_License)).
 
 #### Presentation
 

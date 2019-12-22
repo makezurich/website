@@ -1,5 +1,5 @@
 [event_name]
-other = "Make Zürich Vol. II"
+other = "Make Zürich 2020"
 
 [event_city]
 other = "Zürich"
@@ -25,7 +25,7 @@ neue Herangehensweisen für die Herausforderungen in [unserer Stadt](https://www
 other = "Wann und Wo?"
 
 [basicinfo_when_where]
-other = """Die Challenges werden am 22. Juni vorgestellt. Am **Freitag dem 29.** und **Samstag, dem 30.6.** findet dann der Hackathon im **Kraftwerk** statt."""
+other = """Die Challenges werden am 20. März vorgestellt. Am **Freitag dem 27.** und **Samstag, dem 28.3.2020** findet dann der Hackathon im **Impact Hub Viadukt, Bogen D** statt."""
 
 [basicinfo_organizers]
 other = """Make Zurich ist ein Community-Event, der gemeinsam von der Stadt Zürich und der «Open Network Infrastructure Association» organisiert wird."""

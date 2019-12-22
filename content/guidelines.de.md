@@ -18,7 +18,7 @@ Kurz und einfach: **Sei h&ouml;flich zum anderen!**
 
 #### Lizenzen
 
-F&uuml;r die bei [Make Zurich Vol. II](https://makezurich.ch) entwickelten Werke gelten folgende Lizenzbedingungen:
+F&uuml;r die bei [Make Zurich 2020](https://makezurich.ch) entwickelten Werke gelten folgende Lizenzbedingungen:
 
 - Keine &Uuml;bertragung von Rechten: Jeder beh&auml;lt die Rechte auf alles, was er oder sie entwickelt hat.
 - Verzichtserkl&auml;rung: Niemand wird Ausschliesslichkeitsrechte bez&uuml;glich der von ihm eingeholten Informationen aus&uuml;ben, auch wenn er/sie sonst dieses Ausschliesslichkeitsrecht nach dem Gesetz aus&uuml;ben k&ouml;nnte.
@@ -29,7 +29,7 @@ F&uuml;r die bei [Make Zurich Vol. II](https://makezurich.ch) entwickelten Werke
 
 Wenn immer m&ouml;glich, arbeiten die Teams mit offenen Daten, wie sie in [The Open Definition](http://opendefinition.org/od/2.0/de/) definiert sind oder mit Daten, die diesen Status in K&uuml;rze erlangen.
 
-Wir empfehlen dir den Quellcode, welcher du am [Make Zurich Vol. II](https://makezurich.ch) entwickelt hast, unter einer offenen Datenlizenz zu ver&ouml;ffentlichen (wir empfehlen [ODbL](http://wiki.openstreetmap.org/wiki/Open_Database_License)).
+Wir empfehlen dir den Quellcode, welcher du am [Make Zurich 2020](https://makezurich.ch) entwickelt hast, unter einer offenen Datenlizenz zu ver&ouml;ffentlichen (wir empfehlen [ODbL](http://wiki.openstreetmap.org/wiki/Open_Database_License)).
 
 #### Pr&auml;sentation
 
