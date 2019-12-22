@@ -1,1 +1,9 @@
 /* Local styles */
+
+.schedule .event-primary-text small {
+  font-size: 0.7rem;
+  position: absolute;
+  transform: rotate(-90deg);
+  margin-left: -15px;
+  margin-top: 8px;
+}
