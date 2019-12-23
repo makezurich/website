@@ -333,3 +333,8 @@ languageName = "Deutsch"
 # Hugo's Markdown rendering engine options
 [blackfriday]
 hrefTargetBlank = true
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
