@@ -265,7 +265,7 @@ languageName = "English"
 [[languages.en.menu.highlighted]]
     # BEFORE
     name = "Register"
-    url = "/#register"
+    url = "/register"
     # DURING
     # name = "Getting started"
     # url = "/start"
@@ -311,7 +311,7 @@ languageName = "Deutsch"
 [[languages.de.menu.highlighted]]
     # BEFORE
     name = "Anmelden"
-    url = "/#register"
+    url = "/register"
     # DURING
     # name = "Getting started"
     # url = "/de/start"
