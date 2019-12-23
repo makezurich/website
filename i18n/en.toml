@@ -31,7 +31,7 @@ by Stadt Zürich and Open Network Infrastructure Association."""
 other = "Challenges"
 
 [challenges_intro]
-other = """We gathered **six real needs** of different departments of the City of Zurich that could be solved with LoRaWAN and civic tech.
+other = """We gathered **real needs** of different departments of the City of Zurich that could be solved with LoRaWAN and civic tech.
 
 There will be as well an **open challenge**: if you don’t feel like building any of the other challenges, you
 are free to combine all available elements to create innovative solutions for the city!"""
@@ -39,56 +39,40 @@ are free to combine all available elements to create innovative solutions for th
 [challenge]
 other = "Challenge"
 
-[challenges_vbz_title]
-other = "Real Time Occupancy Rate"
+[challenges_saw_title]
+other = "Granny Alert"
 
-[challenges_gsz_title]
-other = "City Forest Visitors"
+[challenges_saw_description]
+other = """How can we improve the responsiveness to emergencies of elderly people within their homes without compromising their privacy?
 
-[challenges_velo_title]
-other = "No bike left behind"
+Provided by Stiftung Alterswohnungen"""
 
-[challenges_stez_title]
-other = "Conquering the last mile"
+[challenges_taz1_title]
+other = "Move and Chill"
 
-[challenges_ssd_title]
-other = "Teacher's calling"
+[challenges_taz1_description]
+other = """Help us to improve knowledge by measuring the utilization of movable chairs in the city.
 
-[challenges_ewz_title]
-other = "Distribution Grid Power Failure"
+Provided by Civil Engineering Office"""
+
+[challenges_ttn_title]
+other = "Breathe!"
+
+[challenges_ttn_description]
+other = """Empower citizens to map and understand air pollution in the city.
+
+Provided by the community"""
+
+[challenges_taz2_title]
+other = "Bicycle Parking"
+
+[challenges_taz2_description]
+other = """Help us better understand the utilization of bicycle parking facilities.
+
+Provided by Civil Engineering Office"""
 
 [challenges_open_title]
 other = "Open Challenge"
-
-[challenges_vbz_description]
-other = """Discover ways to use technology to measure and understand occupancy rate of the public transport vehicles in real time.
-
-Provided by VBZ"""
-
-[challenges_gsz_description]
-other = """All year round, the forests of the city of Zurich receive thousands of visitors. How can we assess and quantify them easily and efficiently?
-
-Provided by Grün Stadt Zürich"""
-
-[challenges_velo_description]
-other = """How can we track and recover abandoned bikes from the stationary sharing system of **Züri Velo**?
-
-Provided by PubliBike & Züri Velo"""
-
-[challenges_stez_description]
-other = """Optimizing last-mile logistics is a fundamental topic for a smarter city. How can we measure and visualize deliveries within the boundaries of the city?
-
-Provided by Stadtentwicklung Zürich"""
-
-[challenges_ssd_description]
-other = """Explore ways to increase safety in our schools in case of emergency or evacuation with the use of technology.
-
-Provided by Schul- und Sportdepartement"""
-
-[challenges_ewz_description]
-other = """How can we improve the detection of power failures in the low voltage network for a more efficient city?
-
-Provided by EWZ"""
 
 [challenges_open_description]
 other = """If none of the challenges fits you, you are free to combine all available elements and develop your own challenge and ideas!
