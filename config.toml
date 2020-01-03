@@ -88,6 +88,9 @@ photo = "/images/team/oleg.png"
 name = "Tillo Bosshart"
 photo = "/images/team/tillo.png"
 
+[[params.team.members]]
+name = "Dirk Zugenmaier"
+photo = "/images/team/dirk.png"
 
 # Sponsors of the event
 [[params.partners.sponsors]]
