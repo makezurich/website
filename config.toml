@@ -240,6 +240,12 @@ i18n = "open"
     icon = "fa-facebook-square"
 
 [[params.social]]
+	title = "instagram"
+	url = "https://instagram.com/makezurich"
+    text = "@makezurich"
+    icon = "fa-instagram"
+
+[[params.social]]
 	title = "email"
 	url = "mailto:info@makezurich.ch"
     text = "info@makezurich.ch"
