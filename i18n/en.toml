@@ -71,6 +71,14 @@ other = """Help us better understand the utilization of bicycle parking faciliti
 
 Provided by Civil Engineering Office"""
 
+[challenges_gsz2_title]
+other = "Awesome Green Spaces"
+
+[challenges_gsz2_description]
+other = """Help us to improve the attractiveness of green spaces by measuring the usage of infrastructure and occupancy of public recreational spaces.
+
+Provided by the Environmental Agency of Zurich"""
+
 [challenges_open_title]
 other = "Open Challenge"
 

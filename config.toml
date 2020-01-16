@@ -218,6 +218,11 @@ image = "/images/challenges/bicycle-parking.png"
 i18n = "taz2"
 
 [[params.challenges]]
+image = "/images/challenges/green-spaces.png"
+# url = "/box/5"
+i18n = "gsz2"
+
+[[params.challenges]]
 image = "/images/challenges/open.png"
 # url = "/box/7"
 i18n = "open"
