@@ -122,6 +122,12 @@ url = "https://www.ewz.ch"
 class = "w-50"
 
 [[params.partners.sponsors]]
+name = "Semtech"
+logo = "/images/partners/logo-semtech.png"
+url = "https://www.semtech.com"
+class = "w-50"
+
+[[params.partners.sponsors]]
 name = "u-blox"
 logo = "/images/partners/logo-u-blox.png"
 url = "https://www.u-blox.ch"
