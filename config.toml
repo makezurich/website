@@ -150,6 +150,12 @@ url = "https://miromico.ch/"
 class = "my-1 w-50"
 
 [[params.partners.sponsors]]
+name = "Brudi GmbH"
+logo = "/images/partners/logo-brudi.png"
+url = "https://www.brudi.com/"
+class = "my-3 w-50"
+
+[[params.partners.sponsors]]
 name = "swissdevjobs.ch"
 logo = "/images/partners/logo-swissdevjobs.png"
 url = "https://swissdevjobs.ch/jobs/All/Zurich"
