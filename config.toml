@@ -117,43 +117,49 @@ photo = "/images/team/lizzie.png"
 name = "Stadt Zurich"
 logo = "/images/partners/logo-stez.png"
 url = "https://www.stadt-zuerich.ch/prd/de/index/stadtentwicklung.html"
-class = "my-2 w-50"
+class = "my-3 w-50"
 
 [[params.partners.sponsors]]
 name = "EWZ"
 logo = "/images/partners/logo-ewz.png"
 url = "https://www.ewz.ch"
-class = "w-50"
+class = "my-2 w-50"
 
 [[params.partners.sponsors]]
 name = "Semtech"
 logo = "/images/partners/logo-semtech.png"
 url = "https://www.semtech.com"
-class = "w-50"
+class = "my-1 w-50"
 
 [[params.partners.sponsors]]
 name = "u-blox"
 logo = "/images/partners/logo-u-blox.png"
 url = "https://www.u-blox.ch"
-class = "my-1 w-50"
+class = "my-3 w-50"
 
 [[params.partners.sponsors]]
 name = "Sensirion"
 logo = "/images/partners/logo-sensirion.png"
 url = "https://www.sensirion.com/en/"
-class = "my-3 w-50"
+class = "my-4 w-50"
 
 [[params.partners.sponsors]]
 name = "Miromico GmbH"
 logo = "/images/partners/logo-miromico.png"
 url = "https://miromico.ch/"
-class = "my-1 w-50"
+class = "my-2 w-50"
 
 [[params.partners.sponsors]]
 name = "Brudi GmbH"
 logo = "/images/partners/logo-brudi.png"
 url = "https://www.brudi.com/"
-class = "my-3 w-50"
+class = "my-4 w-50"
+
+[[params.partners.sponsors]]
+name = "Logiscool Ltd"
+logo = "/images/partners/logo-logiscool.png"
+url = "https://www.logiscool.com/ch-en/school/zurich"
+class = "my-4 w-50"
 
 [[params.partners.sponsors]]
 name = "swissdevjobs.ch"
