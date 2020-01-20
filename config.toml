@@ -173,31 +173,31 @@ class = "my-1 w-50"
 name = "The Things Network"
 logo = "/images/partners/logo-ttn.png"
 url = "https://www.thethingsnetwork.org/"
-class = "w-50"
+class = "my-2 w-50"
 
 [[params.partners.community]]
 name = "IoT Zurich"
 logo = "/images/partners/logo-iotzh.png"
 url = "https://www.meetup.com/IoT-Zurich"
-class = "my-3 w-50"
+class = "my-4 w-50"
 
 [[params.partners.community]]
 name = "opendata.ch"
 logo = "/images/partners/logo-opendatach.png"
 url = "http://make.opendata.ch/"
-class = "my-2 h-50"
+class = "my-3 h-50"
 
 [[params.partners.community]]
 name = "SGMK"
 logo = "/images/partners/logo-sgmk.png"
 url = "https://www.mechatronicart.ch/"
-class = "my-2 h-50"
+class = "my-3 h-50"
 
 [[params.partners.community]]
 name = "FabLab Zürich"
 logo = "/images/partners/logo-fablab-zh.png"
 url = "https://zurich.fablab.ch/"
-class = "my-2 h-50"
+class = "my-3 h-50"
 
 
 
