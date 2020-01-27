@@ -142,16 +142,16 @@ url = "https://www.u-blox.ch"
 class = "my-3 w-50"
 
 [[params.partners.sponsors]]
-name = "Sensirion"
-logo = "/images/partners/logo-sensirion.png"
-url = "https://www.sensirion.com/en/"
-class = "my-4 w-50"
-
-[[params.partners.sponsors]]
 name = "Miromico GmbH"
 logo = "/images/partners/logo-miromico.png"
 url = "https://miromico.ch/"
 class = "my-2 w-50"
+
+[[params.partners.sponsors]]
+name = "Sensirion"
+logo = "/images/partners/logo-sensirion.png"
+url = "https://www.sensirion.com/en/"
+class = "my-4 w-50"
 
 [[params.partners.sponsors]]
 name = "Brudi GmbH"
@@ -164,6 +164,12 @@ name = "Logiscool Ltd"
 logo = "/images/partners/logo-logiscool.png"
 url = "https://www.logiscool.com/ch-en/school/zurich"
 class = "my-4 w-50"
+
+[[params.partners.sponsors]]
+name = "Decentlab"
+logo = "/images/partners/logo-decentlab.png"
+url = "https://www.decentlab.com/"
+class = "my-3 w-50"
 
 [[params.partners.sponsors]]
 name = "swissdevjobs.ch"
