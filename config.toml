@@ -267,6 +267,27 @@ image = "/images/challenges/open.png"
 # url = "/box/7"
 i18n = "open"
 
+[[params.features]]
+name = "learning"
+icon = "fa-graduation-cap"
+background = "/images/features/learning.png"
+
+[[params.features]]
+name = "hardware"
+icon = "fa-microchip"
+background = "/images/features/hardware.png"
+
+[[params.features]]
+name = "healthy-food"
+icon = "fa-cutlery"
+background = "/images/features/healthy.png"
+
+[[params.features]]
+name = "child-care"
+icon = "fa-child"
+background = "/images/features/childcare.png"
+
+
 # Social links: add as many as you need.
 # Here's a list of the most popular fa-icons:
 # [fa-facebook-square, fa-twitter-square, fa-instagram, fa-google-plus-square, fa-linkedin-square, fa-tumblr-square, fa-github, fa-envelope]

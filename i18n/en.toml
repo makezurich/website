@@ -89,3 +89,27 @@ Provided by you!"""
 
 [team_description]
 other = """Make Zurich is possible thanks to the contribution of an amazing team of individuals:"""
+
+[features_learning_title]
+other = "Learning"
+
+[features_learning_description]
+other = "Take the chance to learn new skills and technologies from mentors and peers!"
+
+[features_hardware_title]
+other = "Hardware"
+
+[features_hardware_description]
+other = "Plenty of electronics, sensors and other hardware to play with!"
+
+[features_healthy-food_title]
+other = "Health"
+
+[features_healthy-food_description]
+other = "We take care of you! We provide healthy food so you don't to think about it!"
+
+[features_child-care_title]
+other = "Bring your kids along!"
+
+[features_child-care_description]
+other = "We offer a safe and fun environment to play. And for kids 6 to 18, there will be a coding workshop by Logiscool"
