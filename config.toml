@@ -209,6 +209,12 @@ logo = "/images/partners/logo-fablab-zh.png"
 url = "https://zurich.fablab.ch/"
 class = "my-3 h-50"
 
+[[params.partners.community]]
+name = "Prototype Fund CH"
+logo = "/images/partners/logo-prototypefund.png"
+url = "https://prototypefund.opendata.ch/"
+class = "my-3 h-50"
+
 
 
 # [[params.partners.community]]
