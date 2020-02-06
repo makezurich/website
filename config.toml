@@ -142,6 +142,12 @@ url = "https://www.u-blox.ch"
 class = "my-3 w-50"
 
 [[params.partners.sponsors]]
+name = "Helium"
+logo = "/images/partners/logo-helium.png"
+url = "https://www.helium.com/"
+class = "my-3 w-50"
+
+[[params.partners.sponsors]]
 name = "Miromico GmbH"
 logo = "/images/partners/logo-miromico.png"
 url = "https://miromico.ch/"
