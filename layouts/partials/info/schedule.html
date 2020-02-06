@@ -11,9 +11,46 @@
           <div class="row">
             <div class="col-sm-3">
               <header>
+                <div class="event-primary-text"><small>Sun</small> 9</div>
+                <div>
+                  <b>Feb</b>
+                </div>
+              </header>
+            </div>
+            <div class="col-sm-9">
+              <table class="table table-hover">
+                <tbody>
+                  <tr>
+                    <th class="scheduled-time">
+                      10:00-17:00
+                    </th>
+                    <td class="scheduled-title">
+                      Pre-event workshop: Make your own shitty addon, by <b>Tillo Bosshart</b><br/>
+                      <small>Curious about what the heck a shitty addon is?
+                        Join this pre-event workshop to find out!<br/>
+                        Bring your laptop and make sure you installed KiCad and Inkscape.
+                        #badgelife</small>
+                    </td>
+                    <td class="scheduled-notes d-none d-lg-table-cell">
+                      <a href="https://www.openstreetmap.org/#map=16/47.3839406/8.5098687" target="_blank">
+                        <b>FabLab Zürich</b><br/><b>Zimmerlistrasse 6<br/>8004 Zürich</b>
+                        <i class="fa fa-map-marker"></i>
+                      </a>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <hr/>
+
+          <div class="row">
+            <div class="col-sm-3">
+              <header>
                 <div class="event-primary-text"><small>Fri</small> 20</div>
                 <div>
-                  <b>March</b>
+                  <b>Mar</b>
                 </div>
               </header>
             </div>
@@ -22,8 +59,16 @@
                 <tbody>
                   <tr>
                     <th class="scheduled-time"></th>
-                    <th class="scheduled-title">{{ .Site.Params.venue.name }}</th>
-                    <td class="scheduled-notes">
+                    <th class="scheduled-title">
+                      {{- with .Site.Params.venue }}
+                        {{- with .coords }}
+                          <a href="https://www.openstreetmap.org/#map=16/{{ .latitude }}/{{ .longitude }}" target="_blank">
+                        {{ end }}
+                          {{ .name }}
+                        </a>
+                      {{ end }}
+                    </th>
+                    <td class="scheduled-notes d-none d-lg-table-cell">
                       {{- with .Site.Params.venue }}
                         {{- with .coords }}
                           <a href="https://www.openstreetmap.org/#map=16/{{ .latitude }}/{{ .longitude }}" target="_blank">
@@ -93,7 +138,7 @@
               <header>
                 <div class="event-primary-text"><small>Sat</small> 21</div>
                 <div>
-                  <b>March</b>
+                  <b>Mar</b>
                 </div>
               </header>
             </div>
@@ -109,7 +154,7 @@
                       <small>Do you need tools or a place to work? Or simply want to hang out and chat about life, the universe and everything?
                       The lab days are optional and available for those that need it.</small>
                     </td>
-                    <td class="scheduled-notes">
+                    <td class="scheduled-notes d-none d-lg-table-cell">
                     </td>
                   </tr>
                 </tbody>
@@ -121,7 +166,7 @@
               <header>
                 <div class="event-primary-text"><small>Sun</small> 22</div>
                 <div>
-                  <b>March</b>
+                  <b>Mar</b>
                 </div>
               </header>
             </div>
@@ -135,7 +180,7 @@
                     <td class="scheduled-title">
                       Open Lab Day
                     </td>
-                    <td class="scheduled-notes"></td>
+                    <td class="scheduled-notes d-none d-lg-table-cell"></td>
                   </tr>
                 </tbody>
               </table>
@@ -146,7 +191,7 @@
               <header>
                 <div class="event-primary-text"><small>Mon</small> 23</div>
                 <div>
-                  <b>March</b>
+                  <b>Mar</b>
                 </div>
               </header>
             </div>
@@ -160,7 +205,7 @@
                     <td class="scheduled-title">
                       Open Lab Day
                     </td>
-                    <td class="scheduled-notes"></td>
+                    <td class="scheduled-notes d-none d-lg-table-cell"></td>
                   </tr>
                 </tbody>
               </table>
@@ -172,7 +217,7 @@
               <header>
                 <div class="event-primary-text"><small>Tue</small> 24</div>
                 <div>
-                  <b>March</b>
+                  <b>Mar</b>
                 </div>
               </header>
             </div>
@@ -186,7 +231,7 @@
                     <td class="scheduled-title">
                       Open Lab Day
                     </td>
-                    <td class="scheduled-notes"></td>
+                    <td class="scheduled-notes d-none d-lg-table-cell"></td>
                   </tr>
                 </tbody>
               </table>
@@ -197,7 +242,7 @@
               <header>
                 <div class="event-primary-text"><small>Wed</small> 25</div>
                 <div>
-                  <b>March</b>
+                  <b>Mar</b>
                 </div>
               </header>
             </div>
@@ -211,7 +256,7 @@
                     <td class="scheduled-title">
                       Open Lab Day
                     </td>
-                    <td class="scheduled-notes"></td>
+                    <td class="scheduled-notes d-none d-lg-table-cell"></td>
                   </tr>
                 </tbody>
               </table>
@@ -222,7 +267,7 @@
               <header>
                 <div class="event-primary-text"><small>Thu</small>26</div>
                 <div>
-                  <b>March</b>
+                  <b>Mar</b>
                 </div>
               </header>
             </div>
@@ -236,7 +281,7 @@
                     <td class="scheduled-title">
                       Open Lab Day
                     </td>
-                    <td class="scheduled-notes"></td>
+                    <td class="scheduled-notes d-none d-lg-table-cell"></td>
                   </tr>
                 </tbody>
               </table>
@@ -250,7 +295,7 @@
               <header>
                 <div class="event-primary-text"><small>Fri</small> 27</div>
                 <div>
-                  <b>March</b>
+                  <b>Mar</b>
                 </div>
               </header>
             </div>
@@ -259,8 +304,16 @@
                 <tbody>
                   <tr>
                     <th class="scheduled-time"></th>
-                    <th class="scheduled-title">{{ .Site.Params.venue.name }}</th>
-                    <td class="scheduled-notes">
+                    <th class="scheduled-title">
+                      {{- with .Site.Params.venue }}
+                        {{- with .coords }}
+                          <a href="https://www.openstreetmap.org/#map=16/{{ .latitude }}/{{ .longitude }}" target="_blank">
+                        {{ end }}
+                          {{ .name }}
+                        </a>
+                      {{ end }}
+                    </th>
+                    <td class="scheduled-notes d-none d-lg-table-cell">
                       {{- with .Site.Params.venue }}
                         {{- with .coords }}
                           <a href="https://www.openstreetmap.org/#map=16/{{ .latitude }}/{{ .longitude }}" target="_blank">
@@ -309,16 +362,16 @@
                     </td>
                     <td></td>
                   </tr>
-                  <!-- <tr>
+                  <tr>
                     <th>
                       23:00
                     </th>
                     <td>
-                      Realtime code art<br>
-                      <a href="https://blog.datalets.ch/010/" target="_blank">Demoshow by <b>Oleg Lavrovsky</b></a>
+                      Demonights / Realtime code art<br>
+                      <a href="https://demonights.ch/" target="_blank">Echtzeit x MakeZurich by <b>Oleg Lavrovsky</b> and <b>Marco Foco</b></b></a>
                     </td>
                     <td></td>
-                  </tr> -->
+                  </tr>
                 </tbody>
               </table>
             </div>
@@ -329,7 +382,7 @@
               <header>
                 <div class="event-primary-text"><small>Sat</small> 28</div>
                 <div>
-                  <b>March</b>
+                  <b>Mar</b>
                 </div>
               </header>
             </div>
@@ -338,8 +391,16 @@
                 <tbody>
                   <tr>
                     <th class="scheduled-time"></th>
-                    <th class="scheduled-title">{{ .Site.Params.venue.name }}</th>
-                    <td class="scheduled-notes">
+                    <th class="scheduled-title">
+                      {{- with .Site.Params.venue }}
+                        {{- with .coords }}
+                          <a href="https://www.openstreetmap.org/#map=16/{{ .latitude }}/{{ .longitude }}" target="_blank">
+                        {{ end }}
+                          {{ .name }}
+                        </a>
+                      {{ end }}
+                    </th>
+                    <td class="scheduled-notes d-none d-lg-table-cell">
                       {{- with .Site.Params.venue }}
                         {{- with .coords }}
                           <a href="https://www.openstreetmap.org/#map=16/{{ .latitude }}/{{ .longitude }}" target="_blank">
@@ -367,6 +428,18 @@
                     </th>
                     <td>
                       Lunch
+                    </td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <th>
+                      14:00
+                    </th>
+                    <td>
+                      Workshop for kids: Code your first computer game, by <a href="https://www.logiscool.com/ch-en/school/zurich" target="_blank"><b>Logiscool</b></a><br/>
+                      <small>Together with dedicated coaches, kids aged 7-16 can code their first computer game using Scoolcode, Logiscool's own learning platform.
+                      In the workshop they can recognise that coding is fun, and experience their quick success, which
+                      can be a good start for growing their future interest in programming.</small>
                     </td>
                     <td></td>
                   </tr>
