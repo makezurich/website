@@ -225,6 +225,11 @@ logo = "/images/partners/logo-prototypefund.png"
 url = "https://prototypefund.opendata.ch/"
 class = "my-3 h-50"
 
+[[params.partners.community]]
+name = "PRiOT"
+logo = "/images/partners/logo-priot.png"
+url = "https://priot.ch/"
+class = "my-3 h-50"
 
 
 # [[params.partners.community]]
