@@ -145,7 +145,7 @@ class = "my-3 w-50"
 name = "Helium"
 logo = "/images/partners/logo-helium.png"
 url = "https://www.helium.com/"
-class = "my-3 w-50"
+class = "my-2 w-50"
 
 [[params.partners.sponsors]]
 name = "Miromico GmbH"
