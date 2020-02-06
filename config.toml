@@ -290,23 +290,19 @@ i18n = "open"
 
 [[params.features]]
 name = "learning"
-icon = "fa-graduation-cap"
-background = "/images/features/learning.png"
+background = "/images/features/learning.jpg"
 
 [[params.features]]
 name = "hardware"
-icon = "fa-microchip"
-background = "/images/features/hardware.png"
+background = "/images/features/badges.jpg"
 
 [[params.features]]
 name = "healthy-food"
-icon = "fa-cutlery"
-background = "/images/features/healthy.png"
+background = "/images/features/breakfast.jpg"
 
 [[params.features]]
 name = "child-care"
-icon = "fa-child"
-background = "/images/features/childcare.png"
+background = "/images/features/kids.jpg"
 
 
 # Social links: add as many as you need.
