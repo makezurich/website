@@ -128,6 +128,10 @@ photo = "/images/team/juerg.png"
 name = "Manuel Di Cerbo"
 photo = "/images/team/manuel.png"
 
+[[params.team.members]]
+name = "Marco Foco"
+photo = "/images/team/marco.png"
+
 # Sponsors of the event
 [[params.partners.sponsors]]
 name = "Stadt Zurich"
