@@ -79,7 +79,9 @@ other = "Awesome Green Spaces"
 [challenges_gsz2_description]
 other = """Help us to improve the attractiveness of green spaces by measuring the usage of infrastructure and occupancy of public recreational spaces.
 
-Provided by the Environmental Agency of Zurich"""
+Provided by the Environmental Agency of Zurich
+
+<small><em>Powered by u-blox</em></small>"""
 
 [challenges_open_title]
 other = "Offene Challenge"
