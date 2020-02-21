@@ -173,7 +173,7 @@ class = "my-2 w-50"
 name = "SWITCH.CH"
 logo = "/images/partners/logo-switch.png"
 url = "https://switch.ch/"
-class = "my-3 h-50"
+class = "my-3 w-50"
 
 [[params.partners.sponsors]]
 name = "Sensirion"
@@ -209,13 +209,13 @@ class = "my-3 w-50"
 name = "PRiOT"
 logo = "/images/partners/logo-priot.png"
 url = "https://priot.ch/"
-class = "my-3 h-50"
+class = "my-3 w-50"
 
 [[params.partners.sponsors]]
 name = "Data Center Light"
 logo = "/images/partners/logo-datacenterlight.png"
 url = "https://datacenterlight.ch/"
-class = "my-3 h-50"
+class = "my-3 w-50"
 
 # Community partners of the event
 [[params.partners.community]]
