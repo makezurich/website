@@ -132,6 +132,10 @@ photo = "/images/team/manuel.png"
 name = "Marco Foco"
 photo = "/images/team/marco.png"
 
+[[params.team.members]]
+name = "Raphael Rotondari"
+photo = "/images/team/raphael.png"
+
 # Sponsors of the event
 [[params.partners.sponsors]]
 name = "Stadt Zurich"
@@ -192,6 +196,12 @@ name = "Logiscool Ltd"
 logo = "/images/partners/logo-logiscool.png"
 url = "https://www.logiscool.com/ch-en/school/zurich"
 class = "my-3 w-50"
+
+[[params.partners.sponsors]]
+name = "Netcetera"
+logo = "/images/partners/logo-netcetera.png"
+url = "https://www.netcetera.com/"
+class = "my-4 w-50"
 
 [[params.partners.sponsors]]
 name = "Decentlab"
