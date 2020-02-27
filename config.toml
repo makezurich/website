@@ -198,16 +198,16 @@ url = "https://www.logiscool.com/ch-en/school/zurich"
 class = "my-3 w-50"
 
 [[params.partners.sponsors]]
-name = "Netcetera"
-logo = "/images/partners/logo-netcetera.png"
-url = "https://www.netcetera.com/"
-class = "my-4 w-50"
-
-[[params.partners.sponsors]]
 name = "Decentlab"
 logo = "/images/partners/logo-decentlab.png"
 url = "https://www.decentlab.com/"
 class = "my-4 w-50"
+
+[[params.partners.sponsors]]
+name = "Netcetera"
+logo = "/images/partners/logo-netcetera.png"
+url = "https://www.netcetera.com/"
+class = "my-2 w-50"
 
 [[params.partners.sponsors]]
 name = "swissdevjobs.ch"
