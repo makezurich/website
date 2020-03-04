@@ -194,9 +194,9 @@ url = "https://www.sensirion.com/en/"
 class = "my-4 w-50"
 
 [[params.partners.sponsors]]
-name = "Brudi GmbH"
-logo = "/images/partners/logo-brudi.png"
-url = "https://www.brudi.com/"
+name = "Brudi GmbH + Co-Co-Co"
+logo = "/images/partners/logo-brudi-cococo.png"
+url = "https://co-co-co.org/brudi_co-co-co/"
 class = "my-4 w-50"
 
 [[params.partners.sponsors]]
