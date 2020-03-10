@@ -18,7 +18,7 @@ url = "https://github.com/make-zurich/website/blob/master/LICENSE"
 
 [params.styling]
 backgroundHero = "/images/background.jpg"           # Required
-logoHero = "/images/logo-inv.png"                   # Required
+logoHero = "/images/logo-inv-postponed.png"         # Required
 logoNavbar = "/images/logo.svg"                     # Optional, leave empty to show no logo on navbar
 externalImage = "/images/externals/event-cover.png" # Optional, used for sharing meta data
 themeColor = "#ffffff"                              # Optional
