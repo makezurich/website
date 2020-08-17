@@ -27,8 +27,8 @@ customCSS = "/css/styles.css"                       # Optional, remove/leave emp
 # Venue description
 # Details are used to generate maps and schema.org meta-data
 [params.venue]
-name = "Impact Hub Viadukt Bogen D"
-street = "Viaduktstrasse 93"
+name = "Zentralwäscherei Zürich (ZWZ)"
+street = "Neue Hard 12"
 zipCode = "8005"
 city = "Zürich"
 state = "Zürich"
@@ -38,8 +38,8 @@ mapboxStyle = "emerald"
 mapboxZoom = 15
 
 [params.venue.coords]
-latitude = 47.3848764
-longitude = 8.5209667
+latitude = 47.3869818
+longitude = 8.5203062
 
 # Registration
 [params.registration]
