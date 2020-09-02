@@ -6,6 +6,9 @@
 
 * Install [Hugo](https://gohugo.io/getting-started/installing/).
 * Clone this repository.
+* Check out the submodules:
+
+    $ git submodule update --init --recursive
 
 ## Run locally
 
