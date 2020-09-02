@@ -3,7 +3,7 @@ title = "Make Zurich 2020"
 theme = "hugo-hackatheme"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-disableLanguages = ["de"]
+#disableLanguages = ["de"]
 enableMissingTranslationPlaceholders = false    # If you're adding a new translation languange, you might want to set the following to true
 
 [params]
