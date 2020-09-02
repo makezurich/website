@@ -92,6 +92,9 @@ other = """If none of the challenges fits you, you are free to combine all avail
 [team_description]
 other = """Make Zurich is possible thanks to the contribution of an amazing team of individuals:"""
 
+[features]
+other = "What you will find"
+
 [features_learning_title]
 other = "Learning"
 
@@ -108,10 +111,10 @@ other = "Plenty of electronics, sensors and other hardware to play with!"
 other = "Health"
 
 [features_healthy-food_description]
-other = "We take care of you! We provide healthy food so you don't to think about it!"
+other = "We take care of you, provide healthy food and environment so you don't to think about it! And of course, we have a safety concept."
 
 [features_child-care_title]
-other = "Bring your kids along!"
+other = "Kids are cool"
 
 [features_child-care_description]
-other = "We offer a safe and fun environment to play. For kids 7 to 16 we offer a coding workshop by Logiscool"
+other = "We offer a safe and fun environment for young makers (U18) who are accompanied by their parents. For kids 7 to 16 we offer a coding workshop by Logiscool."

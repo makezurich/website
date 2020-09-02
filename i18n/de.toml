@@ -94,6 +94,34 @@ other = """Wenn Dich keine der Herausforderungen überzeugt, kannst Du selbstver
 [team_description]
 other = """Make Zurich ist dank der tollen Zusammenarbeit eines grossartigen Teams möglich:"""
 
+[features]
+other = "Was finde ich hier"
+
+[features_learning_title]
+other = "Lernen"
+
+[features_learning_description]
+other = "Nimm die Chance wahr, neue Skills und Technologien von Mentoren und Gleichaltrigen zu entdecken!"
+
+[features_hardware_title]
+other = "Hardware"
+
+[features_hardware_description]
+other = "Jede Menge Elektronik, Sensoren und andere Hardware zum Herumspielen!"
+
+[features_healthy-food_title]
+other = "Gesund sein"
+
+[features_healthy-food_description]
+other = "Wir kümmern uns um dich, sorgen für gesunde Ernährung und gute Atmosphere, damit du nicht daran denken müss! Und Klar haben wir ein Sicherheitskonzept."
+
+[features_child-care_title]
+other = "Bringe deine Kinder mit!"
+
+[features_child-care_description]
+other = "Wir bieten eine sichere und unterhaltsame Umgebung für junge Makers (U18) in Begleitung von Eltern. Für Kinder von 7 bis 16 Jahren bieten wir einen Coding-Workshop von Logiscool."
+
+
 # Translations for the 'Footer' section
 [footer_links]
 other = "Links"
