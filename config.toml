@@ -325,6 +325,11 @@ image = "/images/challenges/green-spaces.png"
 i18n = "gsz2"
 
 [[params.challenges]]
+image = "/images/challenges/transformer-station.png"
+# url = "/box/6"
+i18n = "ewz"
+
+[[params.challenges]]
 image = "/images/challenges/open.png"
 # url = "/box/7"
 i18n = "open"
