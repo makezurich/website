@@ -84,12 +84,12 @@ Zur Verf&uuml;gung gestellt vom Umweltdepartement der Stadt Z&uuml;rich
 <small><em>Powered by u-blox</em></small>"""
 
 [challenges_ewz_title]
-other = "Transformer Station Tub"
+other = "Umspannwerke"
 
 [challenges_ewz_description]
-other = """Help us to increase the efficiency of transformer station maintenance.
+other = """Hilf uns, die Effizienz der Wartung von Umspannwerken zu steigern.
 
-Provided by the ewz, the power supplier of Zurich"""
+Zur Verf&uuml;gung gestellt vom EWZ - Elektrizit&auml;tswerk der Stadt Z&uuml;rich"""
 
 [challenges_open_title]
 other = "Offene Challenge"
