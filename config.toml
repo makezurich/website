@@ -38,8 +38,8 @@ mapboxStyle = "emerald"
 mapboxZoom = 15
 
 [params.venue.coords]
-latitude = 47.3869818
-longitude = 8.5203062
+latitude = 47.3876449
+longitude = 8.5191238
 
 # Registration
 [params.registration]
