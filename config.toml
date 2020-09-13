@@ -268,6 +268,11 @@ logo = "/images/partners/logo-prototypefund.png"
 url = "https://prototypefund.opendata.ch/"
 class = "my-2 w-50"
 
+[[params.partners.community]]
+name = "Echtzeit Digitale Kultur"
+logo = "/images/partners/logo-echtzeit-digitalekultur.png"
+url = "https://demonights.ch/"
+class = "my-2 w-50"
 
 # [[params.partners.community]]
 # name = "Women++"
