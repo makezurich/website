@@ -68,6 +68,14 @@ We recommend to use public transport to get to the event. The location is a few 
 
 Yes, [there is](/guidelines).
 
+#### How does COVID-19 affect the event?
+
+We are closely monitoring the COVID-19 situation in Switzerland and adjusting precautionary measures accordingly. This page will be updated regularly to react to new developments.
+
+Currently, the event is scheduled to be carried out primarily as an in-person event. In special cases, workshops might be switched to online or hybrid mode if deemed necessary. Following BAG guidelines, we will put in place a series of precautionary measures -subject to change- such as providing hand disinfectant, avoiding hand shakes, requiring people showing symptoms to stay at home, and ensuring contact tracing for everyone present in the shared space. Since social distancing might not be enforceable, we will require mask usage for participants during plenary sessions. Masks will be provided if participants do not have their own. Outside plenary sessions, teams will work in partitioned spaces and the decision of wearing masks or not will be left to the team to decide.
+
+Once again, these rules might be adjusted to respond the situation changes as we approach the event's date.
+
 #### How can I contact the organizer if I have questions?
 
 Get in touch with us via email [info@makezurich.ch](mailto:info@makezurich.ch) or
