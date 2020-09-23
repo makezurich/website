@@ -214,6 +214,12 @@ url = "https://www.netcetera.com/"
 class = "my-2 w-50"
 
 [[params.partners.sponsors]]
+name = "Hexagon - Leica Geosystems"
+logo = "/images/partners/logo-leica.png"
+url = "https://leica-geosystems.com/about-us/careers/job-openings"
+class = "my-2 w-50"
+
+[[params.partners.sponsors]]
 name = "swissdevjobs.ch"
 logo = "/images/partners/logo-swissdevjobs.png"
 url = "https://swissdevjobs.ch/jobs/All/Zurich"
