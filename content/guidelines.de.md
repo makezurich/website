@@ -10,7 +10,7 @@ type = "info"
 
 #### Verhaltensregeln
 
-Kurz und einfach: **Sei h&ouml;flich zum anderen!**
+Kurz und einfach: **Seid grossartig zueinander!**
 
 #### Offenheit
 
