@@ -94,7 +94,7 @@ Zur Verf&uuml;gung gestellt vom EWZ - Elektrizit&auml;tswerk der Stadt Z&uuml;ri
 other = "Offene Challenge"
 
 [challenges_open_description]
-other = """Wenn Dich keine der Herausforderungen überzeugt, kannst Du selbstverständlich Deine eigenen Challenges und Ideen mit der verfügbaren Hardware realisieren!
+other = """Wenn dich keine der Herausforderungen überzeugt, kannst du selbstverständlich Deine eigenen Challenges und Ideen mit der verfügbaren Hardware realisieren!
 
 <a href='https://github.com/make-zurich/open-challenge-ideas-2020/issues/new?assignees=&labels=&template=new-idea.md&title=%5BGive+your+idea+a+catchy+challenge+name%5D' class='btn event-primary-color my-4 waves-effect waves-light'>Submit your idea here!</a>"""
 
@@ -137,7 +137,7 @@ other = "Links"
 other = "Kontakt"
 
 [footer_run_similar_event]
-other = "Möchtest Du diesen Event in deiner Stadt organisieren?"
+other = "Möchtest du diesen Event in deiner Stadt organisieren?"
 
 [footer_template_link]
 other = "Siehe dazu die [Vorlage & Anleitung](https://github.com/open-network-infrastructure/hugo-hackatheme)."
@@ -149,7 +149,7 @@ other = "Sorry, hier gibt's nichts..."
 [404_text]
 other = """Kennst du die Seite, nach der du gesucht hast? Nun.... jetzt ist sie weg.
 
-Aber wir haben stattdessen ein hübsches GIF für Dich... ❤️"""
+Aber wir haben stattdessen ein hübsches GIF für dich... ❤️"""
 
 # Generic site-wide translations
 [read_more]
