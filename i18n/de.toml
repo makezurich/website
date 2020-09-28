@@ -16,7 +16,7 @@ other = "Hackathon für ein besseres Zürich"
 other = "Worum geht's?"
 
 [basicinfo_what_is_it]
-other = """Wir bringen die lokale Maker-Community und die Stadtverwaltung
+other = """Wir bringen die lokale Maker Community und die Stadtverwaltung
 zusammen und erforschen mit Hilfe von [offenen Netzwerken und Civic Tech](https://www.thethingsnetwork.org/)
 neue Herangehensweisen für die Herausforderungen in [unserer Stadt](https://www.stadt-zuerich.ch)."""
 
@@ -24,19 +24,18 @@ neue Herangehensweisen für die Herausforderungen in [unserer Stadt](https://www
 other = "Wann und Wo?"
 
 [basicinfo_when_where]
-other = """Die Challenges werden am 23. Oktober vorgestellt. Am **Freitag dem 30.** und **Samstag, dem 31.10.2020** findet dann der Hackathon im **Zentralwäscherei Zürich** statt."""
+other = """Die Challenges werden am 23. Oktober vorgestellt. Am **Freitag 30.** und **Samstag, 31. Oktober 2020** findet der Hackathon in der **Zentralwäscherei Zürich** statt."""
 
 [basicinfo_organizers]
-other = """Make Zurich ist ein Community-Event, der gemeinsam von der Stadt Zürich und der «Open Network Infrastructure Association» organisiert wird."""
+other = """Make Zurich ist ein Community Event, der gemeinsam von der Stadt Zürich und der «Open Network Infrastructure Association» organisiert wird."""
 
 [challenges_title]
 other = "Challenges"
 
 [challenges_intro]
-other = """Wir haben **echte Bed&uuml;rfnisse** verschiedener Dienstabteilungen der Stadt Z&uuml;rich abgeholt, die mit Hilfe von LoRaWAN und Civic Tech angegangen werden k&ouml;nnen.
+other = """Wir haben **echte Bed&uuml;rfnisse** verschiedener Dienstabteilungen der Stadt Z&uuml;rich gesammelt, welche mit Hilfe von LoRaWAN und Civic Tech gel&ouml;st werden k&ouml;nnen.
 
-Es wird auch eine **offene Challenge** geben: wenn Dir nicht danach ist, an einer der vorgeschlagenen Challenges mitzuwirken, steht es Dir v&ouml;llig
-frei, mit der verf&uuml;gbaren Hardware eigene L&ouml;sungen zu realisieren."""
+Es gibt auch eine **offene Challenge**: Wenn Dir nicht danach ist an einer der vorgeschlagenen Challenges mitzuwirken, kannst du auch mit der verf&uuml;gbaren Hardware eigene L&ouml;sungen für die Stadt realisieren."""
 
 [challenge]
 other = "Challenge"
@@ -45,7 +44,7 @@ other = "Challenge"
 other = "Granny Alert"
 
 [challenges_saw_description]
-other = """Wie k&ouml;nnen wir die Reaktionsf&auml;higkeit auf Notf&auml;lle &auml;lterer Menschen zu Hause verbessern, ohne ihre Privatsph&auml;re zu gef&auml;hrden?
+other = """Wie k&ouml;nnen wir die Reaktionszeit auf Notf&auml;lle &auml;lterer Menschen zu Hause verbessern, ohne ihre Privatsph&auml;re zu gef&auml;hrden?
 
 Zur Verf&uuml;gung gestellt von Stiftung Alterswohnungen"""
 
@@ -87,7 +86,7 @@ Zur Verf&uuml;gung gestellt vom Umweltdepartement der Stadt Z&uuml;rich
 other = "Umspannwerke"
 
 [challenges_ewz_description]
-other = """Hilf uns, die Effizienz der Wartung von Umspannwerken zu steigern.
+other = """Hilf uns, die Effizienz der Wartung von Umspannwerken zu verbessern.
 
 Zur Verf&uuml;gung gestellt vom EWZ - Elektrizit&auml;tswerk der Stadt Z&uuml;rich"""
 
@@ -95,7 +94,7 @@ Zur Verf&uuml;gung gestellt vom EWZ - Elektrizit&auml;tswerk der Stadt Z&uuml;ri
 other = "Offene Challenge"
 
 [challenges_open_description]
-other = """Wenn Dich keine der Herausforderungen überzeugt, kannst Du selbstverständlich Deine eigenen Challenges und Ideen mit der verfügbaren Hardware umsetzen!
+other = """Wenn Dich keine der Herausforderungen überzeugt, kannst Du selbstverständlich Deine eigenen Challenges und Ideen mit der verfügbaren Hardware realisieren!
 
 <a href='https://github.com/make-zurich/open-challenge-ideas-2020/issues/new?assignees=&labels=&template=new-idea.md&title=%5BGive+your+idea+a+catchy+challenge+name%5D' class='btn event-primary-color my-4 waves-effect waves-light'>Submit your idea here!</a>"""
 
@@ -121,13 +120,13 @@ other = "Jede Menge Elektronik, Sensoren und andere Hardware zum Herumspielen!"
 other = "Gesund sein"
 
 [features_healthy-food_description]
-other = "Wir kümmern uns um dich, sorgen für gesunde Ernährung und gute Atmosphere, damit du nicht daran denken müss! Und Klar haben wir ein Sicherheitskonzept."
+other = "Wir kümmern uns um dich, sorgen für gesunde Ernährung und gute Atmosphere, damit du nicht daran denken musst! Und klar haben wir ein Sicherheitskonzept."
 
 [features_child-care_title]
-other = "Bringe deine Kinder mit!"
+other = "Bring deine Kinder mit!"
 
 [features_child-care_description]
-other = "Wir bieten eine sichere und unterhaltsame Umgebung für junge Makers (U18) in Begleitung von Eltern. Für Kinder von 7 bis 16 Jahren bieten wir einen Coding-Workshop von Logiscool."
+other = "Wir bieten eine sichere und unterhaltsame Umgebung für junge Makers (U18) in Begleitung der Eltern. Für Kinder von 7 bis 16 Jahren bieten wir einen Coding-Workshop von Logiscool."
 
 
 # Translations for the 'Footer' section
