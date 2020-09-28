@@ -1,16 +1,16 @@
 [event_name]
-other = "Make Zürich 2020"
+other = "Make Z&uuml;rich 2020"
 
 [event_city]
-other = "Zürich"
+other = "Z&uuml;rich"
 
 [event_slogan]
 other = """Civic Tech <span class="typewriter-text-rotate" data-rotate='["Hackathon", "Makerdays"]'>Hackathon</span>
-    für ein besseres Zürich
+    f&uuml;r ein besseres Z&uuml;rich
 """
 
 [basicinfo_claim]
-other = "Hackathon für ein besseres Zürich"
+other = "Hackathon f&uuml;r ein besseres Z&uuml;rich"
 
 [basicinfo_what_is_it_title]
 other = "Worum geht's?"
@@ -18,16 +18,16 @@ other = "Worum geht's?"
 [basicinfo_what_is_it]
 other = """Wir bringen die lokale Maker Community und die Stadtverwaltung
 zusammen und erforschen mit Hilfe von [offenen Netzwerken und Civic Tech](https://www.thethingsnetwork.org/)
-neue Herangehensweisen für die Herausforderungen in [unserer Stadt](https://www.stadt-zuerich.ch)."""
+neue Herangehensweisen f&uuml;r die Herausforderungen in [unserer Stadt](https://www.stadt-zuerich.ch)."""
 
 [basicinfo_when_where_title]
 other = "Wann und Wo?"
 
 [basicinfo_when_where]
-other = """Die Challenges werden am 23. Oktober vorgestellt. Am **Freitag 30.** und **Samstag, 31. Oktober 2020** findet der Hackathon in der **Zentralwäscherei Zürich** statt."""
+other = """Die Challenges werden am 23. Oktober vorgestellt. Am **Freitag 30.** und **Samstag, 31. Oktober 2020** findet der Hackathon in der **Zentralw&auml;scherei Z&uuml;rich** statt."""
 
 [basicinfo_organizers]
-other = """Make Zurich ist ein Community Event, der gemeinsam von der Stadt Zürich und der «Open Network Infrastructure Association» organisiert wird."""
+other = """Make Zurich ist ein Community Event, der gemeinsam von der Stadt Z&uuml;rich und der «Open Network Infrastructure Association» organisiert wird."""
 
 [challenges_title]
 other = "Challenges"
@@ -35,7 +35,7 @@ other = "Challenges"
 [challenges_intro]
 other = """Wir haben **echte Bed&uuml;rfnisse** verschiedener Dienstabteilungen der Stadt Z&uuml;rich gesammelt, welche mit Hilfe von LoRaWAN und Civic Tech gel&ouml;st werden k&ouml;nnen.
 
-Es gibt auch eine **offene Challenge**: Wenn Dir nicht danach ist an einer der vorgeschlagenen Challenges mitzuwirken, kannst du auch mit der verf&uuml;gbaren Hardware eigene L&ouml;sungen für die Stadt realisieren."""
+Es gibt auch eine **offene Challenge**: Wenn Dir nicht danach ist an einer der vorgeschlagenen Challenges mitzuwirken, kannst du auch mit der verf&uuml;gbaren Hardware eigene L&ouml;sungen f&uuml;r die Stadt realisieren."""
 
 [challenge]
 other = "Challenge"
@@ -94,12 +94,12 @@ Zur Verf&uuml;gung gestellt vom EWZ - Elektrizit&auml;tswerk der Stadt Z&uuml;ri
 other = "Offene Challenge"
 
 [challenges_open_description]
-other = """Wenn dich keine der Herausforderungen überzeugt, kannst du selbstverständlich Deine eigenen Challenges und Ideen mit der verfügbaren Hardware realisieren!
+other = """Wenn dich keine der Herausforderungen &uuml;berzeugt, kannst du selbstverst&auml;ndlich Deine eigenen Challenges und Ideen mit der verf&uuml;gbaren Hardware realisieren!
 
 <a href='https://github.com/make-zurich/open-challenge-ideas-2020/issues/new?assignees=&labels=&template=new-idea.md&title=%5BGive+your+idea+a+catchy+challenge+name%5D' class='btn event-primary-color my-4 waves-effect waves-light'>Submit your idea here!</a>"""
 
 [team_description]
-other = """Make Zurich ist dank der tollen Zusammenarbeit eines grossartigen Teams möglich:"""
+other = """Make Zurich ist dank der tollen Zusammenarbeit eines grossartigen Teams m&ouml;glich:"""
 
 [features]
 other = "Was finde ich hier"
@@ -120,13 +120,13 @@ other = "Jede Menge Elektronik, Sensoren und andere Hardware zum Herumspielen!"
 other = "Gesund sein"
 
 [features_healthy-food_description]
-other = "Wir kümmern uns um dich, sorgen für gesunde Ernährung und gute Atmosphere, damit du nicht daran denken musst! Selbstverst&auml;ndlich haben wir ein Sicherheitskonzept."
+other = "Wir k&uuml;mmern uns um dich, sorgen f&uuml;r gesunde Ern&auml;hrung und gute Atmosphere, damit du nicht daran denken musst! Selbstverst&auml;ndlich haben wir ein Sicherheitskonzept."
 
 [features_child-care_title]
 other = "Bring deine Kinder mit!"
 
 [features_child-care_description]
-other = "Wir bieten eine sichere und unterhaltsame Umgebung für junge Makers (U18) in Begleitung der Eltern. Für Kinder von 7 bis 16 Jahren bieten wir einen Coding-Workshop von Logiscool."
+other = "Wir bieten eine sichere und unterhaltsame Umgebung f&uuml;r junge Makers (U18) in Begleitung der Eltern. F&uuml;r Kinder von 7 bis 16 Jahren bieten wir einen Coding-Workshop von Logiscool."
 
 
 # Translations for the 'Footer' section
@@ -137,7 +137,7 @@ other = "Links"
 other = "Kontakt"
 
 [footer_run_similar_event]
-other = "Möchtest du diesen Event in deiner Stadt organisieren?"
+other = "M&ouml;chtest du diesen Event in deiner Stadt organisieren?"
 
 [footer_template_link]
 other = "Siehe dazu die [Vorlage & Anleitung](https://github.com/open-network-infrastructure/hugo-hackatheme)."
@@ -149,7 +149,7 @@ other = "Sorry, hier gibt's nichts..."
 [404_text]
 other = """Kennst du die Seite, nach der du gesucht hast? Nun.... jetzt ist sie weg.
 
-Aber wir haben stattdessen ein hübsches GIF für dich... ❤️"""
+Aber wir haben stattdessen ein h&uuml;bsches GIF f&uuml;r dich... ❤️"""
 
 # Generic site-wide translations
 [read_more]
