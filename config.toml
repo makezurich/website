@@ -192,7 +192,7 @@ class = "my-4 w-50"
 [[params.partners.sponsors]]
 name = "Brudi GmbH + Co-Co-Co"
 logo = "/images/partners/logo-brudi-cococo.png"
-url = "https://co-co-co.org/brudi_co-co-co/"
+url = "https://co-co-co.org/brudi_co-co-co.html"
 class = "my-4 w-50"
 
 [[params.partners.sponsors]]
