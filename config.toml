@@ -237,6 +237,12 @@ logo = "/images/partners/logo-datacenterlight.png"
 url = "https://datacenterlight.ch/"
 class = "my-3 w-50"
 
+[[params.partners.sponsors]]
+name = "Rockstar Recruiting"
+logo = "/images/partners/logo-rockstar.png"
+url = "http://www.rockstar.jobs/"
+class = "my-3 w-50"
+
 # Community partners of the event
 [[params.partners.community]]
 name = "The Things Network"
