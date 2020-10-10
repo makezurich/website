@@ -8,7 +8,7 @@
 * Clone this repository.
 * Check out the submodules:
 
-    $ git submodule update --init --recursive
+      $ git submodule update --init --recursive
 
 ## Run locally
 
