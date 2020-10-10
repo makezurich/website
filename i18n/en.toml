@@ -126,3 +126,33 @@ other = "Kids are cool"
 
 [features_child-care_description]
 other = "We offer a safe and fun environment for young makers (U18) who are accompanied by their parents. For kids 7 to 16 we offer a coding workshop by Logiscool."
+
+[covid_title]
+other = "Protect yourself and others"
+
+[covid_mask]
+other = "Wear a face mask."
+
+[covid_distance]
+other = "Keep a distance."
+
+[covid_wash]
+other = "Wash your hands thoroughly."
+
+[covid_get-tested]
+other = "If you experience symptoms, get tested immediately and stay at home."
+
+[covid_contact-tracing]
+other = "To enable contact tracing, always provide your complete contact information."
+
+[covid_app]
+other = "Download and activate the SwissCovid app."
+
+[covid_stay-home]
+other = "If you test positive: isolate."
+
+[covid_handshakes]
+other = "Do not shake hands."
+
+[covid_cough]
+other = "Cough and sneeze into your elbow."

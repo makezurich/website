@@ -169,3 +169,33 @@ other = "Community-Partner"
 
 [team]
 other = "Team"
+
+[covid_title]
+other = "So schützen wir uns"
+
+[covid_mask]
+other = "Maske tragen."
+
+[covid_distance]
+other = "Abstand halten."
+
+[covid_wash]
+other = "Gründlich Hände waschen."
+
+[covid_get-tested]
+other = "Bei Symptomen sofort testen lassen und zuhause bleiben."
+
+[covid_contact-tracing]
+other = "Zur Rückverfolgung immer vollständige Kontaktdaten angeben."
+
+[covid_app]
+other = "SwissCovid App downloaden und aktivieren."
+
+[covid_stay-home]
+other = "Bei positivem Test: Isolation."
+
+[covid_handshakes]
+other = "Hände schütteln vermeiden."
+
+[covid_cough]
+other = "In Taschentuch oder Armbeuge husten und niesen."

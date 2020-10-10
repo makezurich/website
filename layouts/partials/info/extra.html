@@ -1,0 +1,31 @@
+<section id="covid-protection" class="covid-protection container">
+  <div class="row">
+    <div class="col-sm-12">
+
+      <!-- Card -->
+      <div class="card mb-3">
+        <div class="card-body">
+
+          <h3 class="card-title text-center text-uppercase">
+            <b>{{ i18n "covid_title" }}</b>
+          </h3>
+
+          <div class="row card-body">
+            {{ $covidFigures := slice "mask" "distance" "wash" "get-tested" "contact-tracing" "app" "stay-home" "handshakes" "cough" }}
+            {{ range $covidFigures }}
+              {{ $covidI18nImage := printf "images/covid/%s.png" .}}
+              {{ $covidI18nName := printf "covid_%s" .}}
+              <figure class="figure">
+                <img src="{{ $covidI18nImage | relURL }}"/>
+                <figcaption class="figure-caption mt-2">{{ i18n $covidI18nName }}</figcaption>
+              </figure>
+            {{ end }}
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+</section>
