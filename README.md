@@ -16,7 +16,7 @@
 
 ## Deploying
 
-The `master` branch of this repository is configured to automatically deploy to production using [Travis-CI](https://travis-ci.org).
+The `master` branch of this repository is configured to automatically deploy to production using Github Actions.
 
 Make your changes, push them and enjoy life! **Automation FTW!**
 
