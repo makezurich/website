@@ -1,6 +1,6 @@
 # makezurich.ch
 
-[![Build Status](https://travis-ci.org/make-zurich/website.svg?branch=master)](https://travis-ci.org/make-zurich/website)
+![Build Status](https://github.com/make-zurich/website/workflows/Build%20website/badge.svg)
 
 ## Pre-requisites
 
