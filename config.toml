@@ -111,10 +111,6 @@ name = "Alexandra Collm"
 photo = "/images/team/alexandra.png"
 
 [[params.team.members]]
-name = "Lizzie Gappe"
-photo = "/images/team/lizzie.png"
-
-[[params.team.members]]
 name = "Sandra Veiga"
 photo = "/images/team/sandra.png"
 
