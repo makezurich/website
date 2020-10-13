@@ -286,6 +286,12 @@ logo = "/images/partners/logo-echtzeit-digitalekultur.png"
 url = "https://demonights.ch/"
 class = "my-2 w-50"
 
+[[params.partners.community]]
+name = "Make.Human.Technology"
+logo = "/images/partners/logo-makehumantechnology.png"
+url = "https://makehumantechnology.org/"
+class = "my-3 w-50"
+
 # [[params.partners.community]]
 # name = "Women++"
 # logo = "/images/partners/logo-womenplusplus.png"
