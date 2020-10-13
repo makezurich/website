@@ -1,3 +1,5 @@
+# Note: once the event has started:
+# change all four occurrances of PRIMARY BUTTON LINK
 baseURL = "https://makezurich.ch/"
 title = "Make Zurich 2020"
 theme = "hugo-hackatheme"
@@ -430,7 +432,7 @@ languageName = "English"
     url = "/#challenges"
     weight = 4
 
-# NOTE: Primary button link (Navigation)
+# PRIMARY BUTTON LINK
 # Change links according to event stage:
 # Before event=Register
 # During event=Getting Started
@@ -449,11 +451,18 @@ languageName = "English"
     pre = "btn-black"
     post = "fa-sign-in"
 
-# NOTE: Primary button link (Hero)
+# PRIMARY BUTTON LINK (Hero)
 # Same as the one above
 [[languages.en.menu.hero]]
+    # BEFORE
     name = "Register"
-    url = "#register"
+    url = "/register"
+    # DURING
+    # name = "Getting started"
+    # url = "/start"
+    # AFTER
+    # name = "Projekte"
+    # url = "https://now.makezurich.ch/event/4"
     pre = "event-primary-color"
     post = "fa-sign-in"
 
@@ -476,7 +485,7 @@ languageName = "Deutsch"
     url = "/#challenges"
     weight = 4
 
-# NOTE: Primary button link (Navigation)
+# PRIMARY BUTTON LINK
 # Change links according to event stage:
 # Before event=Register
 # During event=Getting Started
@@ -495,11 +504,18 @@ languageName = "Deutsch"
     pre = "btn-black"
     post = "fa-sign-in"
 
-# NOTE: Primary button link (Hero)
+# PRIMARY BUTTON LINK (Hero)
 # Same as the one above
 [[languages.de.menu.hero]]
+    # BEFORE
     name = "Anmelden"
-    url = "#register"
+    url = "/register"
+    # DURING
+    # name = "Getting started"
+    # url = "/de/start"
+    # AFTER
+    # name = "Projekte"
+    # url = "https://now.makezurich.ch/event/4"
     pre = "event-primary-color"
     post = "fa-sign-in"
 
