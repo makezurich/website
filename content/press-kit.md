@@ -1,6 +1,6 @@
 +++
 title = "Press kit"
-weight = 11
+weight = 16
 type = "info"
 layout = "press-kit"
 
