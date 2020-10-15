@@ -36,7 +36,7 @@ city = "Zürich"
 state = "Zürich"
 country = "Switzerland"
 mapboxPublicToken = "pk.eyJ1IjoiZ29uemFsb2Nhc2FzIiwiYSI6ImNpa2JnMDI2cDAwMzR3bGx2eXkyZDh4a3QifQ.sgne64JeXpvQee49WW1oTA"
-mapboxStyle = "emerald"
+mapboxStyle = "light-v10"
 mapboxZoom = 15
 
 [params.venue.coords]
