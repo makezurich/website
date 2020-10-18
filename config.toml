@@ -138,6 +138,10 @@ photo = "/images/team/tiago.png"
 name = "Roxana Pedano"
 photo = "/images/team/roxy.png"
 
+[[params.team.members]]
+name = "Cinzia Casotti"
+photo = "/images/team/cinzia.png"
+
 # Sponsors of the event
 [[params.partners.sponsors]]
 name = "Stadt Zurich"
