@@ -247,7 +247,7 @@ class = "my-3 w-50"
 
 [[params.partners.sponsors]]
 name = "Digital Republic"
-logo = "/images/partners/logo-digital-republic.png"
+logo = "/images/partners/logo-dr.png"
 url = "https://digitalrepublic.ch/"
 class = "my-2 w-50"
 
