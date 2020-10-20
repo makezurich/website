@@ -10,6 +10,21 @@ name = "COVID-19"
 
 +++
 
+## Update 21.10.2020
+
+Based on the evolving COVID-19 situation, the following updates apply:
+
+* **Kick-off is now virtual!**: participants will receive the link to join the online session shortly before the start.
+* Teams: We will create breakout rooms at kick-off for participants to start teaming up.
+* Hardware: right after kick-off and during the open lab week participants will be able to pickup hardware. More details at kick-off.
+* Open lab week: the lab at Bitwäscherei will be open the whole week (16:00-22:00) as planned, while keeping safe distance. If it gets too crowded, we will assign participants to other locations.
+* Workshops: some will be switched to virtual mode. More details will follow.
+* Hackdays (30-31 Oct): in-person but with remote work encouraged. Teams will work as isolated as possible. If space is not enough, we will assign participants to other locations. Final presentations only by 1 or 2 representatives of the team.
+* Food: unfortunately, neither the kick-off nor the final apéro can take place. All food will be packaged and to eat at the table. we will have to limit social interaction a lot.
+* Child care: the caregiver will be on site.
+
+---
+
 The Make Zurich hackathon team is very concerned about safety of the hacker/maker community and the different stakeholders like sponsors, challenge providers and visitors.
 
 In alignment with the policies given by the [Federal Office of Public Health](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov.html), the [Department of Health of the Kanton Zurich](https://www.zh.ch/de/gesundheit/coronavirus.html) and the [Department of Health and Environment of the City of Zurich](https://www.stadt-zuerich.ch/gud/de/index/gesundheitsversorgung/public-health/coronavirus-sars-cov-2.html) the following safety concept has been defined in order to assure a safe Make Zurich hackathon for all participants.
