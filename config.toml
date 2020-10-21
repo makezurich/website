@@ -246,6 +246,12 @@ url = "http://www.rockstar.jobs/"
 class = "my-3 w-50"
 
 [[params.partners.sponsors]]
+name = "Eden Senses"
+logo = "/images/partners/logo-eden.png"
+url = "https://www.eden-senses.com/"
+class = "my-3 w-50"
+
+[[params.partners.sponsors]]
 name = "Digital Republic"
 logo = "/images/partners/logo-dr.png"
 url = "https://digitalrepublic.ch/"
