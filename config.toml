@@ -451,11 +451,11 @@ languageName = "English"
 # After=Projects
 [[languages.en.menu.highlighted]]
     # BEFORE
-    name = "Register"
-    url = "/register"
+    # name = "Register"
+    # url = "/register"
     # DURING
-    # name = "Getting started"
-    # url = "/start"
+    name = "Getting started"
+    url = "/start"
     # AFTER
     # name = "Projects"
     # url = "https://now.makezurich.ch/event/4"
@@ -467,11 +467,11 @@ languageName = "English"
 # Same as the one above
 [[languages.en.menu.hero]]
     # BEFORE
-    name = "Register"
-    url = "/register"
+    # name = "Register"
+    # url = "/register"
     # DURING
-    # name = "Getting started"
-    # url = "/start"
+    name = "Getting started"
+    url = "/start"
     # AFTER
     # name = "Projekte"
     # url = "https://now.makezurich.ch/event/4"
@@ -504,11 +504,11 @@ languageName = "Deutsch"
 # After=Projects
 [[languages.de.menu.highlighted]]
     # BEFORE
-    name = "Anmelden"
-    url = "/register"
+    # name = "Anmelden"
+    # url = "/register"
     # DURING
-    # name = "Getting started"
-    # url = "/de/start"
+    name = "Getting started"
+    url = "/de/start"
     # AFTER
     # name = "Projekte"
     # url = "https://now.makezurich.ch/event/4"
@@ -520,11 +520,11 @@ languageName = "Deutsch"
 # Same as the one above
 [[languages.de.menu.hero]]
     # BEFORE
-    name = "Anmelden"
-    url = "/register"
+    # name = "Anmelden"
+    # url = "/register"
     # DURING
-    # name = "Getting started"
-    # url = "/de/start"
+    name = "Getting started"
+    url = "/de/start"
     # AFTER
     # name = "Projekte"
     # url = "https://now.makezurich.ch/event/4"
