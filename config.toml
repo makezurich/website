@@ -444,6 +444,14 @@ languageName = "English"
     url = "/#challenges"
     weight = 4
 
+[[languages.en.menu.highlighted]]
+    # DURING & AFTER
+    name = "Projects"
+    url = "https://now.makezurich.ch/event/4"
+    weight = 4
+    pre = "btn-black"
+    post = "fa-tasks"
+
 # PRIMARY BUTTON LINK
 # Change links according to event stage:
 # Before event=Register
@@ -496,6 +504,14 @@ languageName = "Deutsch"
     name = "Challenges"
     url = "/#challenges"
     weight = 4
+
+[[languages.de.menu.highlighted]]
+    # DURING & AFTER
+    name = "Projekte"
+    url = "https://now.makezurich.ch/event/4"
+    weight = 4
+    pre = "btn-black"
+    post = "fa-tasks"
 
 # PRIMARY BUTTON LINK
 # Change links according to event stage:
