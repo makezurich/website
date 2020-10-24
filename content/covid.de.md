@@ -49,7 +49,7 @@ Under normal conditions, the location has following capacity:
 
 During the week, the MechArtLab located at Bitwäscherei, Neue Hard 12, 8005 Zürich can be used by hackers to meet and work on their challenges.
 
-In order to provide you a safe environment during the open lab week, please follow the [safety concept of Bitwäscherei](https://wiki.sgmk-ssam.ch/images/5/52/BIT-25854709-120920-1630-6.pdf).
+In order to provide you a safe environment during the open lab week, please follow the [safety concept of Bitwäscherei](https://wiki.sgmk-ssam.ch/images/e/ef/Bitwaescherei_Schutzkonzept_okt2020.pdf).
 
 ## Precautionary measures
 
