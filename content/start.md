@@ -62,6 +62,8 @@ First of all, check the following two excellent guides:
 * [Make Zurich hardware intro](https://github.com/make-zurich/makezurich-hardware-intro/)
 * [Make Zurich software intro](https://github.com/make-zurich/makezurich-software-intro/)
 
+[**Tech specs and datasheets for all hardware**<i class="fa fa-file ml-2"></i>](../techspecs)
+
 ### Inside the box
 
 Each team gets a hardware kit with:

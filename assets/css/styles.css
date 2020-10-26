@@ -44,3 +44,63 @@
   text-align: center;
   color: white;
 }
+
+.tech-specs table {
+  display: block;
+  overflow: auto;
+  height: 500px;
+  white-space: nowrap;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+  margin: 1em auto;
+}
+
+.tech-specs a:hover {
+  text-decoration: underline;
+}
+
+.tech-specs table td, .tech-specs table th {
+  padding: 20px;
+}
+
+.tech-specs table td {
+  vertical-align: middle;
+}
+
+.tech-specs table th {
+  background-color: #0275d8;
+  color: white;
+  font-weight: 300;
+}
+
+.tech-specs table tr:nth-child(2n) {
+  background-color: white;
+}
+
+.tech-specs table tr:nth-child(2n+1) {
+  background-color: #e5f1fc;
+}
+
+.tech-specs table tr {
+  transition: all 0.25s ease;
+}
+
+.tech-specs table tr:hover {
+  background: #e8ebeb;
+}
+
+.tech-specs table tr:hover td {
+  color: black;
+}
+
+.tech-specs ::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+.tech-specs ::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+.tech-specs ::-webkit-scrollbar-thumb {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
