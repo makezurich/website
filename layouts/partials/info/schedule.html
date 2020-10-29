@@ -373,26 +373,10 @@
                   <tr>
                     <th class="scheduled-time"></th>
                     <th class="scheduled-title">
-                      <mark>Main Event</mark> at
-                      {{- with .Site.Params.venue }}
-                        {{- with .coords }}
-                          <a href="https://www.openstreetmap.org/#map=19/{{ .latitude }}/{{ .longitude }}" target="_blank">
-                        {{ end }}
-                          {{ .name }}
-                        </a>
-                      {{ end }} 🐝🐱‍💻
+                      <mark>Main Event</mark> 👉 <b>switched to virtual</b>
                     </th>
                     <td class="scheduled-notes d-none d-lg-table-cell">
-                      {{- with .Site.Params.venue }}
-                        {{- with .coords }}
-                          <a href="https://www.openstreetmap.org/#map=16/{{ .latitude }}/{{ .longitude }}" target="_blank">
-                        {{ end }}
-                        <b>{{ .street }}<br/>{{ .zipcode }} {{ .city }}</b>
-                        <i class="fa fa-map-marker"></i>
-                        {{- with .coords }}
-                          </a>
-                        {{ end }}
-                      {{ end }}
+                      Zoom + Slack + more
                     </td>
                   </tr>
                   <tr>
@@ -415,10 +399,15 @@
                   </tr>
                   <tr>
                     <th>
-                      12:00
+                      15:00
                     </th>
                     <td>
-                      Lunch
+                      <a name="workshop-miromico" class="workshop"></a>
+                      <i>Tech-talk</i><br />
+                      <a href="#workshop-miromico">Miromico's concept of the FMLR LoRaWAN module family</a>, by <a
+                        href="https://miromico.ch" target="_blank"><b>Miromico</b></a><br />
+                      <small>Learn about the concept and features of the family of FMLR LoRaWAN modules of miromico, including
+                        some of the smallest modules of the world!</small>
                     </td>
                     <td></td>
                   </tr>
@@ -427,20 +416,10 @@
                       15:00
                     </th>
                     <td>
-                      <a name="workshop-miromico" class="workshop"></a>
+                      <a name="techtalk-semtech" class="workshop"></a>
                       <i>Tech-talk</i><br/>
-                      <a href="#workshop-miromico">Miromico's concept of the FMLR LoRaWAN module family</a>, by <a href="https://miromico.ch" target="_blank"><b>Miromico</b></a><br/>
-                      <small>Learn about the concept and features of the family of FMLR LoRaWAN modules of miromico, including
-                        some of the smallest modules of the world!</small>
-                    </td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <th>
-                      18:00
-                    </th>
-                    <td>
-                      Dinner
+                      <a href="#techtalk-semtech">Semtech LoRaWAN soft modem</a>, by <a href="https://semtech.com" target="_blank"><b>Semtech</b></a><br/>
+                      <small>Learn more about the LoRaWAN soft modem included as part of the hardware kits of the event!</small>
                     </td>
                     <td></td>
                   </tr>
@@ -477,16 +456,7 @@
                       09:00
                     </th>
                     <td>
-                      Breakfast
-                    </td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <th>
-                      12:00
-                    </th>
-                    <td>
-                      Lunch
+                      Good morning! Second hackday starts!
                     </td>
                     <td></td>
                   </tr>
