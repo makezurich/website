@@ -10,6 +10,13 @@ name = "COVID-19"
 
 +++
 
+## Update 28.10.2020
+
+Based on the updated regulations, the majority of the event will take place online.
+
+* Hackdays (30-31 Oct): will take place online. Teams that need physical access to tools or infrastructure may still join at the lab.
+* Child care: the caregiver will be on site, but the workshop for kids will not take place.
+
 ## Update 21.10.2020
 
 Based on the evolving COVID-19 situation, the following updates apply:
