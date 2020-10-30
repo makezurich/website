@@ -8,6 +8,10 @@
   margin-top: 8px;
 }
 
+.schedule .meet-invite {
+  color: #0e74af;
+}
+
 .schedule .done {
   opacity: 0.4;
 }
