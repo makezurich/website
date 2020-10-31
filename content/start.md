@@ -15,7 +15,7 @@ Make Zurich is a community event around civic tech and in particular, the [The T
 **Slides:**
 
 * [**Kick-off slides**<i class="fa fa-file-powerpoint-o ml-2"></i>](https://docs.google.com/presentation/d/1AZKdVwxiU523PqrmQYuqzSjM2JygpF8D8DViXHUglWo/edit?usp=sharing)
-* [**Hackday #1 slides**<i class="fa fa-file-powerpoint-o ml-2"></i>](https://docs.google.com/presentation/d/1mC8KlbmocwPJFVHYnfn6kzGySW-yrMykdiWqQdlSTSs/edit?usp=sharing)
+* [**Hackday start slides**<i class="fa fa-file-powerpoint-o ml-2"></i>](https://docs.google.com/presentation/d/1mC8KlbmocwPJFVHYnfn6kzGySW-yrMykdiWqQdlSTSs/edit?usp=sharing)
 
 <img src="/images/challenges/howto.png" alt="Mini HOWTO" width="100%" />
 
