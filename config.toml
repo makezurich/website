@@ -1,7 +1,7 @@
 # Note: once the event has started:
 # change all four occurrances of PRIMARY BUTTON LINK
 baseURL = "https://makezurich.ch/"
-title = "Make Zurich 2020"
+title = "Make Zurich 2023"
 theme = "hugo-hackatheme"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -74,73 +74,74 @@ photo = "/images/team/gnz.png"
 name = "Marcus Cathomen"
 photo = "/images/team/marcus.png"
 
-[[params.team.members]]
-name = "Simon Maurer"
-photo = "/images/team/simon.png"
+# [[params.team.members]]
+# name = "Simon Maurer"
+# photo = "/images/team/simon.png"
 
-[[params.team.members]]
-name = "Michel Racic"
-photo = "/images/team/michel.png"
+# [[params.team.members]]
+# name = "Michel Racic"
+# photo = "/images/team/michel.png"
 
-[[params.team.members]]
-name = "Oleg Lavrovsky"
-photo = "/images/team/oleg.png"
+# [[params.team.members]]
+# name = "Oleg Lavrovsky"
+# photo = "/images/team/oleg.png"
 
 [[params.team.members]]
 name = "Tillo Bosshart"
 photo = "/images/team/tillo.png"
 
-[[params.team.members]]
-name = "Dirk Zugenmaier"
-photo = "/images/team/dirk.png"
+# [[params.team.members]]
+# name = "Dirk Zugenmaier"
+# photo = "/images/team/dirk.png"
+
+# [[params.team.members]]
+# name = "Diego Sandoval"
+# photo = "/images/team/diego.png"
+
+# [[params.team.members]]
+# name = "Yannick Weiss"
+# photo = "/images/team/yannick.png"
+
+# [[params.team.members]]
+# name = "Urs Marti"
+# photo = "/images/team/urs.png"
+
+# [[params.team.members]]
+# name = "Alexandra Collm"
+# photo = "/images/team/alexandra.png"
+
+# [[params.team.members]]
+# name = "Sandra Veiga"
+# photo = "/images/team/sandra.png"
+
+# [[params.team.members]]
+# name = "Juerg Wyser"
+# photo = "/images/team/juerg.png"
+
+# [[params.team.members]]
+# name = "Manuel Di Cerbo"
+# photo = "/images/team/manuel.png"
+
+# [[params.team.members]]
+# name = "Marco Foco"
+# photo = "/images/team/marco.png"
+
+# [[params.team.members]]
+# name = "Raphael Rotondari"
+# photo = "/images/team/raphael.png"
+
+# [[params.team.members]]
+# name = "Tiago Neves"
+# photo = "/images/team/tiago.png"
+
+# [[params.team.members]]
+# name = "Roxana Pedano"
+# photo = "/images/team/roxy.png"
+
 
 [[params.team.members]]
-name = "Diego Sandoval"
-photo = "/images/team/diego.png"
-
-[[params.team.members]]
-name = "Yannick Weiss"
-photo = "/images/team/yannick.png"
-
-[[params.team.members]]
-name = "Urs Marti"
-photo = "/images/team/urs.png"
-
-[[params.team.members]]
-name = "Alexandra Collm"
-photo = "/images/team/alexandra.png"
-
-[[params.team.members]]
-name = "Sandra Veiga"
-photo = "/images/team/sandra.png"
-
-[[params.team.members]]
-name = "Juerg Wyser"
-photo = "/images/team/juerg.png"
-
-[[params.team.members]]
-name = "Manuel Di Cerbo"
-photo = "/images/team/manuel.png"
-
-[[params.team.members]]
-name = "Marco Foco"
-photo = "/images/team/marco.png"
-
-[[params.team.members]]
-name = "Raphael Rotondari"
-photo = "/images/team/raphael.png"
-
-[[params.team.members]]
-name = "Tiago Neves"
-photo = "/images/team/tiago.png"
-
-[[params.team.members]]
-name = "Roxana Pedano"
-photo = "/images/team/roxy.png"
-
-[[params.team.members]]
-name = "Cinzia Casotti"
-photo = "/images/team/cinzia.png"
+name = "Baxter Yazbek"
+photo = "/images/team/baxter.png"
 
 # Sponsors of the event
 [[params.partners.sponsors]]
