@@ -9,8 +9,8 @@ defaultContentLanguage = "en"
 enableMissingTranslationPlaceholders = false    # If you're adding a new translation languange, you might want to set the following to true
 
 [params]
-dateStart = 2020-10-23T18:00:00+02:00           # Required
-dateEnd = 2020-10-31T22:00:00+02:00             # Required
+dateStart = 2023-06-09T18:00:00+02:00           # Required
+dateEnd = 2023-06-17T22:00:00+02:00             # Required
 dateForm = "January 2, 2006"                    # Required, defines date formatting style (see Hugo dateFormat)
 hashtag = "MakeZurich"
 
@@ -19,9 +19,9 @@ name = "CC-BY-SA 4.0"
 url = "https://github.com/make-zurich/website/blob/master/LICENSE"
 
 [params.styling]
-backgroundHero = "/images/background.jpg"           # Required
-logoHero = "/images/logo-inv.png"                   # Required
-logoNavbar = "/images/logo.svg"                     # Optional, leave empty to show no logo on navbar
+backgroundHero = "/images/front/background.jpg"           # Required
+logoHero = "/images/logo/logo-inv-2023.png"                   # Required
+logoNavbar = "/images/logo/logo.svg"                     # Optional, leave empty to show no logo on navbar
 externalImage = "/images/externals/event-cover.png" # Optional, used for sharing meta data
 themeColor = "#ffffff"                              # Optional
 customCSS = "/css/styles.css"                       # Optional, remove/leave empty if you don't need custom styles
@@ -29,8 +29,8 @@ customCSS = "/css/styles.css"                       # Optional, remove/leave emp
 # Venue description
 # Details are used to generate maps and schema.org meta-data
 [params.venue]
-name = "Zentralwäscherei Zürich (ZWZ)"
-street = "Josefstrasse 219"
+name = "TBD"
+street = "-"
 zipCode = "8005"
 city = "Zürich"
 state = "Zürich"
@@ -45,7 +45,7 @@ longitude = 8.5207705
 
 # Registration
 [params.registration]
-registrationForm = "https://www.eventbrite.com/e/make-zurich-2020-civic-tech-hackathon-registration-87045658909?ref=estw"
+registrationForm = "#soon"
 
 # Organizers of the event: add as many as you need.
 [[params.organizers]]
@@ -82,9 +82,9 @@ photo = "/images/team/marcus.png"
 # name = "Michel Racic"
 # photo = "/images/team/michel.png"
 
-# [[params.team.members]]
-# name = "Oleg Lavrovsky"
-# photo = "/images/team/oleg.png"
+[[params.team.members]]
+name = "Oleg Lavrovsky"
+photo = "/images/team/oleg.png"
 
 [[params.team.members]]
 name = "Tillo Bosshart"
