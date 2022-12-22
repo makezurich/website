@@ -50,12 +50,12 @@ registrationForm = "https://www.eventbrite.com/e/make-zurich-2020-civic-tech-hac
 # Organizers of the event: add as many as you need.
 [[params.organizers]]
 name = "Stadt Zürich"
-logo = "/images/logo-zurich.png"
+logo = "/images/partners/logo-zurich.png"
 url = "https://www.stadt-zuerich.ch"
 
 [[params.organizers]]
 name = "Open Network Infrastructure Association"
-logo = "/images/logo-onia.png"
+logo = "/images/partners/logo-onia.png"
 url = "https://opennetworkinfrastructure.org"
 
 # Team
