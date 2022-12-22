@@ -10,23 +10,14 @@ name = "COVID-19"
 
 +++
 
-## Update 28.10.2020
+Based on the evolving COVID-19 situation, the following precautions apply:
 
-Based on the updated regulations, the majority of the event will take place online.
-
-* Hackdays (30-31 Oct): will take place online. Teams that need physical access to tools or infrastructure may still join at the lab.
-* Child care: the caregiver will be on site, but the workshop for kids will not take place.
-
-## Update 21.10.2020
-
-Based on the evolving COVID-19 situation, the following updates apply:
-
-* **Kick-off is now virtual!**: participants will receive the link to join the online session shortly before the start.
+* Hybrid Kick-off: participants will receive the link to join an online session shortly before the start.
 * Teams: We will create breakout rooms at kick-off for participants to start teaming up.
 * Hardware: right after kick-off and during the open lab week participants will be able to pickup hardware. More details at kick-off.
 * Open lab week: the lab at Bitwäscherei will be open the whole week (16:00-22:00) as planned, while keeping safe distance. If it gets too crowded, we will assign participants to other locations.
 * Workshops: some will be switched to virtual mode. More details will follow.
-* Hackdays (30-31 Oct): in-person but with remote work encouraged. Teams will work as isolated as possible. If space is not enough, we will assign participants to other locations. Final presentations only by 1 or 2 representatives of the team.
+* Hackdays: in-person but with remote work facilitated. Teams will work as isolated as possible. If space is not enough, we will assign participants to other locations. Final presentations only by 1 or 2 representatives of the team.
 * Food: unfortunately, neither the kick-off nor the final apéro can take place. All food will be packaged and to eat at the table. we will have to limit social interaction a lot.
 * Child care: the caregiver will be on site.
 
@@ -41,9 +32,9 @@ In alignment with the policies given by the [Federal Office of Public Health](ht
 
 ## Event location
 
-### Zentralwäscherei Zürich (ZWZ)
+### Location
 
-Make Zurich is located at Zentralwäscherei, Josefstrasse 219, 8005 Zürich.
+Make Zurich is located at (TBD) 8005 Zürich.
 
 Under normal conditions, the location has following capacity:
 
