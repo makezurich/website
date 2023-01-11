@@ -27,7 +27,7 @@ jobs:
       if: success()
       uses: crazy-max/ghaction-github-pages@v2
       with:
-        repo: make-zurich/make-zurich.github.io
+        repo: makezurich/make-zurich.github.io
         target_branch: master
         build_dir: public
         keep_history: true
