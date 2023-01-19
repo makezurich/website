@@ -16,7 +16,7 @@ Kurz und einfach: **Seid grossartig zueinander!**
 
 ##### Lizenzen
 
-F&uuml;r die bei [Make Zurich 2020](https://makezurich.ch) entwickelten Werke gelten folgende Lizenzbedingungen:
+F&uuml;r die bei [Make Zurich](https://makezurich.ch) entwickelten Werke gelten folgende Lizenzbedingungen:
 
 - Keine &Uuml;bertragung von Rechten: Jeder beh&auml;lt die Rechte auf alles, was er oder sie entwickelt hat.
 - Verzichtserkl&auml;rung: Niemand wird Ausschliesslichkeitsrechte bez&uuml;glich der von ihm eingeholten Informationen aus&uuml;ben, auch wenn er/sie sonst dieses Ausschliesslichkeitsrecht nach dem Gesetz aus&uuml;ben k&ouml;nnte.

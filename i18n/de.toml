@@ -1,5 +1,5 @@
 [event_name]
-other = "Make Z&uuml;rich 2020"
+other = "Make Z&uuml;rich"
 
 [event_city]
 other = "Z&uuml;rich"
@@ -24,7 +24,7 @@ neue Herangehensweisen f&uuml;r die Herausforderungen in [unserer Stadt](https:/
 other = "Wann und Wo?"
 
 [basicinfo_when_where]
-other = """Die Challenges werden am 9. Juni vorgestellt. Am **Freitag 16.** und **Samstag, 17. Juni 2023** findet der Hackathon statt."""
+other = """Die Challenges werden am 2. Juni vorgestellt. Am Freitag und Samstag, **9 - 10. Juni 2023** findet der Hackathon statt."""
 
 [basicinfo_organizers]
 other = """Make Zurich ist ein Community Event, der gemeinsam von der Stadt Z&uuml;rich und der «Open Network Infrastructure Association» organisiert wird."""

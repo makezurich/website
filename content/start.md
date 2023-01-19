@@ -21,7 +21,9 @@ Make Zurich is a community event around civic tech and in particular, the [The T
 
 ## 1. Explore Challenges
 
-Find out more about each challenge on the following pages:
+Stay tuned for a series of exciting challenges that will be announced on June 2 and published on our hackathon platforms!
+
+<!--Find out more about each challenge on the following pages:
 
 * <span class="badge badge-pill blue darken-4"><a href="/start/1" class="white-text"><i class="fa fa-caret-right" aria-hidden="true"></i> Granny Alert challenge</a></span>
 * <span class="badge badge-pill blue darken-4"><a href="/start/2" class="white-text"><i class="fa fa-caret-right" aria-hidden="true"></i> Move and Chill challenge</a></span>
@@ -29,28 +31,28 @@ Find out more about each challenge on the following pages:
 * <span class="badge badge-pill blue darken-4"><a href="/start/4" class="white-text"><i class="fa fa-caret-right" aria-hidden="true"></i> Bicycle Parking challenge</a></span>
 * <span class="badge badge-pill blue darken-4"><a href="/start/5" class="white-text"><i class="fa fa-caret-right" aria-hidden="true"></i> Awesome Green Spaces</a></span>
 * <span class="badge badge-pill blue darken-4"><a href="/start/6" class="white-text"><i class="fa fa-caret-right" aria-hidden="true"></i> Transformer Station Tub</a></span>
-* <span class="badge badge-pill blue darken-4"><a href="/start/7" class="white-text"><i class="fa fa-caret-right" aria-hidden="true"></i> Open Challenge</a></span>
+* <span class="badge badge-pill blue darken-4"><a href="/start/7" class="white-text"><i class="fa fa-caret-right" aria-hidden="true"></i> Open Challenge</a></span>-->
 
 Contact details to ask questions directly to the challenge stakeholders are available on each of the challenge pages above.
 
-## 2. Team up
+## 2. Start/Join project
 
-Use Slack to find team members:
+We use [now.makezurich.ch](https://now.makezurich.ch/) - an open source tool developed by our own team - for teambuilding and pulling together the hackathon projects.
 
-* Slack channel [#mz2020_team-formation](https://app.slack.com/client/T0CMJ6ESH/C01CXFN2TT7/thread/CB94UMQMC-1561794678.000600)
-* Slack channel [#makezurich](https://app.slack.com/client/T0CMJ6ESH/C3XSZ7NTF/thread/CB94UMQMC-1561794678.000600)
-* Need support finding team members? [#makezurich-support](https://app.slack.com/client/T0CMJ6ESH/C01CRBDCTE2/thread/CB94UMQMC-1561794678.000600)
-
-## 3. Start/Join project
-
-We use [Dridbat](https://now.makezurich.ch/), an open source tool for managing hackathon projects created by [@loleg](https://github.com/loleg).
-
-1. First sign in, you can use your slack account for that or create a new one.
-2. [See all challenges and existing projects](https://now.makezurich.ch/event/4)
-3. Then either [Start a project](https://now.makezurich.ch/event/4/project/new)
-4. ...or [join an existing team](https://now.makezurich.ch/event/4)
+1. To sign in, use your existing [TTN-CH Slack](https://join.slack.com/t/ttn-ch/shared_invite/zt-1niklmix1-71hJ_TRSVFWreeovBjiPXQ) account, or create a dribdat account.
+2. [See all challenges and existing projects](https://now.makezurich.ch/event/5)
+3. Then either [Start a project](https://now.makezurich.ch/event/5/project/new)
+4. ...or [join an existing team](https://now.makezurich.ch/event/5)
 
 If you need more details, here's a [quick guide to Dribdat](../dribdat)
+
+## 3. Get hacking
+
+You are welcome to use any collaboration tool, with emphasis on all platforms that can be freely shared with all team members. The central community Slack is available, everyone will be invited so you can easily have a chat with your team members:
+
+* Announcements in the [#makezurich](https://app.slack.com/client/T0CMJ6ESH/C3XSZ7NTF/thread/CB94UMQMC-1561794678.000600) channel
+* Look for a team or new members in [#canihasteam](https://app.slack.com/client/T0CMJ6ESH/C01CXFN2TT7/thread/CB94UMQMC-1561794678.000600)
+* Need other support at the event? [#makezurich-support](https://app.slack.com/client/T0CMJ6ESH/C01CRBDCTE2/thread/CB94UMQMC-1561794678.000600)
 
 ## 4. Hack and Make!
 

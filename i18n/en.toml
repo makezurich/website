@@ -1,5 +1,5 @@
 [event_name]
-other = "Make Zürich 2020"
+other = "Make Zürich"
 
 [event_city]
 other = "Zürich"
@@ -19,8 +19,8 @@ that improve life in [the city](https://www.stadt-zuerich.ch/)
 with the help of [open networks and civic tech](https://www.thethingsnetwork.org/)."""
 
 [basicinfo_when_where]
-other = """The challenges will be presented on June 9, 2023
-followed by a hackathon on **Friday 16** & **Saturday June 17, 2023**."""
+other = """The challenges will be presented on **June 2, 2023**
+followed by a hackathon on Friday & Saturday, **June 9 - 10, 2023**."""
 
 [basicinfo_organizers]
 other = """Make Zurich is a community event organized
