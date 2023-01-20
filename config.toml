@@ -79,10 +79,6 @@ name = "Baxter Yazbek"
 photo = "/images/team/baxter.png"
 
 [[params.team.members]]
-name = "Thomas Amberg"
-photo = "/images/team/tamberg.png"
-
-[[params.team.members]]
 name = "Oleg Lavrovsky"
 photo = "/images/team/oleg.png"
 
