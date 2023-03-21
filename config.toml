@@ -45,7 +45,7 @@ longitude = 8.54918746507029
 
 # Registration
 [params.registration]
-registrationForm = "#soon"
+registrationForm = "https://www.eventbrite.com/e/make-zurich-2023-civic-tech-hackathon-registration-595632130737"
 
 # Organizers of the event: add as many as you need.
 [[params.organizers]]
