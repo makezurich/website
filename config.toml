@@ -29,9 +29,9 @@ customCSS = "/css/styles.css"                       # Optional, remove/leave emp
 # Venue description
 # Details are used to generate maps and schema.org meta-data
 [params.venue]
-name = "TBD"
-street = "-"
-zipCode = "8005"
+name = "ewz headquarters"
+street = "Tramstrasse 35"
+zipCode = "8050"
 city = "Zürich"
 state = "Zürich"
 country = "Switzerland"
@@ -40,8 +40,8 @@ mapboxStyle = "light-v10"
 mapboxZoom = 15
 
 [params.venue.coords]
-latitude = 47.3875968
-longitude = 8.5207705
+latitude = 47.40885956511328
+longitude = 8.54918746507029
 
 # Registration
 [params.registration]
@@ -82,7 +82,7 @@ photo = "/images/team/baxter.png"
 name = "Oleg Lavrovsky"
 photo = "/images/team/oleg.png"
 
-[[params.TBC.team.members]]
+[[params.team.members]]
 name = "Simon Maurer"
 photo = "/images/team/simon.png"
 
@@ -159,107 +159,107 @@ logo = "/images/partners/logo-ewz.png"
 url = "https://www.ewz.ch"
 class = "my-2 w-50"
 
-[[params.partners.sponsors]]
-name = "Semtech"
-logo = "/images/partners/logo-semtech.png"
-url = "https://www.semtech.com"
-class = "my-1 w-50"
+# [[params.partners.sponsors]]
+# name = "Semtech"
+# logo = "/images/partners/logo-semtech.png"
+# url = "https://www.semtech.com"
+# class = "my-1 w-50"
 
-[[params.partners.sponsors]]
-name = "u-blox"
-logo = "/images/partners/logo-u-blox.png"
-url = "https://www.u-blox.ch"
-class = "my-3 w-50"
+# [[params.partners.sponsors]]
+# name = "u-blox"
+# logo = "/images/partners/logo-u-blox.png"
+# url = "https://www.u-blox.ch"
+# class = "my-3 w-50"
 
-[[params.partners.sponsors]]
-name = "Helium"
-logo = "/images/partners/logo-helium.png"
-url = "https://www.helium.com/"
-class = "my-2 w-50"
+# [[params.partners.sponsors]]
+# name = "Helium"
+# logo = "/images/partners/logo-helium.png"
+# url = "https://www.helium.com/"
+# class = "my-2 w-50"
 
-[[params.partners.sponsors]]
-name = "Miromico GmbH"
-logo = "/images/partners/logo-miromico.png"
-url = "https://miromico.ch/"
-class = "my-2 w-50"
+# [[params.partners.sponsors]]
+# name = "Miromico GmbH"
+# logo = "/images/partners/logo-miromico.png"
+# url = "https://miromico.ch/"
+# class = "my-2 w-50"
 
-[[params.partners.sponsors]]
-name = "SWITCH.CH"
-logo = "/images/partners/logo-switch.png"
-url = "https://switch.ch/"
-class = "my-3 w-50"
+# [[params.partners.sponsors]]
+# name = "SWITCH.CH"
+# logo = "/images/partners/logo-switch.png"
+# url = "https://switch.ch/"
+# class = "my-3 w-50"
 
-[[params.partners.sponsors]]
-name = "Sensirion"
-logo = "/images/partners/logo-sensirion.png"
-url = "https://www.sensirion.com/en/"
-class = "my-4 w-50"
+# [[params.partners.sponsors]]
+# name = "Sensirion"
+# logo = "/images/partners/logo-sensirion.png"
+# url = "https://www.sensirion.com/en/"
+# class = "my-4 w-50"
 
-[[params.partners.sponsors]]
-name = "Brudi GmbH + Co-Co-Co"
-logo = "/images/partners/logo-brudi-cococo.png"
-url = "https://co-co-co.org/brudi_co-co-co.html"
-class = "my-4 w-50"
+# [[params.partners.sponsors]]
+# name = "Brudi GmbH + Co-Co-Co"
+# logo = "/images/partners/logo-brudi-cococo.png"
+# url = "https://co-co-co.org/brudi_co-co-co.html"
+# class = "my-4 w-50"
 
-[[params.partners.sponsors]]
-name = "Logiscool Ltd"
-logo = "/images/partners/logo-logiscool.png"
-url = "https://www.logiscool.com/ch-en/school/zurich"
-class = "my-3 w-50"
+# [[params.partners.sponsors]]
+# name = "Logiscool Ltd"
+# logo = "/images/partners/logo-logiscool.png"
+# url = "https://www.logiscool.com/ch-en/school/zurich"
+# class = "my-3 w-50"
 
-[[params.partners.sponsors]]
-name = "Decentlab"
-logo = "/images/partners/logo-decentlab.png"
-url = "https://www.decentlab.com/"
-class = "my-4 w-50"
+# [[params.partners.sponsors]]
+# name = "Decentlab"
+# logo = "/images/partners/logo-decentlab.png"
+# url = "https://www.decentlab.com/"
+# class = "my-4 w-50"
 
-[[params.partners.sponsors]]
-name = "Netcetera"
-logo = "/images/partners/logo-netcetera.png"
-url = "https://www.netcetera.com/"
-class = "my-2 w-50"
+# [[params.partners.sponsors]]
+# name = "Netcetera"
+# logo = "/images/partners/logo-netcetera.png"
+# url = "https://www.netcetera.com/"
+# class = "my-2 w-50"
 
-[[params.partners.sponsors]]
-name = "Hexagon - Leica Geosystems"
-logo = "/images/partners/logo-hexagon-leica.png"
-url = "https://leica-geosystems.com/about-us/careers/job-openings"
-class = "my-2 w-50"
+# [[params.partners.sponsors]]
+# name = "Hexagon - Leica Geosystems"
+# logo = "/images/partners/logo-hexagon-leica.png"
+# url = "https://leica-geosystems.com/about-us/careers/job-openings"
+# class = "my-2 w-50"
 
-[[params.partners.sponsors]]
-name = "swissdevjobs.ch"
-logo = "/images/partners/logo-swissdevjobs.png"
-url = "https://swissdevjobs.ch/jobs/All/Zurich"
-class = "my-3 w-50"
+# [[params.partners.sponsors]]
+# name = "swissdevjobs.ch"
+# logo = "/images/partners/logo-swissdevjobs.png"
+# url = "https://swissdevjobs.ch/jobs/All/Zurich"
+# class = "my-3 w-50"
 
-[[params.partners.sponsors]]
-name = "PRiOT"
-logo = "/images/partners/logo-priot.png"
-url = "https://priot.ch/"
-class = "my-3 w-50"
+# [[params.partners.sponsors]]
+# name = "PRiOT"
+# logo = "/images/partners/logo-priot.png"
+# url = "https://priot.ch/"
+# class = "my-3 w-50"
 
-[[params.partners.sponsors]]
-name = "Data Center Light"
-logo = "/images/partners/logo-datacenterlight.png"
-url = "https://datacenterlight.ch/"
-class = "my-3 w-50"
+# [[params.partners.sponsors]]
+# name = "Data Center Light"
+# logo = "/images/partners/logo-datacenterlight.png"
+# url = "https://datacenterlight.ch/"
+# class = "my-3 w-50"
 
-[[params.partners.sponsors]]
-name = "Rockstar Recruiting"
-logo = "/images/partners/logo-rockstar.png"
-url = "http://www.rockstar.jobs/"
-class = "my-3 w-50"
+# [[params.partners.sponsors]]
+# name = "Rockstar Recruiting"
+# logo = "/images/partners/logo-rockstar.png"
+# url = "http://www.rockstar.jobs/"
+# class = "my-3 w-50"
 
-[[params.partners.sponsors]]
-name = "Eden Senses"
-logo = "/images/partners/logo-eden.png"
-url = "https://www.eden-senses.com/"
-class = "my-3 w-50"
+# [[params.partners.sponsors]]
+# name = "Eden Senses"
+# logo = "/images/partners/logo-eden.png"
+# url = "https://www.eden-senses.com/"
+# class = "my-3 w-50"
 
-[[params.partners.sponsors]]
-name = "Digital Republic"
-logo = "/images/partners/logo-dr.png"
-url = "https://digitalrepublic.ch/"
-class = "my-2 w-50"
+# [[params.partners.sponsors]]
+# name = "Digital Republic"
+# logo = "/images/partners/logo-dr.png"
+# url = "https://digitalrepublic.ch/"
+# class = "my-2 w-50"
 
 # Community partners of the event
 [[params.partners.community]]
@@ -280,35 +280,35 @@ logo = "/images/partners/logo-opendatach.png"
 url = "http://make.opendata.ch/"
 class = "my-3 w-50"
 
-[[params.partners.community]]
-name = "SGMK"
-logo = "/images/partners/logo-sgmk.png"
-url = "https://www.mechatronicart.ch/"
-class = "my-3 h-50"
+# [[params.partners.community]]
+# name = "SGMK"
+# logo = "/images/partners/logo-sgmk.png"
+# url = "https://www.mechatronicart.ch/"
+# class = "my-3 h-50"
 
-[[params.partners.community]]
-name = "FabLab Zürich"
-logo = "/images/partners/logo-fablab-zh.png"
-url = "https://zurich.fablab.ch/"
-class = "my-3 w-50"
+# [[params.partners.community]]
+# name = "FabLab Zürich"
+# logo = "/images/partners/logo-fablab-zh.png"
+# url = "https://zurich.fablab.ch/"
+# class = "my-3 w-50"
 
-[[params.partners.community]]
-name = "Prototype Fund CH"
-logo = "/images/partners/logo-prototypefund.png"
-url = "https://prototypefund.opendata.ch/"
-class = "my-2 w-50"
+# [[params.partners.community]]
+# name = "Prototype Fund CH"
+# logo = "/images/partners/logo-prototypefund.png"
+# url = "https://prototypefund.opendata.ch/"
+# class = "my-2 w-50"
 
-[[params.partners.community]]
-name = "Echtzeit Digitale Kultur"
-logo = "/images/partners/logo-echtzeit-digitalekultur.png"
-url = "https://demonights.ch/"
-class = "my-2 w-50"
+# [[params.partners.community]]
+# name = "Echtzeit Digitale Kultur"
+# logo = "/images/partners/logo-echtzeit-digitalekultur.png"
+# url = "https://demonights.ch/"
+# class = "my-2 w-50"
 
-[[params.partners.community]]
-name = "Make.Human.Technology"
-logo = "/images/partners/logo-makehumantechnology.png"
-url = "https://makehumantechnology.org/"
-class = "my-3 w-50"
+# [[params.partners.community]]
+# name = "Make.Human.Technology"
+# logo = "/images/partners/logo-makehumantechnology.png"
+# url = "https://makehumantechnology.org/"
+# class = "my-3 w-50"
 
 # [[params.partners.community]]
 # name = "Women++"
@@ -328,11 +328,6 @@ class = "my-3 w-50"
 # url = "https://www.meetup.com/wtm-switzerland/"
 # class = "my-3 w-25"
 
-# [[params.partners.community]]
-# name = "SWITCH.CH"
-# logo = "/images/partners/logo-switch.png"
-# url = "https://www.switch.ch/"
-# class = "my-4 w-50"
 
 # Challenges: add heading images, url and key
 # and then add localizations according that key
@@ -463,15 +458,16 @@ languageName = "English"
 # After=Projects
 [[languages.en.menu.highlighted]]
     # BEFORE
-    # name = "Register"
-    # url = "/register"
+    name = "Register"
+    url = "/register"
     # DURING
     # name = "Getting started"
     # url = "/start"
 
     # AFTER
-    name = "Projects"
-    url = "https://now.makezurich.ch/event/4"
+    # name = "Projects"
+    # url = "https://now.makezurich.ch/event/4"
+
     weight = 5
     pre = "btn-black"
     post = "fa-sign-in"
@@ -480,14 +476,14 @@ languageName = "English"
 # Same as the one above
 [[languages.en.menu.hero]]
     # BEFORE
-    # name = "Register"
-    # url = "/register"
+    name = "Register"
+    url = "/register"
     # DURING
     # name = "Getting started"
     # url = "/start"
     # AFTER
-    name = "Projects"
-    url = "https://now.makezurich.ch/event/4"
+    # name = "Projects"
+    # url = "https://now.makezurich.ch/event/4"
     pre = "event-primary-color"
     post = "fa-sign-in"
 
@@ -525,14 +521,15 @@ languageName = "Deutsch"
 # After=Projects
 [[languages.de.menu.highlighted]]
     # BEFORE
-    # name = "Anmelden"
-    # url = "/register"
+    name = "Anmelden"
+    url = "/register"
     # DURING
     # name = "Getting started"
     # url = "/de/start"
     # AFTER
-    name = "Projekte"
-    url = "https://now.makezurich.ch/event/4"
+    # name = "Projekte"
+    # url = "https://now.makezurich.ch/event/4"
+
     weight = 5
     pre = "btn-black"
     post = "fa-sign-in"
@@ -541,14 +538,15 @@ languageName = "Deutsch"
 # Same as the one above
 [[languages.de.menu.hero]]
     # BEFORE
-    # name = "Anmelden"
-    # url = "/register"
+    name = "Anmelden"
+    url = "/register"
     # DURING
     # name = "Getting started"
     # url = "/de/start"
     # AFTER
-    name = "Projekte"
-    url = "https://now.makezurich.ch/event/4"
+    # name = "Projekte"
+    # url = "https://now.makezurich.ch/event/4"
+
     pre = "event-primary-color"
     post = "fa-sign-in"
 
