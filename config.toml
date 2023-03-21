@@ -159,6 +159,12 @@ logo = "/images/partners/logo-ewz.png"
 url = "https://www.ewz.ch"
 class = "my-2 w-50"
 
+[[params.partners.sponsors]]
+name = "FSLab"
+logo = "/images/partners/logo-fslab.png"
+url = "https://www.francescasanfilippo.it/"
+class = "my-0 w-50"
+
 # [[params.partners.sponsors]]
 # name = "Semtech"
 # logo = "/images/partners/logo-semtech.png"
@@ -182,12 +188,6 @@ class = "my-2 w-50"
 # logo = "/images/partners/logo-miromico.png"
 # url = "https://miromico.ch/"
 # class = "my-2 w-50"
-
-# [[params.partners.sponsors]]
-# name = "SWITCH.CH"
-# logo = "/images/partners/logo-switch.png"
-# url = "https://switch.ch/"
-# class = "my-3 w-50"
 
 # [[params.partners.sponsors]]
 # name = "Sensirion"
