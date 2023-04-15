@@ -64,8 +64,8 @@ Check the heaps of material we made available for you:
 
 First of all, check the following two excellent guides:
 
-* [Make Zurich hardware intro](https://github.com/make-zurich/makezurich-hardware-intro/)
-* [Make Zurich software intro](https://github.com/make-zurich/makezurich-software-intro/)
+* [Make Zurich hardware intro](https://github.com/makezurich/makezurich-hardware-intro/)
+* [Make Zurich software intro](https://github.com/makezurich/makezurich-software-intro/)
 
 [**Tech specs and datasheets for all hardware**<i class="fa fa-file ml-2"></i>](../techspecs)
 

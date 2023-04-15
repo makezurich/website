@@ -16,7 +16,7 @@ hashtag = "MakeZurich"
 
 [params.license]                                # Optional, but highly recommended
 name = "CC-BY-SA 4.0"
-url = "https://github.com/make-zurich/website/blob/master/LICENSE"
+url = "https://github.com/makezurich/website/blob/master/LICENSE"
 
 [params.styling]
 backgroundHero = "/images/front/background.jpg"           # Required
@@ -394,8 +394,8 @@ background = "/images/features/kids.jpg"
 
 [[params.social]]
 	title = "github"
-	url = "https://github.com/make-zurich"
-    text = "github.com/make-zurich"
+	url = "https://github.com/makezurich"
+    text = "github.com/makezurich"
     icon = "fa-github"
 
 [[params.social]]

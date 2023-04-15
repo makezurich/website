@@ -94,7 +94,7 @@ other = "Open Challenge"
 [challenges_open_description]
 other = """If none of the challenges fits you, you are free to combine all available elements and develop your own challenge and ideas!
 
-<a href='https://github.com/make-zurich/open-challenge-ideas-2020/issues/new?assignees=&labels=&template=new-idea.md&title=%5BGive+your+idea+a+catchy+challenge+name%5D' class='btn event-primary-color my-4 waves-effect waves-light'>Submit your idea here!</a>"""
+<a href='https://github.com/makezurich/open-challenge-ideas-2020/issues/new?assignees=&labels=&template=new-idea.md&title=%5BGive+your+idea+a+catchy+challenge+name%5D' class='btn event-primary-color my-4 waves-effect waves-light'>Submit your idea here!</a>"""
 
 [team_description]
 other = """Make Zurich is possible thanks to the contribution of an amazing team of individuals:"""

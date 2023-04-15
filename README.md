@@ -1,6 +1,6 @@
 # makezurich.ch
 
-![Build Status](https://github.com/make-zurich/website/workflows/Build%20website/badge.svg)
+![Build Status](https://github.com/makezurich/website/workflows/Build%20website/badge.svg)
 
 ## Pre-requisites
 
