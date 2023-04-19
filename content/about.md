@@ -5,7 +5,7 @@ type = "info"
 aliases = ["/faq"]
 
 [menu.main]
-  name = "What is it?"
+  name = "FAQ"
   url = "/#basic-info"
 
 [menu.footer]

@@ -30,74 +30,55 @@ by Stadt Zürich and Open Network Infrastructure Association."""
 other = "Challenges"
 
 [challenges_intro]
-other = """We gathered **real needs** of different departments of the City of Zurich that could be solved with LoRaWAN and civic tech.
-
-There will be as well an **open challenge**: if you don’t feel like building any of the other challenges, you
-are free to combine all available elements to create innovative solutions for the city!"""
+other = """We gathered **real needs** of urban planning and life in the City of Zurich that could be solved with LoRaWAN and civic tech. There is also an **open challenge**: if you don’t feel like building any of the other challenges, you are free to combine all available elements to create innovative solutions on the spot!"""
 
 [challenge]
 other = "Challenge"
 
-[challenges_saw_title]
-other = "Granny Alert"
+[challenges_ch1_title]
+other = "Energy Saving"
 
-[challenges_saw_description]
-other = """How can we improve the responsiveness to emergencies of elderly people within their homes without compromising their privacy?
+[challenges_ch1_description]
+other = """How can IoT with open networks and open data help reduce and/or shift energy consumption?
 
-Provided by Stiftung Alterswohnungen"""
+Provided by
+Energy Office Zürich"""
 
-[challenges_taz1_title]
-other = "Move and Chill"
+[challenges_ch2_title]
+other = "More Engagement"
 
-[challenges_taz1_description]
-other = """Help us to improve knowledge by measuring the utilization of movable chairs in the city.
+[challenges_ch2_description]
+other = """How can we activate people get aware of energy usage and waste and get them to take action to save energy?
 
-Provided by Civil Engineering Office"""
+Provided by
+Energy Consulting City of Zürich"""
 
-[challenges_ttn_title]
-other = "Breathe!"
+[challenges_ch3_title]
+other = "Energy Assistant"
 
-[challenges_ttn_description]
-other = """Empower citizens to map and understand air pollution in the city.
+[challenges_ch3_description]
+other = """Develop a chatbot that draws attention, is fun to use, and helps to save energy.
 
-Provided by the community"""
+Provided by ewz"""
 
-[challenges_taz2_title]
-other = "Bicycle Parking"
+[challenges_ch4_title]
+other = "Public Transport"
 
-[challenges_taz2_description]
-other = """Help us better understand the utilization of bicycle parking facilities.
+[challenges_ch4_description]
+other = """Help us estimate energy savings in public transport.
 
-Provided by Civil Engineering Office"""
-
-[challenges_gsz2_title]
-other = "Awesome Green Spaces"
-
-[challenges_gsz2_description]
-other = """Help us to improve the attractiveness of green spaces by measuring the usage of infrastructure and occupancy of public recreational spaces.
-
-Provided by the Environmental Agency of Zurich
-
-<small><em>Powered by u-blox</em></small>"""
-
-[challenges_ewz_title]
-other = "Transformer Station Tub"
-
-[challenges_ewz_description]
-other = """Help us to increase the efficiency of transformer station maintenance.
-
-Provided by the ewz, the power supplier of Zurich"""
+Provided by VBZ"""
 
 [challenges_open_title]
 other = "Open Challenge"
 
 [challenges_open_description]
-other = """If none of the challenges fits you, you are free to combine all available elements and develop your own challenge and ideas!
+other = """Less energy consumption is more quality of living. Address your own Challenge and show us how we can reduce energy consumption.
 
-<a href='https://github.com/makezurich/open-challenge-ideas-2020/issues/new?assignees=&labels=&template=new-idea.md&title=%5BGive+your+idea+a+catchy+challenge+name%5D' class='btn event-primary-color my-4 waves-effect waves-light'>Submit your idea here!</a>"""
+Provided by You"""
 
 [team_description]
-other = """Make Zurich is possible thanks to the contribution of an amazing team of individuals:"""
+other = """Make Zurich is possible thanks to an amazing community and a few committed organisers:"""
 
 [features]
 other = "What you will find"

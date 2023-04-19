@@ -332,37 +332,27 @@ class = "my-3 w-50"
 # Challenges: add heading images, url and key
 # and then add localizations according that key
 [[params.challenges]]
-image = "/images/challenges/granny.png"
-# url = "/box/1"
-i18n = "saw"
+image = "/images/challenges/2023/01-EnergySaving.jpg"
+url = "https://now.makezurich.ch/event/5"
+i18n = "ch1"
 
 [[params.challenges]]
-image = "/images/challenges/move-chill.png"
+image = "/images/challenges/2023/03-EnergyAssistant.jpg"
 # url = "/box/2"
-i18n = "taz1"
+i18n = "ch2"
 
 [[params.challenges]]
-image = "/images/challenges/breathe.png"
+image = "/images/challenges/2023/04-PublicTransport.jpg"
 # url = "/box/3"
-i18n = "ttn"
+i18n = "ch3"
 
 [[params.challenges]]
-image = "/images/challenges/bicycle-parking.png"
+image = "/images/challenges/2023/05-MoreEngagement.jpg"
 # url = "/box/4"
-i18n = "taz2"
+i18n = "ch4"
 
 [[params.challenges]]
-image = "/images/challenges/green-spaces.png"
-# url = "/box/5"
-i18n = "gsz2"
-
-[[params.challenges]]
-image = "/images/challenges/transformer-station.png"
-# url = "/box/6"
-i18n = "ewz"
-
-[[params.challenges]]
-image = "/images/challenges/open.png"
+image = "/images/challenges/2023/05-OpenChallenge.jpg"
 # url = "/box/7"
 i18n = "open"
 
