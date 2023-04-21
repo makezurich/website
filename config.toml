@@ -333,27 +333,23 @@ class = "my-3 w-50"
 # and then add localizations according that key
 [[params.challenges]]
 image = "/images/challenges/2023/01-EnergySaving.jpg"
-url = "https://now.makezurich.ch/event/5"
 i18n = "ch1"
 
 [[params.challenges]]
-image = "/images/challenges/2023/03-EnergyAssistant.jpg"
-# url = "/box/2"
+image = "/images/challenges/2023/02-MoreEngagement.jpg"
 i18n = "ch2"
 
 [[params.challenges]]
-image = "/images/challenges/2023/04-PublicTransport.jpg"
-# url = "/box/3"
+image = "/images/challenges/2023/03-EnergyAssistant.jpg"
 i18n = "ch3"
 
 [[params.challenges]]
-image = "/images/challenges/2023/05-MoreEngagement.jpg"
-# url = "/box/4"
+image = "/images/challenges/2023/04-PublicTransport.jpg"
 i18n = "ch4"
 
 [[params.challenges]]
 image = "/images/challenges/2023/05-OpenChallenge.jpg"
-# url = "/box/7"
+url = "https://now.makezurich.ch/event/5"
 i18n = "open"
 
 [[params.features]]
