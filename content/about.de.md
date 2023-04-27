@@ -1,6 +1,6 @@
 +++
 title = "FAQ"
-weight = 1
+weight = 10
 type = "info"
 aliases = ["/de/faq"]
 
@@ -30,13 +30,12 @@ Nichts. Eine Teilnahme am Event ist selbstverständlich kostenlos.
 
 #### Was ist Civic Tech?
 
-Civic Technologie steht für technische Konzepte, die das Engagement und die Beteiligung von Bürgerinnen und Bürgern erlauben und fördern. Das bedeutet, dass Bürgerinnen und Bürger selber - und nicht die Stadtverwaltung - eine Infrastruktur für ihr Gebiet bauen. 
-
-Das ist beispielsweise eben genau das, was die [«The Things Network»-](https://thethingsnetwork.org) Communities mit LoRaWAN in vielen Städten der Welt gerade am machen sind. In Zürich ist diese Community besonders aktiv und hat bereits ein  dichtes LoRaWAN-Netzwerk aufbebaut.
+Technologie ermöglicht bürgerschaftliches Engagement. Das bedeutet, dass die Einwohner:innen auch einen Teil der Infrastruktur ihrer Stadt bauen oder warten, statt dass nur Regierungen und Unternehmen für alles zuständig sind. 
+In den meisten Städten der Welt gibt es Gruppen, die ihr Wissen austauschen und sich gegenseitig bei Projekten und Civic-Tech-Initiativen unterstützen, so auch hier in Zürich. Wir sind Teil einer Community, die bereits ein LoRaWAN-Netz in der Stadt und in der ganzen Schweiz aufgebaut hat.
 
 #### Was ist LoRaWAN?
 
-LoRaWAN ist eine drahtlose Technologie, ähnlich wie das WiFi. Im Gegensatz dazu ist LoRaWAN aber - dank seiner grossen Reichweite - ideal für IoT und batteriebetriebene Sensoren.
+Ein Long Range Wide Area Network ([LoRaWAN](https://de.wikipedia.org/wiki/Long_Range_Wide_Area_Network) - Wikipedia) ist eine drahtlose Technologie, ähnlich wie das WiFi. Im Gegensatz dazu ist LoRaWAN aber - dank seiner grossen Reichweite - ideal für IoT und batteriebetriebene Sensoren.
 
 Weitere Infos dazu findest Du auf der Webseite von [The Things Network](https://thethingsnetwork.org), vor allem unter den Rubriken *LEARN* und *FORUM*.
 
@@ -59,6 +58,8 @@ Falls Du möchtest, kannst Du selbstverständlich auch Deine eigene Hardware (Mi
 Auf Slack! Falls Du es noch nicht gemacht hast, dann kannst Du Dich hier [dazu anmelden](https://ttn-ch.herokuapp.com).
 Der grösste Teil der Kommunikation während des Events wird auf diesem Kanal stattfinden.
 
+Siehe auch die Ergebnisse unserer vergangenen Veranstaltungen in den Berichten von [2017](/2017/) und [2018](/2018/), und auf unsere offizielle Challenge-Plattform: [NOW.makezurich.ch](https://now.makezurich.ch)
+
 #### Wie komme ich an den Veranstaltungsort?
 
 Wir empfehlen mit den öV anzureisen. Der Veranstaltungsort befindet sich nur ein paar Schritte von Zug-, Tram- und Busstationen.
@@ -67,18 +68,15 @@ Wir empfehlen mit den öV anzureisen. Der Veranstaltungsort befindet sich nur ei
 
 Ja, [den gibt's](/de/guidelines).
 
-#### How does COVID-19 affect the event?
+#### Welche Auswirkungen hat COVID-19 auf die Veranstaltung?
 
-We are closely monitoring the COVID-19 situation in Switzerland and adjusting precautionary measures accordingly. This page will be updated regularly to react to new developments.
+Wir beobachten die COVID-19-Situation in der Schweiz genau und passen die Vorsichtsmassnahmen entsprechend an. Diese Seite wird regelmässig aktualisiert, um auf neue Entwicklungen zu reagieren.
 
-Currently, the event is scheduled to be carried out primarily as an in-person event. Certain workshops or sessions might be switched to online or hybrid mode if deemed necessary.
-
-The current safety measures are published on the [home page](/#covid-protection) and are aligned with current BAG guidelines.
-The most important rule is that we must wear face masks while indoors.
+Die aktuellen Sicherheitsmassnahmen werden auf der [home page](/#covid-protection) publiziert und orientieren sich an den aktuellen Richtlinien des Bundesamtes für Gesundheit (BAG).
 
 #### Wie kann ich mit den Organisatoren in Kontakt treten, falls ich Fragen habe?
 
-Kontaktiere uns via email [info@makezurich.ch](mailto:info@makezurich.ch) oder via Twitter [@makezurich](https://twitter.com/makezurich).
+Kontaktiere uns, bitte, via Email [info@makezurich.ch](mailto:info@makezurich.ch)
 
 #### Ich möchte gerne ein Sponsor sein!
 

@@ -166,6 +166,12 @@ url = "https://www.sensirion.com/en/"
 class = "my-4 w-50"
 
 [[params.partners.sponsors]]
+name = "Akenza"
+logo = "/images/partners/akenza-io-logo_v0.9.1.svg"
+url = "https://akenza.io/"
+class = "my-4 w-50"
+
+[[params.partners.sponsors]]
 name = "FSLab"
 logo = "/images/partners/logo-fslab.png"
 url = "https://www.francescasanfilippo.it/"

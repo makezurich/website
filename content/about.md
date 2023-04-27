@@ -1,6 +1,6 @@
 +++
 title = "FAQ"
-weight = 1
+weight = 10
 type = "info"
 aliases = ["/faq"]
 
@@ -27,14 +27,12 @@ Nothing. It is totally free.
 
 #### What is civic tech?
 
-It is technology that enables citizen engagement. It means citizens building infrastructure for their city, instead of governments building it. That's what
-[The Things Network](https://thethingsnetwork.org) communities are doing with LoRaWAN in
-multiple cities of the world, among them, here in Zurich we are part of a community that has already deployed a LoRaWAN network in the city.
+Technology enables citizen engagement. This means citizens building or maintaining some of the infrastructure for their city, instead of only governments and companies being in charge of everything. 
+Groups to share knowledge and support each other in projects and civic tech initiatives exist in most cities of the world, among them, here in Zurich. We are part of a community that has already deployed a LoRaWAN network in the city, and indeed, throughout Switzerland.
 
 #### What is LoRaWAN?
 
-It's a wireless technology, much like your regular WiFi, but it's ideal for IoT and battery
-powered sensors because it has a huge range.
+Long Range Wide Area Networks ([LoRaWAN](https://de.wikipedia.org/wiki/Long_Range_Wide_Area_Network) are a wireless technology, much like your regular WiFi, but it is ideal for IoT and battery powered sensors because it has a huge range and low energy requirements. 
 
 Head over to [The Things Network](https://thethingsnetwork.org) website, and check out
 the *LEARN* section and the forum.
@@ -60,27 +58,25 @@ Feel free to bring your own materials to help you create a solution for a challe
 On Slack! If you haven't joined already, [sign up for it](https://ttn-ch.herokuapp.com).
 A large part of communication during the event will happen there!
 
+See also the results of our past events in the [2017](/2017/) and [2018](/2018/) reports and our official challenge platform: [NOW.makezurich.ch](https://now.makezurich.ch)
+
 #### How do I get to the location?
 
 We recommend to use public transport to get to the event. The location is a few steps away from train, tram and bus stations.
 
-#### Is there a code of conduct?
+#### Is there a Code of Conduct?
 
-Yes, [there is](/guidelines).
+Yes, there is: in the [Guidelines](/guidelines).
 
 #### How does COVID-19 affect the event?
 
 We are closely monitoring the COVID-19 situation in Switzerland and adjusting precautionary measures accordingly. This page will be updated regularly to react to new developments.
 
-Currently, the event is scheduled to be carried out primarily as an in-person event. Certain workshops or sessions might be switched to online or hybrid mode if deemed necessary.
-
-The current safety measures are published on the [home page](/#covid-protection) and are aligned with current BAG guidelines.
-The most important rule is that we must wear face masks while indoors.
+Any current safety measures are published on the [home page](/#covid-protection), aligned with current guidelines of Federal Office of Public Health FOPH.
 
 #### How can I contact the organizer if I have questions?
 
-Get in touch with us via email [info@makezurich.ch](mailto:info@makezurich.ch) or
-via twitter [@makezurich](https://twitter.com/makezurich).
+Get in touch with us via email [info@makezurich.ch](mailto:info@makezurich.ch)
 
 #### I want to be a sponsor!
 
