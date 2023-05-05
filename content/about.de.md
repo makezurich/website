@@ -5,7 +5,7 @@ type = "info"
 aliases = ["/de/faq"]
 
 [menu.main]
-  name = "Worum geht es?"
+  name = "INFO"
   url = "/#basic-info"
 
 [menu.footer]

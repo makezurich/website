@@ -177,6 +177,12 @@ logo = "/images/partners/logo-fslab.png"
 url = "https://www.francescasanfilippo.it/"
 class = "my-0 w-50"
 
+[[params.partners.sponsors]]
+name = "Decentlab"
+logo = "/images/partners/logo-decentlab.png"
+url = "https://www.decentlab.com/"
+class = "my-4 w-50"
+
 # [[params.partners.sponsors]]
 # name = "Semtech"
 # logo = "/images/partners/logo-semtech.png"
@@ -212,12 +218,6 @@ class = "my-0 w-50"
 # logo = "/images/partners/logo-logiscool.png"
 # url = "https://www.logiscool.com/ch-en/school/zurich"
 # class = "my-3 w-50"
-
-# [[params.partners.sponsors]]
-# name = "Decentlab"
-# logo = "/images/partners/logo-decentlab.png"
-# url = "https://www.decentlab.com/"
-# class = "my-4 w-50"
 
 # [[params.partners.sponsors]]
 # name = "Netcetera"
