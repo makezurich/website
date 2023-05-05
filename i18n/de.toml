@@ -91,7 +91,7 @@ other = "Was finde ich hier"
 other = "Lernen"
 
 [features_learning_description]
-other = "Nimm die Chance wahr, neue Skills und Technologien von Mentoren und Gleichaltrigen zu entdecken!"
+other = "Nutze die Chance, neue F&auml;higkeiten und Technologien von Mentoren und Kollegen zu erlernen!"
 
 [features_hardware_title]
 other = "Hardware"
@@ -100,10 +100,10 @@ other = "Hardware"
 other = "Jede Menge Elektronik, Sensoren und andere Hardware zum Herumspielen!"
 
 [features_healthy-food_title]
-other = "Gesund sein"
+other = "Gesunde Verpflegung"
 
 [features_healthy-food_description]
-other = "Wir k&uuml;mmern uns um dich, sorgen f&uuml;r gesunde Ern&auml;hrung und gute Atmosphere, damit du nicht daran denken musst! Selbstverst&auml;ndlich haben wir ein Sicherheitskonzept."
+other = "F&uuml;r gesundes Essen ist gesorgt – geniesse gesunde Mahlzeiten in einer guten Atmosph&auml;re. Selbstverst&auml;ndlich haben wir ein Sicherheitskonzept."
 
 [features_child-care_title]
 other = "Bring deine Kinder mit!"
