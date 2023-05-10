@@ -267,7 +267,14 @@ class = "my-3 w-50"
 # url = "https://digitalrepublic.ch/"
 # class = "my-2 w-50"
 
+[[params.partners.sponsors]]
+name = "The Things Industries"
+logo = "/images/partners/logo-tti.png"
+url = "https://www.thethingsindustries.com/"
+class = "my-4 w-50"
+
 # Community partners of the event
+
 [[params.partners.community]]
 name = "The Things Network"
 logo = "/images/partners/logo-ttn.png"
@@ -392,7 +399,7 @@ background = "/images/features/kids.jpg"
 
 [[params.social]]
 	title = "facebook"
-	url = "https://www.facebook.com/events/2615070568610092"
+	url = "https://www.facebook.com/opennetworkinfrastructure"
     text = "Open Network Infrastructure Association"
     icon = "fa-facebook-square"
 
