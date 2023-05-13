@@ -86,13 +86,17 @@ photo = "/images/team/oleg.png"
 name = "Simon Maurer"
 photo = "/images/team/simon.png"
 
-[[params.TBC.team.members]]
-name = "Michel Racic"
-photo = "/images/team/michel.png"
-
 [[params.team.members]]
 name = "Tillo Bosshart"
 photo = "/images/team/tillo.png"
+
+[[params.team.members]]
+name = "Federico Vanzati"
+photo = "/images/team/federico.png"
+
+[[params.TBC.team.members]]
+name = "Michel Racic"
+photo = "/images/team/michel.png"
 
 [[params.TBC.team.members]]
 name = "Dirk Zugenmaier"
