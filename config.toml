@@ -90,7 +90,7 @@ photo = "/images/team/simon.png"
 name = "Michel Racic"
 photo = "/images/team/michel.png"
 
-[[params.TBC.team.members]]
+[[params.team.members]]
 name = "Tillo Bosshart"
 photo = "/images/team/tillo.png"
 
