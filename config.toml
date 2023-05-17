@@ -305,7 +305,7 @@ class = "my-3 w-50"
 name = "TechFace"
 logo = "/images/partners/logo-techface.png"
 url = "https://techface.ch/"
-class = "my-2 w-50"
+class = "my-4 w-50"
 
 # [[params.partners.community]]
 # name = "SGMK"
