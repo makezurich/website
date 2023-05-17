@@ -94,6 +94,10 @@ photo = "/images/team/tillo.png"
 name = "Federico Vanzati"
 photo = "/images/team/federico.png"
 
+[[params.team.members]]
+name = "Priska Burkard"
+photo = "/images/team/priska.png"
+
 [[params.TBC.team.members]]
 name = "Michel Racic"
 photo = "/images/team/michel.png"
