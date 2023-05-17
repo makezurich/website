@@ -301,6 +301,12 @@ logo = "/images/partners/logo-opendatach.png"
 url = "http://make.opendata.ch/"
 class = "my-3 w-50"
 
+[[params.partners.community]]
+name = "TechFace"
+logo = "/images/partners/logo-techface.png"
+url = "https://techface.ch/"
+class = "my-2 w-50"
+
 # [[params.partners.community]]
 # name = "SGMK"
 # logo = "/images/partners/logo-sgmk.png"
@@ -331,11 +337,11 @@ class = "my-3 w-50"
 # url = "https://makehumantechnology.org/"
 # class = "my-3 w-50"
 
-# [[params.partners.community]]
-# name = "Women++"
-# logo = "/images/partners/logo-womenplusplus.png"
-# url = "https://www.womenplusplus.ch/"
-# class = "my-3 w-50"
+[[params.partners.community]]
+name = "Women++"
+logo = "/images/partners/logo-womenplusplus.png"
+url = "https://www.womenplusplus.ch/"
+class = "my-3 w-50"
 
 # [[params.partners.community]]
 # name = "GDG Zurich"
