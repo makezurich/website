@@ -41,7 +41,7 @@ We use [now.makezurich.ch](https://now.makezurich.ch/) - an open source tool dev
 
 1. To sign in, use your existing [TTN-CH Slack](https://join.slack.com/t/ttn-ch/shared_invite/zt-1niklmix1-71hJ_TRSVFWreeovBjiPXQ) account, or create a dribdat account.
 2. [See all challenges and existing projects](https://now.makezurich.ch/event/5)
-3. Then either [Start a project](https://now.makezurich.ch/event/5/project/new)
+3. Then either [Start a project](https://now.makezurich.ch/project/event/5/project/new)
 4. ...or [join an existing team](https://now.makezurich.ch/event/5)
 
 If you need more details, here's a [quick guide to Dribdat](../dribdat)

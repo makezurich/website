@@ -55,7 +55,7 @@ Falls Du möchtest, kannst Du selbstverständlich auch Deine eigene Hardware (Mi
 
 #### Wo kann ich mit anderen Teilnehmenden Kontakt aufnehmen und mich austauschen?
 
-Auf Slack! Falls Du es noch nicht gemacht hast, dann kannst Du Dich hier [dazu anmelden](https://ttn-ch.herokuapp.com).
+Auf Slack! Falls Du es noch nicht gemacht hast, dann kannst Du Dich hier [dazu anmelden](https://join.slack.com/t/ttn-ch/shared_invite/zt-1niklmix1-71hJ_TRSVFWreeovBjiPXQ).
 Der grösste Teil der Kommunikation während des Events wird auf diesem Kanal stattfinden.
 
 Siehe auch die Ergebnisse unserer vergangenen Veranstaltungen in den Berichten von [2017](/2017/) und [2018](/2018/), und auf unsere offizielle Challenge-Plattform: [NOW.makezurich.ch](https://now.makezurich.ch)
