@@ -41,7 +41,7 @@ the *LEARN* section and the forum.
 
 We will provide a selection of hardware that we believe are suitable for the challenges.
 
-Check these [fantastic hardware](https://github.com/makezurich/makezurich-hardware-intro/blob/master/README.md) and [software](https://github.com/makezurich/makezurich-software-intro/blob/master/README.md) intros by [Thomas Amberg](https://twitter.com/tamberg).
+Check these  [fantastic software](https://github.com/makezurich/makezurich-software-intro/blob/master/README.md) intro by [Thomas Amberg](https://twitter.com/tamberg).
 
 #### Do we get to keep the provided material?
 
