@@ -126,10 +126,6 @@ photo = "/images/team/katerina.png"
 name = "Clemens Lange"
 photo = "/images/team/clemens.png"
 
-[[params.team.members]]
-name = "Urs Marti"
-photo = "/images/team/urs.png"
-
 [[params.TBC.team.members]]
 name = "Alexandra Collm"
 photo = "/images/team/alexandra.png"
