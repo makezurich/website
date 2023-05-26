@@ -205,11 +205,17 @@ class = "my-4 w-50"
 # url = "https://www.semtech.com"
 # class = "my-1 w-50"
 
-# [[params.partners.sponsors]]
-# name = "u-blox"
-# logo = "/images/partners/logo-u-blox.png"
-# url = "https://www.u-blox.ch"
-# class = "my-3 w-50"
+[[params.partners.sponsors]]
+name = "The Things Industries"
+logo = "/images/partners/logo-tti.png"
+url = "https://www.thethingsindustries.com/"
+class = "my-4 w-50"
+
+[[params.partners.sponsors]]
+name = "u-blox"
+logo = "/images/partners/logo-u-blox.png"
+url = "https://www.u-blox.ch"
+class = "my-3 w-50"
 
 # [[params.partners.sponsors]]
 # name = "Helium"
@@ -282,12 +288,6 @@ class = "my-3 w-50"
 # logo = "/images/partners/logo-dr.png"
 # url = "https://digitalrepublic.ch/"
 # class = "my-2 w-50"
-
-[[params.partners.sponsors]]
-name = "The Things Industries"
-logo = "/images/partners/logo-tti.png"
-url = "https://www.thethingsindustries.com/"
-class = "my-4 w-50"
 
 # Community partners of the event
 
