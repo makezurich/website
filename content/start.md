@@ -52,13 +52,13 @@ You are welcome to use any collaboration tool, with emphasis on all platforms th
 
 * Announcements in the [#makezurich](https://app.slack.com/client/T0CMJ6ESH/C3XSZ7NTF/thread/CB94UMQMC-1561794678.000600) channel
 * Look for a team or new members in [#canihasteam](https://app.slack.com/client/T0CMJ6ESH/C01CXFN2TT7/thread/CB94UMQMC-1561794678.000600)
-* Need other support at the event? [#makezurich-support](https://app.slack.com/client/T0CMJ6ESH/C01CRBDCTE2/thread/CB94UMQMC-1561794678.000600)
+* Need other support at the event? [#makezurich-help](https://app.slack.com/client/T0CMJ6ESH/C01CRBDCTE2/thread/CB94UMQMC-1561794678.000600)
 
 ## 4. Hack and Make!
 
 Now you're all set to **start making awesome stuff!**
 
-Check the heaps of material we made available for you:
+<!-- Check the heaps of material we made available for you:
 
 ### Available hardware and resources
 
@@ -110,7 +110,7 @@ Resources:
 
 * [Examples](https://github.com/yene/Nano-33-BLE-Sense)
 * [Official getting started](https://www.arduino.cc/en/Guide/NANO33BLESense)
-* [More examples](https://github.com/DaleGia/Nano33BLESensor)
+* [More examples](https://github.com/DaleGia/Nano33BLESensor) -->
 
 ### Around the city
 
@@ -128,8 +128,6 @@ Additional resources:
 * [LoRa crash course by Thomas Telkamp](https://www.youtube.com/watch?v=T3dGLqZrjIQ)
 * [The Things Network: Basics](https://speakerdeck.com/gonzalocasas/the-things-network-basic-presentation)
 
-On Monday, there will be a LoRaWAN workshop at the lab.
-
 ## 5. Present your idea
 
-On Saturday 31st, at the end of the second hackday, teams will present their projects. Make sure you documented yours on Dribdat and ideally also published code and assets you created with open source licenses!
+On Saturday 10th, at the end of the second hackday, teams will present their projects. Make sure you documented yours on Dribdat and ideally also published code and assets you created with open source licenses!
