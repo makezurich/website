@@ -24,7 +24,9 @@ neue Herangehensweisen f&uuml;r die Herausforderungen in [unserer Stadt](https:/
 other = "Wann und Wo?"
 
 [basicinfo_when_where]
-other = """Die Challenges werden am 2. Juni vorgestellt. Am Freitag und Samstag, **9 - 10. Juni 2023** findet der Hackathon statt."""
+other = """Die Challenges werden am 2. Juni vorgestellt. Am Freitag und Samstag, **9 - 10. Juni 2023** findet der Hackathon statt.
+
+Der Standort ist **EWZ, Tramstrasse 35, 8050 Zürich**."""
 
 [basicinfo_organizers]
 other = """Make Zurich ist ein Community Event, der gemeinsam von der Stadt Z&uuml;rich und der «Open Network Infrastructure Association» organisiert wird."""
