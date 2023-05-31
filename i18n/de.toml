@@ -79,7 +79,7 @@ other = "Offene Challenge"
 [challenges_open_description]
 other = """Wenn dich keine der Herausforderungen &uuml;berzeugt, kannst du selbstverst&auml;ndlich Deine eigenen Challenges und Ideen mit der verf&uuml;gbaren Hardware realisieren!
 
-<a href='https://github.com/makezurich/open-challenge-ideas-2020/issues/new?assignees=&labels=&template=new-idea.md&title=%5BGive+your+idea+a+catchy+challenge+name%5D' class='btn event-primary-color my-4 waves-effect waves-light'>Submit your idea here!</a>"""
+Zur Verfügung gestellt von Dir"""
 
 [team_description]
 other = """Make Zurich ist dank der tollen Zusammenarbeit eines grossartigen Teams m&ouml;glich:"""

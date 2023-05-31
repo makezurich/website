@@ -65,13 +65,13 @@ Shared text documents, a folder full of sketches, datasets, and any other online
 
 ## But..I'm a _complete_ beginner!
 
-You have never participated in such a team work, you are not quite sure what you can contribute and you do not know anyone yet? Then you are in the right place! We will give you a hand to get started and answer any questions on Slack in the `#makezurich-support` channel. Remember: _there's no such thing as a stupid question._
+You have never participated in such a team work, you are not quite sure what you can contribute and you do not know anyone yet? Then you are in the right place! We will give you a hand to get started and answer any questions on Slack in the `#makezurich-help` channel. Remember: _there's no such thing as a stupid question._
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Hitchhiker%27s_Guide_to_the_Galaxy.svg/512px-The_Hitchhiker%27s_Guide_to_the_Galaxy.svg.png)
 
 ## What about Intellectual Property?
 
-The following licensing conditions apply to works created at Make Zurich 2020:
+The following licensing conditions apply to works created at Make Zurich 2023:
 
 * No transfer of rights: everyone retains the rights to anything they have created.
 * Waiver: No one will exercise any rights of exclusivity with respect to information they bring in, even if otherwise could exercise such right of exclusivity under the law.
