@@ -1,0 +1,71 @@
+@import url(https://makezurich.ch/css/bundle.min.909eb7fc67d28456f472f28b80803db6f7a2a48b5b9f35d929f3e17697c0146a.css);
+
+/* -----------------
+General theme tweaks
+-------------------- */
+
+body { background: url(https://makezurich.ch/images/background.jpg) no-repeat top right; background-size: cover; }
+body .btn-secondary { background-image: none; }
+body .btn.btn-light { color: black !important; }
+
+.darkmode { display: none; } /* sorry!.. */
+.admin-area .btn-secondary:hover { background: none; }
+
+
+/* -----------------
+Event pages
+-------------------- */
+
+.project-home .community-embed,
+.event-home .container.with-event {
+  background: white;
+  border-radius: 1em;
+  padding: 1em;
+}
+
+.challenge.hexagon .hexagontent {
+  color: #009;
+  font-weight: bold;
+}
+
+/* -----------------
+Projects and posts
+-------------------- */
+
+#project-post {
+  margin: 0px !important;
+  background: #ccc !important;
+  border: 1px solid #ccc;
+  color: black !important;
+}
+
+.project-page.jumbotron .btn {
+  color: black !important;
+  padding: 0px;
+  box-shadow: none;
+}
+
+/* ------------
+Code of Conduct
+--------------- */
+.codeofconduct { margin-top:20px; padding:10px; border-radius:10px; box-shadow: 
+		0 0 0 4px orange,
+		0 0 0 6px yellow,
+		0 0 0 10px cyan; }
+
+
+/* -----------------
+Footer styles
+-------------------- */
+
+.footer-block {
+  background-color: white;
+  text-align: center;
+  border-radius: 2px;
+  padding: 10px;
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer .footer-nav a { color: white; }
