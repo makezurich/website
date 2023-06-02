@@ -48,6 +48,10 @@ Projects and posts
   box-shadow: none;
 }
 
+.userprofile .profile-text {
+  background: white;
+}
+
 /* ------------
 Code of Conduct
 --------------- */
