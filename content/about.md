@@ -55,7 +55,7 @@ Feel free to bring your own materials to help you create a solution for a challe
 
 #### Where can I get in touch with other participants?
 
-On Slack! If you haven't joined already, [sign up for it](https://join.slack.com/t/ttn-ch/shared_invite/zt-1niklmix1-71hJ_TRSVFWreeovBjiPXQ).
+On Slack! If you haven't joined already, [sign up for it](https://join.slack.com/t/ttn-ch/shared_invite/zt-8tw3zlol-KDaiqrKZ8ZdMbqWoC7EVXQ).
 A large part of communication during the event will happen there!
 
 See also the results of our past events in the [2017](/2017/) and [2018](/2018/) reports and our official challenge platform: [NOW.makezurich.ch](https://now.makezurich.ch)
