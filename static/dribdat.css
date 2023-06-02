@@ -1,10 +1,9 @@
-@import url(https://makezurich.ch/css/bundle.min.909eb7fc67d28456f472f28b80803db6f7a2a48b5b9f35d929f3e17697c0146a.css);
+@import url(https://makezurich.ch/css/bundle.min.9928a633008d91c9c464e64f18be39ac3b0ae84ccf389d5eb770c4c7a1bad2dd.css);
 
 /* -----------------
 General theme tweaks
 -------------------- */
 
-body { background: url(https://makezurich.ch/images/background.jpg) no-repeat top right; background-size: cover; }
 body .btn-secondary { background-image: none; }
 body .btn.btn-light { color: black !important; }
 
@@ -26,6 +25,10 @@ Event pages
 .challenge.hexagon .hexagontent {
   color: #009;
   font-weight: bold;
+}
+
+.nav-categories label span { 
+  color: black !important; 
 }
 
 /* -----------------
