@@ -12,7 +12,7 @@ Make Zurich is a community event around civic tech and in particular, the [The T
 
 <!--more-->
 
-
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/832788146?h=5b3e1cd842&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Make Zurich 2023: Kick-off"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 **Slides:**
 
@@ -52,8 +52,7 @@ If you need more details, here's a [quick guide to Dribdat](../dribdat)
 
 You are welcome to use any collaboration tool, with emphasis on all platforms that can be freely shared with all team members. The central community Slack is available, everyone will be invited so you can easily have a chat with your team members:
 
-* Announcements in the [#makezurich](https://app.slack.com/client/T0CMJ6ESH/C3XSZ7NTF/thread/CB94UMQMC-1561794678.000600) channel
-* Look for a team or new members in [#canihasteam](https://app.slack.com/client/T0CMJ6ESH/C01CXFN2TT7/thread/CB94UMQMC-1561794678.000600)
+* Announcements and team building in the [#makezurich](https://app.slack.com/client/T0CMJ6ESH/C3XSZ7NTF/thread/CB94UMQMC-1561794678.000600) channel
 * Need other support at the event? [#makezurich-help](https://app.slack.com/client/T0CMJ6ESH/C01CRBDCTE2/thread/CB94UMQMC-1561794678.000600)
 
 ## 4. Hack and Make!
