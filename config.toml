@@ -531,13 +531,13 @@ languageName = "Deutsch"
     url = "/#challenges"
     weight = 4
 
-# [[languages.de.menu.highlighted]]
-#     # DURING
-#     name = "Projekte"
-#     url = "https://now.makezurich.ch/event/4"
-#     weight = 4
-#     pre = "btn-black"
-#     post = "fa-tasks"
+[[languages.de.menu.highlighted]]
+    # DURING
+    name = "Projekte"
+    url = "https://now.makezurich.ch/event/5"
+    weight = 4
+    pre = "btn-black"
+    post = "fa-tasks"
 
 # PRIMARY BUTTON LINK
 # Change links according to event stage:
