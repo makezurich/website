@@ -32,7 +32,7 @@ Groups to share knowledge and support each other in projects and civic tech init
 
 #### What is LoRaWAN?
 
-Long Range Wide Area Networks ([LoRaWAN](https://de.wikipedia.org/wiki/Long_Range_Wide_Area_Network) are a wireless technology, much like your regular WiFi, but it is ideal for IoT and battery powered sensors because it has a huge range and low energy requirements. 
+Long Range Wide Area Networks ([LoRaWAN](https://en.wikipedia.org/wiki/LoRa#LoRaWAN) are a wireless technology, much like your regular WiFi, but it is ideal for IoT and battery powered sensors because it has a huge range and low energy requirements. 
 
 Head over to [The Things Network](https://thethingsnetwork.org) website, and check out
 the *LEARN* section and the forum.
@@ -41,7 +41,7 @@ the *LEARN* section and the forum.
 
 We will provide a selection of hardware that we believe are suitable for the challenges.
 
-Check these  [fantastic software](https://github.com/makezurich/makezurich-software-intro/blob/master/README.md) intro by [Thomas Amberg](https://twitter.com/tamberg).
+Check this [fantastic software](https://github.com/makezurich/makezurich-software-intro/blob/master/README.md) intro by [Thomas Amberg](https://twitter.com/tamberg).
 
 #### Do we get to keep the provided material?
 
