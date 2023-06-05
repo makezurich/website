@@ -22,6 +22,17 @@
   top: -80px;
 }
 
+/* Responsive schedule hack by reustle.org */
+
+@media (max-width: 500px) {
+  #schedule .card {
+    overflow-y: scroll;
+  }
+  #schedule .card-body {
+    min-width: 400px;
+  }
+}
+
 /* COVID */
 
 .covid-protection .card-body {

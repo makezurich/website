@@ -4,12 +4,13 @@
 General theme tweaks
 -------------------- */
 
+body .project-buttons .btn-lg,
+body .btn-group .btn-lg { border: 1px solid transparent; }
 body .btn-secondary { background-image: none; }
+body .btn-group .btn-secondary:hover { background-color: #a6c !important; }
 body .btn.btn-light { color: black !important; }
 
 .darkmode { display: none; } /* sorry!.. */
-.admin-area .btn-secondary:hover { background: none; }
-
 
 /* -----------------
 Event pages
@@ -51,6 +52,16 @@ Projects and posts
 
 .userprofile .profile-text {
   background: white;
+}
+
+.project-page.jumbotron .btn.btn-light {
+  padding: 0.5em 1em;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+  border: 1px solid aliceblue;
+}
+.project-page.jumbotron .btn.btn-light:hover {
+  border-color: black;
+  box-shadow: none;
 }
 
 /* ------------
