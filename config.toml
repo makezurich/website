@@ -225,6 +225,12 @@ logo = "/images/partners/logo-u-blox.png"
 url = "https://www.u-blox.ch"
 class = "my-3 w-50"
 
+[[params.partners.sponsors]]
+name = "Seeed Studio"
+logo = "/images/partners/logo-seeedstudio.png"
+url = "https://www.seeedstudio.com/"
+class = "my-4 w-50"
+
 # [[params.partners.sponsors]]
 # name = "Helium"
 # logo = "/images/partners/logo-helium.png"
