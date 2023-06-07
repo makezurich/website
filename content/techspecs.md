@@ -8,7 +8,9 @@ aliases = ["/de/techspecs"]
 
 +++
 
-Here are all the datasheets, technical specifications, libraries and other useful resources for all the available hardware.
+Here are all the datasheets, technical specifications, libraries and other useful resources for all the available hardware. 
+
+##### _This is being updated in real time, please stay tuned, and check in with us on Slack #makezurich-help if you have questions._
 
 **For examples and additional information, please check this [hardware intro](https://github.com/makezurich/makezurich-hardware-intro) <i class="fa fa-angle-double-right"></i>**
 
