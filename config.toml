@@ -383,23 +383,27 @@ class = "my-3 w-50"
 [[params.challenges]]
 image = "/images/challenges/2023/01-EnergySaving.jpg"
 i18n = "ch1"
+url = "https://makezurich.ch/start/1"
 
 [[params.challenges]]
 image = "/images/challenges/2023/02-MoreEngagement.jpg"
 i18n = "ch2"
+url = "https://makezurich.ch/start/2"
 
 [[params.challenges]]
 image = "/images/challenges/2023/03-EnergyAssistant.jpg"
 i18n = "ch3"
+url = "https://makezurich.ch/start/3"
 
 [[params.challenges]]
 image = "/images/challenges/2023/04-PublicTransport.jpg"
 i18n = "ch4"
+url = "https://makezurich.ch/start/4"
 
 [[params.challenges]]
 image = "/images/challenges/2023/05-OpenChallenge.jpg"
-url = "https://now.makezurich.ch/event/5"
 i18n = "open"
+url = "https://makezurich.ch/start/5"
 
 [[params.features]]
 name = "learning"
