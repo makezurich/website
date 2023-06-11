@@ -500,12 +500,12 @@ languageName = "English"
     # name = "Register"
     # url = "/register"
     # DURING
-    name = "Getting started"
-    url = "/start"
+    # name = "Getting started"
+    # url = "/start"
 
     # AFTER
-    # name = "Projects"
-    # url = "https://now.makezurich.ch/event/4"
+    name = "Projects"
+    url = "https://now.makezurich.ch/event/5"
 
     weight = 5
     pre = "btn-black"
@@ -518,11 +518,12 @@ languageName = "English"
     # name = "Register"
     # url = "/register"
     # DURING
-    name = "Getting started"
-    url = "/start"
+    # name = "Getting started"
+    # url = "/start"
     # AFTER
-    # name = "Projects"
-    # url = "https://now.makezurich.ch/event/4"
+    name = "Projects"
+    url = "https://now.makezurich.ch/event/5"
+
     pre = "event-primary-color"
     post = "fa-sign-in"
 
@@ -563,11 +564,11 @@ languageName = "Deutsch"
     # name = "Anmelden"
     # url = "/register"
     # DURING
-    name = "Getting started"
-    url = "/de/start"
+    # name = "Getting started"
+    # url = "/de/start"
     # AFTER
-    # name = "Projekte"
-    # url = "https://now.makezurich.ch/event/4"
+    name = "Projekte"
+    url = "https://now.makezurich.ch/event/5"
 
     weight = 5
     pre = "btn-black"
@@ -580,11 +581,11 @@ languageName = "Deutsch"
     # name = "Anmelden"
     # url = "/register"
     # DURING
-    name = "Getting started"
-    url = "/de/start"
+    # name = "Getting started"
+    # url = "/de/start"
     # AFTER
-    # name = "Projekte"
-    # url = "https://now.makezurich.ch/event/4"
+    name = "Projekte"
+    url = "https://now.makezurich.ch/event/5"
 
     pre = "event-primary-color"
     post = "fa-sign-in"
