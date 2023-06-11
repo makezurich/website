@@ -505,11 +505,11 @@ languageName = "English"
 
     # AFTER
     name = "Projects"
-    url = "https://now.makezurich.ch/event/5"
+    url = "/projects"
 
     weight = 5
     pre = "btn-black"
-    post = "fa-sign-in"
+    post = ""
 
 # PRIMARY BUTTON LINK (Hero)
 # Same as the one above
@@ -522,10 +522,10 @@ languageName = "English"
     # url = "/start"
     # AFTER
     name = "Projects"
-    url = "https://now.makezurich.ch/event/5"
+    url = "/projects"
 
     pre = "event-primary-color"
-    post = "fa-sign-in"
+    post = ""
 
 [languages.de]
 weight = 2
@@ -568,11 +568,11 @@ languageName = "Deutsch"
     # url = "/de/start"
     # AFTER
     name = "Projekte"
-    url = "https://now.makezurich.ch/event/5"
+    url = "/de/projekte"
 
     weight = 5
     pre = "btn-black"
-    post = "fa-sign-in"
+    post = ""
 
 # PRIMARY BUTTON LINK (Hero)
 # Same as the one above
@@ -585,10 +585,10 @@ languageName = "Deutsch"
     # url = "/de/start"
     # AFTER
     name = "Projekte"
-    url = "https://now.makezurich.ch/event/5"
+    url = "/de/projekte"
 
     pre = "event-primary-color"
-    post = "fa-sign-in"
+    post = ""
 
 # Hugo's Markdown rendering engine options
 [blackfriday]

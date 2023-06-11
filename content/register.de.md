@@ -4,6 +4,7 @@ weight = 2
 type = "info"
 layout = "register"
 aliases = ["/de/sign-up"]
+expiryDate = 2023-06-10T18:00:00+02:00
 
 [menu.footer]
   pre = "event-primary-color"
