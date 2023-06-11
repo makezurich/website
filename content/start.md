@@ -19,7 +19,9 @@ Make Zurich is a community event around civic tech and in particular, the [The T
 **Slides:**
 
 * [**Kick-off slides, 2nd June** <i class="fa fa-file-powerpoint-o ml-2"></i>](https://docs.google.com/presentation/d/1rYzPH4GS2FUBItV512o2aVRx134-k-Ogr8T5pfGxU20/edit?usp=drivesdk)
-* [**Welcome session, 8th June** <i class="fa fa-file-powerpoint-o ml-2"></i>](https://docs.google.com/presentation/d/1zdhL8ixMB2MKINzCciUeAKtGvtfL3TK3dG9EgxU-0MI/edit?usp=sharing)
+* [**Welcome session, 9th June** <i class="fa fa-file-powerpoint-o ml-2"></i>](https://docs.google.com/presentation/d/1zdhL8ixMB2MKINzCciUeAKtGvtfL3TK3dG9EgxU-0MI/edit?usp=sharing)
+* [**Final project presentations, 10th June** <i class="fa fa-file-powerpoint-o ml-2"></i>](https://docs.google.com/presentation/d/1mc68Ft4rzMD4WybsfTqpy9LSqzfZLihI4_zJ5ma66o4/edit?usp=sharing)
+
 
 <img src="/images/challenges/howto.png" alt="Mini HOWTO" width="100%" />
 
