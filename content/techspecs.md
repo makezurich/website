@@ -3,6 +3,7 @@ title = "Technical Specs & Datasheets"
 weight = 4
 type = "info"
 aliases = ["/de/techspecs"]
+expiryDate = 2020-12-30T18:00:00+02:00
 
 [menu.footer]
 
