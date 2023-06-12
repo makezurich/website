@@ -10,7 +10,7 @@ aliases = ["/de/projekte"]
 
 Make Zurich is a community event around civic tech and in particular, the [The Things Network](https://thethingsnetwork.org) community. It brings together the maker community and the city administration to devise creative solutions to our city's problems.
 
-On June 10th 2023, at the closing session of this year's edition, 26 participants in 15 different teams presented their ideas, prototypes and creative solutions for the 5 challenges posed by the city administration.
+On June 10th 2023, at the closing session of this year's edition, 27 participants in 15 different teams presented their ideas, prototypes and creative solutions for the 5 challenges posed by the city administration.
 
 You can relive the presentations right below, and explore each of the projects and respective documentation on the links below.
 
